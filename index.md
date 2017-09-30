@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Overview
 
-You can use the [editor on GitHub](https://github.com/filipvanlaenen/belgian_polls/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Period     | Pollster/Media   | N-VA | PS | CD&V | VLD | MR | SP.A | GROEN | CDH | VB | ECOLO | PTB | DÉFI | PVDA | PP | DLB | LDD | DROITE | PIRAAT | WDA | PIRATE | RWF | FW |
+|:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2014 | General Election | 20.3% <br> 33 | 11.7% <br> 23 | 11.6% <br> 18 | 9.8% <br> 14 | 9.6% <br> 20 | 8.8% <br> 13 | 5.3% <br> 6 | 5.0% <br> 9 | 3.7% <br> 3 | 3.3% <br> 6 | 2.0% <br> 2 | 1.8% <br> 2 | 1.8% <br> 0 | 1.5% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 |
+| N/A | [Poll Average](average.html) | N/A <br> 24–33 | N/A <br> N/A | N/A <br> 13–19 | N/A <br> 8–14 | N/A <br> N/A | N/A <br> 6–13 | N/A <br> 10–15 | N/A <br> N/A | N/A <br> 5–13 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–33% <br> 27–34 | N/A <br> N/A | 14–19% <br> 13–18 | 10–14% <br> 8–13 | N/A <br> N/A | 10–14% <br> 9–13 | 11–16% <br> 10–15 | N/A <br> N/A | 6–10% <br> 5–8 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 24–31% <br> 24–32 | N/A <br> N/A | 14–20% <br> 13–20 | 10–15% <br> 8–15 | N/A <br> N/A | 7–12% <br> 5–11 | 10–15% <br> 9–15 | N/A <br> N/A | 9–14% <br> 8–14 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| 25 May 2014 | General Election | 20.3% <br> 33 | 11.7% <br> 23 | 11.6% <br> 18 | 9.8% <br> 14 | 9.6% <br> 20 | 8.8% <br> 13 | 5.3% <br> 6 | 5.0% <br> 9 | 3.7% <br> 3 | 3.3% <br> 6 | 2.0% <br> 2 | 1.8% <br> 2 | 1.8% <br> 0 | 1.5% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 |
 
-### Markdown
+Only polls for which at least the sample size has been published are included in the table above.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Legend:**
++ **Top half of each row:** Voting intentions (95% confidence interval)
++ **Bottom half of each row:** Seat projections for the Belgian Chamber (95% confidence interval)
++ **N-VA:** N-VA
++ **PS:** PS
++ **CD&V:** CD&V
++ **VLD:** Open Vld
++ **MR:** MR
++ **SP.A:** sp.a
++ **GROEN:** Groen
++ **CDH:** cdH
++ **VB:** Vlaams Belang
++ **ECOLO:** Ecolo
++ **PTB:** PTB
++ **DÉFI:** DéFI
++ **PVDA:** PVDA
++ **PP:** Parti Populaire
++ **DLB:** Debout les Belges
++ **LDD:** Lijst Dedecker
++ **DROITE:** La Droite
++ **PIRAAT:** Piratenpartij
++ **WDA:** Wallonie d’Abord
++ **PIRATE:** PIRATE
++ **RWF:** R.W.F.
++ **FW:** FW
++ **N/A (single party):** Party not included the published results
++ **N/A (entire row):** Calculation for this opinion poll not started yet
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![Graph with voting intentions not yet produced](average.png "Voting Intentions")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/filipvanlaenen/belgian_polls/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Graph with seats not yet produced](average-seats.png "Seats")
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
