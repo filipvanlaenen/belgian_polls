@@ -46,21 +46,21 @@
 | <a href="#sp.a">sp.a</a> | 13 | 13 | 13–16 |12–17 |11–17 |10–18 |
 | <a href="#open-vld">Open Vld</a> | 14 | 13 | 12–15 |11–17 |11–17 |11–17 |
 | <a href="#vlaams-belang">Vlaams Belang</a> | 3 | 12 | 10–14 |8–14 |8–15 |8–15 |
-| <a href="#ps">PS</a> | 23 | 15 | N/A |N/A |N/A |N/A |
-| <a href="#mr">MR</a> | 20 | 14 | N/A |N/A |N/A |N/A |
+| <a href="#ps">PS</a> | 23 | 15 | 14–17 |13–17 |13–18 |12–18 |
+| <a href="#mr">MR</a> | 20 | 14 | 13–16 |13–16 |12–16 |11–18 |
 | <a href="#groen">Groen</a> | 6 | 9 | 6–10 |6–11 |6–12 |5–12 |
-| <a href="#ptb">PTB</a> | 2 | 8 | N/A |N/A |N/A |N/A |
-| <a href="#cdh">cdH</a> | 9 | 6 | N/A |N/A |N/A |N/A |
+| <a href="#ptb">PTB</a> | 2 | 8 | 6–8 |6–9 |5–9 |5–10 |
+| <a href="#cdh">cdH</a> | 9 | 6 | 4–7 |3–7 |3–7 |3–8 |
 | <a href="#pvda">PVDA</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#ecolo">Ecolo</a> | 6 | 4 | N/A |N/A |N/A |N/A |
-| <a href="#parti-populaire">Parti Populaire</a> | 1 | 1 | N/A |N/A |N/A |N/A |
-| <a href="#défi">DéFI</a> | 2 | 0 | N/A |N/A |N/A |N/A |
+| <a href="#ecolo">Ecolo</a> | 6 | 4 | 3–6 |3–6 |2–6 |1–7 |
+| <a href="#parti-populaire">Parti Populaire</a> | 1 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#défi">DéFI</a> | 2 | 0 | 0 |0 |0–1 |0–3 |
 | <a href="#piratenpartij">Piratenpartij</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#la-droite">La Droite</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#pirate">PIRATE</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#fw">FW</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | N/A |N/A |N/A |N/A |
+| <a href="#la-droite">La Droite</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#pirate">PIRATE</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#fw">FW</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### N-VA
 

@@ -46,25 +46,25 @@
 | <a href="#n-va">N-VA</a> | 33 | 32 | 29–34 |29–35 |28–36 |27–37 |
 | <a href="#cd&v">CD&V</a> | 18 | 17 | 14–18 |14–19 |13–20 |13–21 |
 | <a href="#open-vld">Open Vld</a> | 14 | 13 | 12–17 |12–17 |12–17 |11–18 |
-| <a href="#ps">PS</a> | 23 | 18 | N/A |N/A |N/A |N/A |
+| <a href="#ps">PS</a> | 23 | 18 | 17–20 |16–20 |16–21 |16–22 |
 | <a href="#sp.a">sp.a</a> | 13 | 13 | 13–15 |12–15 |12–16 |10–18 |
-| <a href="#mr">MR</a> | 20 | 16 | N/A |N/A |N/A |N/A |
+| <a href="#mr">MR</a> | 20 | 16 | 14–17 |14–18 |14–19 |12–19 |
 | <a href="#groen">Groen</a> | 6 | 8 | 6–10 |6–10 |5–10 |5–12 |
-| <a href="#cdh">cdH</a> | 9 | 7 | N/A |N/A |N/A |N/A |
+| <a href="#cdh">cdH</a> | 9 | 7 | 5–8 |4–8 |4–8 |4–8 |
 | <a href="#vlaams-belang">Vlaams Belang</a> | 3 | 2 | 1–5 |1–5 |0–6 |0–7 |
-| <a href="#ecolo">Ecolo</a> | 6 | 3 | N/A |N/A |N/A |N/A |
-| <a href="#ptb">PTB</a> | 2 | 3 | N/A |N/A |N/A |N/A |
+| <a href="#ecolo">Ecolo</a> | 6 | 3 | 1–5 |1–5 |1–5 |1–6 |
+| <a href="#ptb">PTB</a> | 2 | 3 | 2–4 |2–4 |2–5 |1–5 |
 | <a href="#pvda">PVDA</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#parti-populaire">Parti Populaire</a> | 1 | 1 | N/A |N/A |N/A |N/A |
-| <a href="#défi">DéFI</a> | 2 | 0 | N/A |N/A |N/A |N/A |
+| <a href="#parti-populaire">Parti Populaire</a> | 1 | 1 | 0–2 |0–2 |0–2 |0–2 |
+| <a href="#défi">DéFI</a> | 2 | 0 | 0 |0 |0 |0 |
 | <a href="#piratenpartij">Piratenpartij</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#la-droite">La Droite</a> | 0 | 0 | N/A |N/A |N/A |N/A |
+| <a href="#la-droite">La Droite</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#lijst-dedecker">Lijst Dedecker</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
-| <a href="#pirate">PIRATE</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#debout-les-belges">Debout les Belges</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#fw">FW</a> | 0 | 0 | N/A |N/A |N/A |N/A |
-| <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | N/A |N/A |N/A |N/A |
+| <a href="#pirate">PIRATE</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#debout-les-belges">Debout les Belges</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#fw">FW</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#r.w.f.">R.W.F.</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### N-VA
 
