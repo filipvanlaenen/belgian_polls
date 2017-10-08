@@ -82,10 +82,10 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 28 | 26–30 | 25–31 | 24–31 | 24–32 |
-| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 31 | 27–31 | 27–31 | 26–31 |
-| [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27 | 25–29 | 24–30 | 24–31 | 23–31 |
-| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 26 | 24–28 | 24–29 | 23–29 | 22–30 |
-| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 24 | 23–28 | 22–28 | 22–29 | 20–30 |
+| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 26 | 24–28 | 24–29 | 23–30 | 21–31 |
+| [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
+| [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 26 | 24–28 | 24–28 | 23–29 | 22–31 |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 24 | 24–28 | 23–28 | 22–29 | 20–30 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 24 | 23–26 | 22–27 | 21–27 | 20–28 |
 | [31 March– 4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 24 | 23–27 | 22–28 | 22–29 | 20–30 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 27 | 24–28 | 24–29 | 23–29 | 23–31 |
