@@ -1,5 +1,7 @@
 # Opinion Poll by Dedicated for MR, 23–27 June 2017
 
+Areas included: Flanders, Wallonia, Brussels
+
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions

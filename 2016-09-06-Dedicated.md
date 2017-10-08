@@ -1,5 +1,7 @@
 # Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016
 
+Areas included: Flanders, Wallonia
+
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions

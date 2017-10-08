@@ -1,5 +1,7 @@
 # Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014
 
+Areas included: Flanders
+
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
