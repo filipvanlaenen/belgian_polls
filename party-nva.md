@@ -100,12 +100,12 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 29 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 30 | 28–32 | 27–32 | 27–33 | 26–34 |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
-| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 28 | 26–31 | 25–31 | 24–31 | 24–33 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 28–33 | 28–34 | 27–34 | 26–36 |
-| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 29 | 27–32 | 27–32 | 26–33 | 25–34 |
+| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 28 | 26–31 | 25–31 | 24–31 | 24–32 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 29–33 | 28–34 | 27–35 | 26–37 |
+| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 29 | 27–32 | 26–33 | 26–33 | 25–34 |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 30 | 27–31 | 26–32 | 26–32 | 25–34 |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 32 | 29–34 | 29–35 | 28–36 | 27–37 |
-| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 33 | 30–35 | 30–36 | 29–37 | 28–37 |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 30–33 | 29–34 | 28–34 | 27–36 |
+| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 33 | 31–35 | 30–36 | 29–37 | 28–37 |
 
 ### Probability Mass Function
 

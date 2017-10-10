@@ -96,13 +96,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 6–8 | 5–8 | 5–8 | 3–8 |
 | [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6 | 4–8 | 3–8 | 3–8 | 2–8 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6 | 5–7 | 5–8 | 5–8 | 3–8 |
-| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 3–7 | 3–7 | 2–7 | 2–8 |
-| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 4 | 2–6 | 2–6 | 2–7 | 1–7 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2 | 2–5 | 1–6 | 1–6 | 0–7 |
-| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 7 | 5–8 | 5–8 | 4–8 | 2–8 |
-| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 5 | 2–6 | 2–6 | 2–7 | 1–7 |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2 | 1–5 | 1–5 | 0–6 | 0–7 |
-| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 2 | 2–5 | 1–6 | 1–6 | 0–7 |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
+| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 4 | 2–6 | 2–7 | 2–7 | 1–7 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3 | 1–6 | 1–6 | 0–6 | 0–7 |
+| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 7 | 5–8 | 5–8 | 5–8 | 2–8 |
+| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 5 | 2–6 | 2–7 | 2–7 | 2–7 |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2 | 2–5 | 1–5 | 1–5 | 0–7 |
+| [July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3 | 2–5 | 1–6 | 1–6 | 0–7 |
 
 ### Probability Mass Function
 
