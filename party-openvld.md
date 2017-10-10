@@ -86,12 +86,12 @@ Last result: **14** seats (General Election of 25 May 2014)
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 11–13 | 9–13 | 8–14 |
-| [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 13 | 12–15 | 11–16 | 11–17 | 11–18 |
-| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–15 | 11–17 | 11–17 | 11–18 |
-| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–17 | 12–17 | 12–18 | 11–18 |
+| [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 13 | 12–15 | 12–16 | 11–17 | 11–18 |
+| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–15 | 11–16 | 11–17 | 11–18 |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–17 | 12–18 | 12–18 | 11–18 |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 14 | 12–17 | 12–17 | 12–18 | 12–18 |
-| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 12–14 | 11–15 | 11–16 | 11–17 |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–17 | 12–17 | 12–18 | 11–18 |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 11–14 | 11–15 | 11–17 | 11–18 |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–17 | 12–18 | 12–18 | 11–18 |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 12–15 | 12–16 | 11–17 | 11–18 |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 12–14 | 11–15 | 11–16 | 11–17 |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 11 | 10–12 | 8–13 | 8–13 | 8–14 |

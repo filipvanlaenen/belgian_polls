@@ -90,13 +90,13 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10 | 8–12 | 8–12 | 8–13 | 8–13 |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 8–10 | 8–11 | 8–12 | 7–12 |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 5 | 4–7 | 2–7 | 2–7 | 2–8 |
-| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 7–8 | 7–10 | 6–11 | 6–12 |
+| [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 7–8 | 7–9 | 6–10 | 6–12 |
 | [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 7 | 5–8 | 5–8 | 4–8 | 2–8 |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 2 | 2–5 | 1–5 | 1–5 | 0–6 |
-| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 5–8 | 5–8 | 5–8 | 4–8 |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6 | 4–8 | 3–8 | 2–8 | 2–8 |
-| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6 | 5–8 | 5–8 | 4–8 | 2–8 |
-| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 3–7 | 3–7 | 2–8 | 2–8 |
+| [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 6–8 | 5–8 | 5–8 | 3–8 |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6 | 4–8 | 3–8 | 3–8 | 2–8 |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6 | 5–7 | 5–8 | 5–8 | 3–8 |
+| [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 3–7 | 3–7 | 2–7 | 2–8 |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 4 | 2–6 | 2–6 | 2–7 | 1–7 |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2 | 2–5 | 1–6 | 1–6 | 0–7 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 7 | 5–8 | 5–8 | 4–8 | 2–8 |
