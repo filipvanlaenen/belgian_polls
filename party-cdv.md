@@ -11,7 +11,7 @@ Last result: **11.6%** (General Election of 25 May 2014)
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16.5% | 14.8–18.5% | 14.4–19.1% | 14.0–19.6% | 13.3–20.7% |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10.7% | 14.6–17.7% | 14.2–18.1% | 13.9–18.5% | 13.2–19.3% |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10.1% | 14.6–17.7% | 14.2–18.1% | 13.9–18.5% | 13.2–19.3% |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 10.5% | 15.2–19.0% | 14.6–19.6% | 14.2–20.1% | 13.4–21.1% |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 18.6% | 17.1–20.3% | 16.7–20.7% | 16.4–21.1% | 15.7–21.9% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 14.1% | 12.6–15.8% | 12.1–16.3% | 11.8–16.7% | 11.1–17.6% |
