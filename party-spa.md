@@ -70,10 +70,10 @@ Last result: **13** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10 | 9–13 | 8–13 | 8–13 | 8–14 |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 9–13 | 9–13 | 9–13 | 9–14 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 8 | 6–9 | 6–10 | 6–11 | 5–13 |
+| N/A | [Poll Average](average.html) | 11 | 11–13 | 9–13 | 9–14 | 8–14 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 12 | 9–13 | 9–13 | 9–13 | 8–13 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 11–13 | 11–14 | 11–14 | 9–14 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 9 | 6–9 | 6–11 | 5–11 | 5–11 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 10–14 | 9–14 | 9–15 | 9–15 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
@@ -109,16 +109,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.1% | 100% |  |
-| 7 | 0.2% | 99.9% |  |
-| 8 | 7% | 99.7% |  |
-| 9 | 41% | 93% |  |
-| 10 | 14% | 52% | Median |
-| 11 | 17% | 39% |  |
-| 12 | 8% | 22% |  |
-| 13 | 13% | 13% | Last Result |
-| 14 | 0.6% | 0.7% |  |
-| 15 | 0.1% | 0.1% |  |
+| 8 | 0.9% | 100% |  |
+| 9 | 8% | 99.1% |  |
+| 10 | 0% | 91% |  |
+| 11 | 54% | 91% | Median |
+| 12 | 9% | 37% |  |
+| 13 | 24% | 28% | Last Result |
+| 14 | 4% | 4% |  |
+| 15 | 0.2% | 0.2% |  |
 | 16 | 0% | 0% |  |
 
 

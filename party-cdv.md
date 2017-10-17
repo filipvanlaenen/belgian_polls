@@ -72,10 +72,10 @@ Last result: **18** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 14–19 | 13–21 | 13–21 | 13–22 |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 18 | 18–21 | 17–21 | 16–22 | 15–23 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 13–18 | 13–18 | 13–18 | 13–18 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 18 | 14–18 | 13–19 | 13–20 | 13–22 |
+| N/A | [Poll Average](average.html) | 15 | 14–18 | 13–18 | 13–18 | 13–22 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 18 | 15–18 | 15–18 | 15–18 | 15–22 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14 | 13–15 | 13–15 | 13–16 | 13–17 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 18 | 14–18 | 13–18 | 12–18 | 12–20 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–14 | 11–15 | 10–16 | 9–18 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
@@ -111,18 +111,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.1% | 100% |  |
-| 13 | 7% | 99.9% |  |
-| 14 | 18% | 93% |  |
-| 15 | 7% | 76% |  |
-| 16 | 8% | 69% |  |
-| 17 | 5% | 61% |  |
-| 18 | 39% | 56% | Last Result, Median |
-| 19 | 7% | 17% |  |
-| 20 | 4% | 10% |  |
-| 21 | 4% | 6% |  |
-| 22 | 1.5% | 2% |  |
-| 23 | 0.3% | 0.3% |  |
-| 24 | 0% | 0% |  |
+| 13 | 8% | 100% |  |
+| 14 | 30% | 92% |  |
+| 15 | 32% | 62% | Median |
+| 16 | 1.2% | 30% |  |
+| 17 | 0.2% | 29% |  |
+| 18 | 28% | 29% | Last Result |
+| 19 | 0% | 0.7% |  |
+| 20 | 0% | 0.7% |  |
+| 21 | 0% | 0.7% |  |
+| 22 | 0.6% | 0.7% |  |
+| 23 | 0% | 0% |  |
 
 
