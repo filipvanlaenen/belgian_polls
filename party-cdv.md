@@ -72,14 +72,14 @@ Last result: **18** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–18 | 13–18 | 13–18 | 13–22 |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 18 | 15–18 | 15–18 | 15–18 | 15–22 |
+| N/A | [Poll Average](average.html) | 16 | 14–19 | 13–21 | 13–21 | 13–22 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 18 | 18–21 | 17–21 | 16–22 | 15–23 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14 | 13–15 | 13–15 | 13–16 | 13–17 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 18 | 14–18 | 13–18 | 12–18 | 12–20 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 18 | 16–19 | 15–20 | 15–20 | 14–21 |
-| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–14 | 11–15 | 10–16 | 9–18 |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 13 | 13 | 9–13 | 9–15 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
-| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 14 | 13–16 | 13–17 | 13–18 | 12–18 |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 13 | 13 | 13–15 | 10–18 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 15 | 13–18 | 13–18 | 13–18 | 13–19 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 15 | 13–18 | 13–18 | 13–18 | 13–18 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18 | 15–18 | 14–18 | 13–19 | 13–21 |
@@ -112,15 +112,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 8% | 100% |  |
-| 14 | 30% | 92% |  |
-| 15 | 32% | 62% | Median |
-| 16 | 1.2% | 30% |  |
-| 17 | 0.2% | 29% |  |
-| 18 | 28% | 29% | Last Result |
-| 19 | 0% | 0.7% |  |
-| 20 | 0% | 0.7% |  |
-| 21 | 0% | 0.7% |  |
-| 22 | 0.6% | 0.7% |  |
-| 23 | 0% | 0% |  |
+| 14 | 31% | 92% |  |
+| 15 | 11% | 62% |  |
+| 16 | 2% | 51% | Median |
+| 17 | 2% | 49% |  |
+| 18 | 30% | 47% | Last Result |
+| 19 | 7% | 17% |  |
+| 20 | 4% | 9% |  |
+| 21 | 4% | 6% |  |
+| 22 | 1.5% | 2% |  |
+| 23 | 0.3% | 0.3% |  |
+| 24 | 0% | 0% |  |
 
 

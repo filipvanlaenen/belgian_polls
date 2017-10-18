@@ -68,14 +68,14 @@ Last result: **3** seats (General Election of 25 May 2014)
 
 | Period     | Pollster/Media   | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–8 | 5–8 | 5–8 | 5–8 |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 5 | 5–6 | 5–6 | 5–6 | 5–6 |
+| N/A | [Poll Average](average.html) | 7 | 3–8 | 2–8 | 2–8 | 2–8 |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 5 | 2–6 | 2–7 | 2–7 | 2–7 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 7–8 | 7–8 | 5–8 | 5–8 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 8 | 8–12 | 8–12 | 8–13 | 8–13 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 6 | 5–8 | 5–8 | 5–8 | 3–8 |
-| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 8–12 | 8–13 | 8–13 | 8–14 |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 13 | 12–13 | 12–13 | 8–13 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
-| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 8–11 | 8–12 | 7–12 | 7–12 |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 12 | 8–13 | 8–13 | 6–13 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 8–13 | 8–13 | 8–14 | 8–15 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 7 | 5–8 | 5–8 | 5–8 | 3–8 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 8–12 | 8–13 | 8–13 | 8–14 |
@@ -107,12 +107,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 0% | 99.8% | Last Result |
-| 4 | 0.2% | 99.8% |  |
-| 5 | 29% | 99.7% |  |
-| 6 | 23% | 71% | Median |
-| 7 | 3% | 48% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 8% | 99.9% |  |
+| 3 | 3% | 91% | Last Result |
+| 4 | 2% | 88% |  |
+| 5 | 24% | 86% |  |
+| 6 | 11% | 62% |  |
+| 7 | 6% | 51% | Median |
 | 8 | 45% | 45% |  |
 | 9 | 0% | 0% |  |
 
