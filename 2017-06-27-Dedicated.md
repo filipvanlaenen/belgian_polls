@@ -736,8 +736,8 @@ Areas included: Brussels, Flanders, Wallonia
 
 ### Opinion Poll
 
-+ **Pollster:** Dedicated
-+ **Media:** MR
++ **Polling firm:** Dedicated
++ **Commissioner(s):** MR
 + **Fieldwork period:** 23–27 June 2017
 
 ### Calculations

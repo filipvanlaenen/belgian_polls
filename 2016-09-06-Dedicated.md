@@ -746,8 +746,8 @@ Areas included: Flanders, Wallonia
 
 ### Opinion Poll
 
-+ **Pollster:** Dedicated
-+ **Media:** RTBf–La Libre Belgique
++ **Polling firm:** Dedicated
++ **Commissioner(s):** RTBf–La Libre Belgique
 + **Fieldwork period:** 2–6 September 2016
 
 ### Calculations
