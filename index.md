@@ -2,8 +2,8 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Pollster/Media   | N-VA | PS | CD&V | VLD | MR | SP.A | GROEN | CDH | VB | ECOLO | PTB | DÉFI | PVDA | PP | DLB | LDD | DROITE | PIRAAT | ISLAM | WDA | PIRATE | RWF | FW |
-|:----------:|:----------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Period     | Polling firm/Commissioner(s) | N-VA | PS | CD&V | VLD | MR | SP.A | GROEN | CDH | VB | ECOLO | PTB | DÉFI | PVDA | PP | DLB | LDD | DROITE | PIRAAT | ISLAM | WDA | PIRATE | RWF | FW |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 20.3% <br> 33 | 11.7% <br> 23 | 11.6% <br> 18 | 9.8% <br> 14 | 9.6% <br> 20 | 8.8% <br> 13 | 5.3% <br> 6 | 5.0% <br> 9 | 3.7% <br> 3 | 3.3% <br> 6 | 2.0% <br> 2 | 1.8% <br> 2 | 1.8% <br> 0 | 1.5% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 |
 | N/A | [Poll Average](average.html) | 26–33% <br> 25–34 | N/A <br> 14–17 | 14–22% <br> 13–21 | 10–17% <br> 9–17 | N/A <br> 15–19 | 10–14% <br> 8–13 | 12–16% <br> 11–15 | N/A <br> 4–6 | 5–10% <br> 2–8 | N/A <br> 8–16 | N/A <br> 8–12 | N/A <br> 2–7 | 4–7% <br> 0 | N/A <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> 0 | N/A <br> N/A | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 25–31% <br> 24–31 | N/A <br> 14–17 | 17–22% <br> 16–22 | 13–18% <br> 12–17 | N/A <br> 14–18 | 9–13% <br> 8–12 | 12–16% <br> 11–15 | N/A <br> 4–6 | 5–8% <br> 2–7 | N/A <br> 12–16 | N/A <br> 8–10 | N/A <br> 2–6 | 4–7% <br> 0 | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
