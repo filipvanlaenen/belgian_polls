@@ -68,6 +68,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-nva.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 19 | 0% | 100% |  |
@@ -90,6 +92,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
@@ -107,6 +111,8 @@ Areas included: Flanders, Wallonia
 ### sp.a
 
 *For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -127,6 +133,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-openvld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.1% | 100% |  |
@@ -145,6 +153,8 @@ Areas included: Flanders, Wallonia
 ### Vlaams Belang
 
 *For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -168,6 +178,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [PS](party-ps.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.2% | 100% |  |
@@ -187,6 +199,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [MR](party-mr.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-mr.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
@@ -205,6 +219,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-groen.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 1.5% | 100% |  |
@@ -220,6 +236,8 @@ Areas included: Flanders, Wallonia
 ### PTB
 
 *For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-ptb.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -238,6 +256,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-cdh.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 7% | 100% |  |
@@ -252,6 +272,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -259,6 +281,8 @@ Areas included: Flanders, Wallonia
 ### Ecolo
 
 *For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-ecolo.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -275,6 +299,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [Parti Populaire](party-partipopulaire.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-partipopulaire.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 36% | 100% |  |
@@ -286,6 +312,8 @@ Areas included: Flanders, Wallonia
 ### DéFI
 
 *For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-dfi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -299,6 +327,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [Piratenpartij](party-piratenpartij.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-piratenpartij.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 99.8% | 100% | Last Result, Median |
@@ -309,6 +339,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [La Droite](party-ladroite.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-ladroite.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -316,6 +348,8 @@ Areas included: Flanders, Wallonia
 ### Wallonie d’Abord
 
 *For a full overview of the results for this party, see the [Wallonie d’Abord](party-walloniedabord.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-walloniedabord.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -325,6 +359,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [PIRATE](party-pirate.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-pirate.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -333,6 +369,8 @@ Areas included: Flanders, Wallonia
 
 *For a full overview of the results for this party, see the [FW](party-fw.html) page.*
 
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-fw.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -340,6 +378,8 @@ Areas included: Flanders, Wallonia
 ### R.W.F.
 
 *For a full overview of the results for this party, see the [R.W.F.](party-rwf.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-rwf.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

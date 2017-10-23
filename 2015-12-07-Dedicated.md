@@ -42,6 +42,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
 
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-nva.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 24 | 1.2% | 100% |  |
@@ -61,6 +63,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
 
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
@@ -78,6 +82,8 @@ Areas included: Flanders
 ### sp.a
 
 *For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-spa.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -97,6 +103,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
 
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-openvld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 2% | 100% |  |
@@ -113,6 +121,8 @@ Areas included: Flanders
 ### Vlaams Belang
 
 *For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -135,6 +145,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
 
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-groen.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 0.4% | 100% | Last Result |
@@ -150,6 +162,8 @@ Areas included: Flanders
 ### PVDA
 
 *For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-12-07-Dedicated-seats-pmf-pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
