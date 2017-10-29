@@ -17,7 +17,8 @@ The following websites provide similar information to this website:
 ## Other Resources
 
 + The Twitter feed for this site: [@belpolls](https://twitter.com/belpolls)
-+ The GitHub project for this site: [filipvanlaenen/flemish_polls](https://github.com/filipvanlaenen/flemish_polls)
++ The Atom feed for this site: [atom.xml](https://filipvanlaenen.github.io/belgian_polls/atom.xml)
++ The GitHub project for this site: [filipvanlaenen/belgian_polls](https://github.com/filipvanlaenen/belgian_polls)
 
 ## Sister Websites
 
