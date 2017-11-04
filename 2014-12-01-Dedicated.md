@@ -46,6 +46,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-nva.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 25 | 0% | 100% |  |
@@ -67,6 +69,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [CD&V](party-cdv.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 13 | 3% | 100% |  |
@@ -86,6 +90,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-spa.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.5% | 100% |  |
@@ -103,6 +109,8 @@ Areas included: Flanders
 ### Open Vld
 
 *For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-openvld.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -123,6 +131,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [Groen](party-groen.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-groen.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.5% | 100% |  |
@@ -138,6 +148,8 @@ Areas included: Flanders
 ### Vlaams Belang
 
 *For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -156,6 +168,8 @@ Areas included: Flanders
 
 *For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
 
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
@@ -163,6 +177,8 @@ Areas included: Flanders
 ### Lijst Dedecker
 
 *For a full overview of the results for this party, see the [Lijst Dedecker](party-lijstdedecker.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-lijstdedecker.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -174,6 +190,8 @@ Areas included: Flanders
 ### Piratenpartij
 
 *For a full overview of the results for this party, see the [Piratenpartij](party-piratenpartij.html) page.*
+
+![Graph with seats probability mass function not yet produced](2014-12-01-Dedicated-seats-pmf-piratenpartij.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -194,8 +212,8 @@ Areas included: Flanders
 
 ### Opinion Poll
 
-+ **Pollster:** Dedicated
-+ **Media:** RTBf–La Libre Belgique
++ **Polling firm:** Dedicated
++ **Commissioner(s):** RTBf–La Libre Belgique
 + **Fieldwork period:** 27 November–1 December 2014
 
 ### Calculations
