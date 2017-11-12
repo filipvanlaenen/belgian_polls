@@ -66,9 +66,9 @@ Areas included: Flanders, Wallonia
 
 ### N-VA
 
-*For a full overview of the results for this party, see the [N-VA](party-nva.html) page.*
+*For a full overview of the results for this party, see the [N-VA](party-n-va.html) page.*
 
-![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-nva.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-n-va.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -312,9 +312,9 @@ Areas included: Flanders, Wallonia
 
 ### DéFI
 
-*For a full overview of the results for this party, see the [DéFI](party-dfi.html) page.*
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
 
-![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-dfi.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-défi.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -350,9 +350,9 @@ Areas included: Flanders, Wallonia
 
 ### Wallonie d’Abord
 
-*For a full overview of the results for this party, see the [Wallonie d’Abord](party-walloniedabord.html) page.*
+*For a full overview of the results for this party, see the [Wallonie d’Abord](party-wallonied’abord.html) page.*
 
-![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-walloniedabord.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2016-09-06-Dedicated-seats-pmf-wallonied’abord.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
