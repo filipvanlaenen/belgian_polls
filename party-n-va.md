@@ -35,7 +35,7 @@ Last result: **20.3%** (General Election of 25 May 2014)
 | [5 March–9 May 2015](2015-05-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 3.5% | N/A | N/A | N/A | N/A |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 28.5% | 26.7–30.3% | 26.2–30.9% | 25.8–31.3% | 25.0–32.2% |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18.9% | 26.5–30.3% | 26.0–30.8% | 25.6–31.3% | 24.7–32.2% |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 19.2% | 26.7–31.1% | 26.1–31.7% | 25.5–32.3% | 24.5–33.4% |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 18.1% | 26.7–31.1% | 26.1–31.7% | 25.5–32.3% | 24.5–33.4% |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 20.2% | 28.5–32.1% | 28.0–32.6% | 27.5–33.1% | 26.7–34.0% |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18.6% | 26.1–29.6% | 25.6–30.2% | 25.2–30.6% | 24.4–31.5% |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 28.0% | 26.0–30.1% | 25.4–30.7% | 25.0–31.2% | 24.0–32.2% |
@@ -85,7 +85,7 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 26 | 23–27 | 23–28 | 23–29 | 22–30 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
-| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 29 | 27–31 | 26–32 | 25–32 | 25–33 |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 29 | 27–31 | 26–31 | 25–32 | 24–33 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 26 | 24–28 | 24–29 | 23–30 | 21–31 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 26 | 24–28 | 24–28 | 23–29 | 22–31 |

@@ -35,7 +35,7 @@ Last result: **5.3%** (General Election of 25 May 2014)
 | [5 March–9 May 2015](2015-05-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0.0% | N/A | N/A | N/A | N/A |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 11.6% | 10.4–13.0% | 10.1–13.4% | 9.8–13.7% | 9.3–14.4% |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.1% | 9.5–12.1% | 9.2–12.5% | 8.9–12.8% | 8.4–13.5% |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 6.4% | 8.2–11.1% | 7.9–11.6% | 7.6–12.0% | 7.0–12.8% |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 5.9% | 8.2–11.1% | 7.9–11.6% | 7.6–12.0% | 7.0–12.8% |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6.8% | 9.1–11.6% | 8.8–11.9% | 8.5–12.3% | 8.0–12.9% |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 6.9% | 9.2–11.7% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 14.0% | 12.5–15.7% | 12.1–16.2% | 11.7–16.6% | 11.1–17.4% |

@@ -35,7 +35,7 @@ Last result: **9.8%** (General Election of 25 May 2014)
 | [5 March–9 May 2015](2015-05-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 2.6% | N/A | N/A | N/A | N/A |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 16.1% | 14.7–17.6% | 14.3–18.1% | 14.0–18.5% | 13.3–19.2% |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9.4% | 12.7–15.5% | 12.3–16.0% | 12.0–16.4% | 11.3–17.1% |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10.3% | 13.7–17.2% | 13.2–17.8% | 12.8–18.2% | 12.1–19.2% |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9.7% | 13.7–17.2% | 13.2–17.8% | 12.8–18.2% | 12.1–19.2% |
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9.9% | 13.5–16.4% | 13.2–16.8% | 12.8–17.2% | 12.2–17.9% |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9.5% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.7–17.3% |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 12.0% | 10.6–13.6% | 10.2–14.0% | 9.9–14.4% | 9.3–15.2% |
@@ -88,7 +88,7 @@ Last result: **14** seats (General Election of 25 May 2014)
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 12–15 | 11–16 | 11–17 | 10–17 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 11–13 | 11–14 | 10–16 |
-| [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–13 | 11–14 | 10–15 | 8–17 |
+| [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–13 | 11–13 | 10–15 | 8–17 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 12 | 11–13 | 11–14 | 11–15 | 11–16 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–12 | 10–13 | 9–13 | 8–14 |

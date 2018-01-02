@@ -1,6 +1,6 @@
 # Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015
 
-Areas included: Flanders, Wallonia
+Areas included: Brussels, Flanders, Wallonia
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -12,21 +12,21 @@ Areas included: Flanders, Wallonia
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N-VA | 20.3% | 19.2% | 26.7–31.1% |26.1–31.7% |25.5–32.3% |24.5–33.4% |
-| CD&V | 11.6% | 11.1% | 14.9–18.6% |14.4–19.1% |14.1–19.6% |13.3–20.6% |
-| sp.a | 8.8% | 10.9% | 14.7–18.3% |14.2–18.8% |13.8–19.3% |13.0–20.3% |
-| Open Vld | 9.8% | 10.3% | 13.7–17.2% |13.2–17.8% |12.8–18.2% |12.1–19.2% |
-| PS | 11.7% | 9.6% | N/A |N/A |N/A |N/A |
-| MR | 9.6% | 8.4% | N/A |N/A |N/A |N/A |
-| Groen | 5.3% | 6.4% | 8.2–11.1% |7.9–11.6% |7.6–12.0% |7.0–12.8% |
-| Vlaams Belang | 3.7% | 4.9% | 6.2–8.8% |5.9–9.2% |5.7–9.6% |5.2–10.3% |
-| cdH | 5.0% | 4.7% | N/A |N/A |N/A |N/A |
-| Ecolo | 3.3% | 2.7% | N/A |N/A |N/A |N/A |
-| PTB | 2.0% | 2.7% | N/A |N/A |N/A |N/A |
-| PVDA | 1.8% | 2.2% | 2.6–4.4% |2.4–4.7% |2.2–5.0% |1.9–5.5% |
-| Parti Populaire | 1.5% | 1.2% | N/A |N/A |N/A |N/A |
-| DéFI | 1.8% | 1.0% | N/A |N/A |N/A |N/A |
-| Piratenpartij | 0.3% | 0.9% | 0.9–2.1% |0.8–2.3% |0.7–2.5% |0.5–2.9% |
+| N-VA | 20.3% | 18.1% | 26.7–31.1% |26.1–31.7% |25.5–32.3% |24.5–33.4% |
+| CD&V | 11.6% | 10.4% | 14.9–18.6% |14.4–19.1% |14.1–19.6% |13.3–20.6% |
+| sp.a | 8.8% | 10.4% | 14.7–18.3% |14.2–18.8% |13.8–19.3% |13.0–20.3% |
+| PS | 11.7% | 10.3% | N/A |N/A |N/A |N/A |
+| Open Vld | 9.8% | 9.7% | 13.7–17.2% |13.2–17.8% |12.8–18.2% |12.1–19.2% |
+| MR | 9.6% | 9.5% | N/A |N/A |N/A |N/A |
+| Groen | 5.3% | 5.9% | 8.2–11.1% |7.9–11.6% |7.6–12.0% |7.0–12.8% |
+| cdH | 5.0% | 5.1% | N/A |N/A |N/A |N/A |
+| Vlaams Belang | 3.7% | 4.7% | 6.2–8.8% |5.9–9.2% |5.7–9.6% |5.2–10.3% |
+| Ecolo | 3.3% | 3.4% | N/A |N/A |N/A |N/A |
+| PTB | 2.0% | 3.0% | N/A |N/A |N/A |N/A |
+| PVDA | 1.8% | 2.1% | 2.6–4.4% |2.4–4.7% |2.2–5.0% |1.9–5.5% |
+| DéFI | 1.8% | 1.8% | N/A |N/A |N/A |N/A |
+| Parti Populaire | 1.5% | 1.3% | N/A |N/A |N/A |N/A |
+| Piratenpartij | 0.3% | 0.8% | 0.9–2.1% |0.8–2.3% |0.7–2.5% |0.5–2.9% |
 | Lijst Dedecker | 0.4% | 0.4% | 0.4–1.2% |0.3–1.3% |0.2–1.5% |0.2–1.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -42,17 +42,17 @@ Areas included: Flanders, Wallonia
 | <a href="#n-va">N-VA</a> | 33 | 29 | 26–31 |25–31 |25–32 |24–33 |
 | <a href="#cd&v">CD&V</a> | 18 | 16 | 13–18 |13–18 |13–19 |13–19 |
 | <a href="#sp.a">sp.a</a> | 13 | 15 | 13–17 |13–18 |13–18 |12–19 |
-| <a href="#open-vld">Open Vld</a> | 14 | 13 | 12–17 |12–18 |12–18 |11–18 |
 | <a href="#ps">PS</a> | 23 | 18 | 17–19 |16–20 |16–20 |16–22 |
+| <a href="#open-vld">Open Vld</a> | 14 | 13 | 12–17 |12–18 |12–18 |11–18 |
 | <a href="#mr">MR</a> | 20 | 16 | 14–17 |14–17 |13–18 |13–19 |
 | <a href="#groen">Groen</a> | 6 | 8 | 6–10 |5–10 |5–12 |5–12 |
-| <a href="#vlaams-belang">Vlaams Belang</a> | 3 | 6 | 4–8 |3–8 |3–8 |2–8 |
 | <a href="#cdh">cdH</a> | 9 | 7 | 7–10 |7–10 |7–11 |7–11 |
+| <a href="#vlaams-belang">Vlaams Belang</a> | 3 | 6 | 4–8 |3–8 |3–8 |2–8 |
 | <a href="#ecolo">Ecolo</a> | 6 | 3 | 2–5 |1–5 |1–5 |1–6 |
 | <a href="#ptb">PTB</a> | 2 | 3 | 3–4 |3–5 |2–5 |2–6 |
 | <a href="#pvda">PVDA</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#parti-populaire">Parti Populaire</a> | 1 | 0 | 0–1 |0–1 |0–2 |0–2 |
 | <a href="#défi">DéFI</a> | 2 | 0 | 0 |0 |0 |0 |
+| <a href="#parti-populaire">Parti Populaire</a> | 1 | 0 | 0–1 |0–1 |0–2 |0–2 |
 | <a href="#piratenpartij">Piratenpartij</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#lijst-dedecker">Lijst Dedecker</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
@@ -123,6 +123,24 @@ Areas included: Flanders, Wallonia
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
+### PS
+
+*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-ps.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 15 | 0.4% | 100% |  |
+| 16 | 8% | 99.5% |  |
+| 17 | 19% | 91% |  |
+| 18 | 60% | 72% | Median |
+| 19 | 6% | 12% |  |
+| 20 | 3% | 6% |  |
+| 21 | 1.2% | 2% |  |
+| 22 | 1.0% | 1.0% |  |
+| 23 | 0% | 0% | Last Result |
+
 ### Open Vld
 
 *For a full overview of the results for this party, see the [Open Vld](party-openvld.html) page.*
@@ -142,24 +160,6 @@ Areas included: Flanders, Wallonia
 | 18 | 6% | 6% |  |
 | 19 | 0.2% | 0.3% |  |
 | 20 | 0% | 0% |  |
-
-### PS
-
-*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
-
-![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-ps.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.4% | 100% |  |
-| 16 | 8% | 99.5% |  |
-| 17 | 19% | 91% |  |
-| 18 | 60% | 72% | Median |
-| 19 | 6% | 12% |  |
-| 20 | 3% | 6% |  |
-| 21 | 1.2% | 2% |  |
-| 22 | 1.0% | 1.0% |  |
-| 23 | 0% | 0% | Last Result |
 
 ### MR
 
@@ -198,24 +198,6 @@ Areas included: Flanders, Wallonia
 | 12 | 3% | 3% |  |
 | 13 | 0% | 0% |  |
 
-### Vlaams Belang
-
-*For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
-
-![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.1% | 100% |  |
-| 2 | 2% | 99.9% |  |
-| 3 | 7% | 98% | Last Result |
-| 4 | 4% | 91% |  |
-| 5 | 24% | 87% |  |
-| 6 | 32% | 63% | Median |
-| 7 | 21% | 31% |  |
-| 8 | 10% | 10% |  |
-| 9 | 0% | 0% |  |
-
 ### cdH
 
 *For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
@@ -233,6 +215,24 @@ Areas included: Flanders, Wallonia
 | 10 | 7% | 11% |  |
 | 11 | 4% | 4% |  |
 | 12 | 0% | 0% |  |
+
+### Vlaams Belang
+
+*For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-vlaamsbelang.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.1% | 100% |  |
+| 2 | 2% | 99.9% |  |
+| 3 | 7% | 98% | Last Result |
+| 4 | 4% | 91% |  |
+| 5 | 24% | 87% |  |
+| 6 | 32% | 63% | Median |
+| 7 | 21% | 31% |  |
+| 8 | 10% | 10% |  |
+| 9 | 0% | 0% |  |
 
 ### Ecolo
 
@@ -275,6 +275,18 @@ Areas included: Flanders, Wallonia
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### DéFI
+
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
+
+![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-défi.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.9% | 100% | Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0% | Last Result |
+
 ### Parti Populaire
 
 *For a full overview of the results for this party, see the [Parti Populaire](party-partipopulaire.html) page.*
@@ -287,18 +299,6 @@ Areas included: Flanders, Wallonia
 | 1 | 10% | 13% | Last Result |
 | 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
-
-### DéFI
-
-*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
-
-![Graph with seats probability mass function not yet produced](2015-03-09-Dedicated-seats-pmf-défi.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.9% | 100% | Median |
-| 1 | 0% | 0.1% |  |
-| 2 | 0% | 0% | Last Result |
 
 ### Piratenpartij
 
@@ -334,22 +334,22 @@ Areas included: Flanders, Wallonia
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| CD&V – sp.a – Open Vld – PS – MR – Groen – cdH – Ecolo | 109 | 96 | 100% | 94–100 | 93–101 | 92–102 | 91–103 |
-| CD&V – sp.a – Open Vld – PS – MR – cdH | 97 | 85 | 100% | 82–89 | 81–90 | 81–91 | 79–93 |
+| CD&V – sp.a – PS – Open Vld – MR – Groen – cdH – Ecolo | 109 | 96 | 100% | 94–100 | 93–101 | 92–102 | 91–103 |
+| CD&V – sp.a – PS – Open Vld – MR – cdH | 97 | 85 | 100% | 82–89 | 81–90 | 81–91 | 79–93 |
 | N-VA – CD&V – Open Vld – MR – cdH | 94 | 82 | 98% | 78–85 | 77–86 | 76–87 | 74–88 |
 | N-VA – CD&V – Open Vld – MR | 85 | 74 | 30% | 70–77 | 69–78 | 68–79 | 67–80 |
-| sp.a – Open Vld – PS – MR – Groen – Ecolo | 82 | 73 | 22% | 70–77 | 69–78 | 68–79 | 67–81 |
+| sp.a – PS – Open Vld – MR – Groen – Ecolo | 82 | 73 | 22% | 70–77 | 69–78 | 68–79 | 67–81 |
 | CD&V – sp.a – PS – Groen – cdH – Ecolo – PTB – PVDA | 77 | 71 | 5% | 67–74 | 66–75 | 66–76 | 64–78 |
-| CD&V – Open Vld – PS – MR – cdH | 84 | 71 | 4% | 67–74 | 66–75 | 65–76 | 64–78 |
+| CD&V – PS – Open Vld – MR – cdH | 84 | 71 | 4% | 67–74 | 66–75 | 65–76 | 64–78 |
 | CD&V – sp.a – PS – Groen – cdH – Ecolo | 75 | 67 | 0.1% | 64–71 | 63–72 | 62–73 | 61–74 |
-| sp.a – Open Vld – PS – MR | 70 | 62 | 0% | 58–66 | 58–67 | 57–68 | 56–70 |
+| sp.a – PS – Open Vld – MR | 70 | 62 | 0% | 58–66 | 58–67 | 57–68 | 56–70 |
 | CD&V – sp.a – PS – cdH | 63 | 56 | 0% | 53–60 | 52–61 | 51–61 | 50–63 |
 | sp.a – PS – Groen – cdH – Ecolo – PTB – PVDA | 59 | 55 | 0% | 52–59 | 51–60 | 50–60 | 49–61 |
 | CD&V – Open Vld – MR – cdH | 61 | 53 | 0% | 49–56 | 48–57 | 47–58 | 46–60 |
 | sp.a – PS – Groen – Ecolo – PTB – PVDA | 50 | 47 | 0% | 44–51 | 43–52 | 42–53 | 41–54 |
 | CD&V – Open Vld – MR – Groen – cdH – Ecolo | 73 | 27 | 0% | 25–28 | 25–28 | 24–29 | 23–29 |
 
-### CD&V – sp.a – Open Vld – PS – MR – Groen – cdH – Ecolo
+### CD&V – sp.a – PS – Open Vld – MR – Groen – cdH – Ecolo
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -375,7 +375,7 @@ Areas included: Flanders, Wallonia
 | 108 | 0% | 0% |  |
 | 109 | 0% | 0% | Last Result |
 
-### CD&V – sp.a – Open Vld – PS – MR – cdH
+### CD&V – sp.a – PS – Open Vld – MR – cdH
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -453,7 +453,7 @@ Areas included: Flanders, Wallonia
 | 84 | 0% | 0% |  |
 | 85 | 0% | 0% | Last Result |
 
-### sp.a – Open Vld – PS – MR – Groen – Ecolo
+### sp.a – PS – Open Vld – MR – Groen – Ecolo
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -501,7 +501,7 @@ Areas included: Flanders, Wallonia
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
 
-### CD&V – Open Vld – PS – MR – cdH
+### CD&V – PS – Open Vld – MR – cdH
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -552,7 +552,7 @@ Areas included: Flanders, Wallonia
 | 76 | 0.1% | 0.1% | Majority |
 | 77 | 0% | 0% |  |
 
-### sp.a – Open Vld – PS – MR
+### sp.a – PS – Open Vld – MR
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -735,7 +735,7 @@ Areas included: Flanders, Wallonia
 
 ### Calculations
 
-+ **Sample size:** 1034
++ **Sample size:** 1117
 + **Simulations done:** 1,048,576
 + **Error estimate:** 2.19%
 
