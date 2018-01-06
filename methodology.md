@@ -154,6 +154,14 @@ used by polling firms. For each of the sample sizes, the 95% confidence
 intervals for the number of seats for each parties are compared to the actual
 number of seats the parties received.
 
+The results show, quite naturally, that the seat projections are more accurate
+for electoral systems that are more proportional. But even for electoral
+systems, the seat projections stay relatively close to the actual seat
+distribution of the election. Larger parties, for which even non-proportional
+electoral systems often will behave in a fairly linear way, get more accurate
+results than small parties, which will often strugle with e.g. local or
+national electoral thresholds.
+
 #### United Kingdom, 8 June 2017
 
 | Sample Size                           | CON                 | LAB                                  | UKIP         | LIBDEM          | SNP                             | GREEN                        | PC            |
