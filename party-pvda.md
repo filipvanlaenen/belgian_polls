@@ -12,38 +12,38 @@ Last result: **1.8%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.4% | 4.5–6.4% | 4.2–6.7% | 4.0–6.9% | 3.7–7.5% |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.4% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 3.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.1% |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.1% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.4–7.1% |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 4.5% | 6.2–8.9% | 5.8–9.3% | 5.6–9.7% | 5.0–10.5% |
-| [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.1% |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 3.1% | 4.3–6.0% | 4.1–6.3% | 3.9–6.6% | 3.6–7.1% |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.1% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 4.5% | 6.2–8.9% | 5.8–9.3% | 5.6–9.7% | 5.1–10.4% |
+| [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 4.2% | 3.5–5.1% | 3.3–5.3% | 3.1–5.6% | 2.8–6.0% |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 4.9% | 4.5–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse | 0.0% | N/A | N/A | N/A | N/A |
-| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.3% | 4.6–6.4% | 4.3–6.8% | 4.1–7.0% | 3.8–7.5% |
-| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3.8% | 3.4–5.3% | 3.2–5.7% | 3.0–5.9% | 2.6–6.5% |
-| [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 3.4% | 2.7–4.2% | 2.6–4.5% | 2.4–4.7% | 2.1–5.1% |
+| [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.3% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
+| [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3.8% | 3.4–5.3% | 3.2–5.6% | 3.0–5.9% | 2.6–6.5% |
+| [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 3.4% | 2.7–4.2% | 2.6–4.4% | 2.4–4.7% | 2.1–5.1% |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.4% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% | 2.5–5.7% |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3.2% | 4.2–6.3% | 4.0–6.6% | 3.8–6.9% | 3.4–7.5% |
-| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.0% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
+| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 3.0% | 4.0–5.7% | 3.8–6.0% | 3.7–6.3% | 3.3–6.7% |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.3% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–5.9% |
-| [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.3% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.5% |
-| [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.0% | 2.3–3.7% | 2.2–4.0% | 2.0–4.2% | 1.8–4.6% |
+| [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
+| [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.3% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.5% |
+| [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.0% | 2.4–3.7% | 2.2–4.0% | 2.0–4.2% | 1.8–4.6% |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.7% | 3.4–5.0% | 3.2–5.2% | 3.0–5.5% | 2.7–5.9% |
-| [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.7% |
+| [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 3.8% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.5% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–5.9% |
-| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.2% | 2.6–4.3% | 2.4–4.6% | 2.2–4.8% | 1.9–5.3% |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.2% | 2.6–4.3% | 2.4–4.5% | 2.2–4.8% | 1.9–5.3% |
 | [5 March–9 May 2015](2015-05-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0.0% | N/A | N/A | N/A | N/A |
-| [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
+| [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 1.4% | 1.0–1.9% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.1% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–5.0% |
-| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.1% | 2.6–4.4% | 2.4–4.7% | 2.2–5.0% | 1.9–5.5% |
-| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.4% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
+| [5–9 March 2015](2015-03-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.1% | 2.6–4.4% | 2.4–4.7% | 2.2–4.9% | 1.9–5.5% |
+| [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.4% | 2.9–4.4% | 2.8–4.7% | 2.6–4.9% | 2.3–5.3% |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 2.6% | 3.2–4.7% | 3.0–5.0% | 2.8–5.2% | 2.5–5.6% |
-| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.2–3.3% | 1.0–3.7% |
+| [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 2.0% | 1.5–2.8% | 1.4–3.0% | 1.3–3.3% | 1.0–3.7% |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.7% | 3.2–5.1% | 3.0–5.4% | 2.8–5.6% | 2.5–6.2% |
-| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3.0% | 2.3–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
-| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 3.2% | 2.6–4.1% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
-| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.1% | 2.5–4.1% | 2.3–4.4% | 2.1–4.6% | 1.9–5.1% |
-| [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3.1% | 2.4–4.0% | 2.3–4.2% | 2.1–4.4% | 1.8–4.9% |
+| [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3.0% | 2.4–3.9% | 2.2–4.2% | 2.0–4.4% | 1.8–4.9% |
+| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 2.1% | 2.5–4.1% | 2.3–4.4% | 2.2–4.6% | 1.9–5.1% |
+| [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3.1% | 2.4–4.0% | 2.3–4.2% | 2.1–4.4% | 1.9–4.9% |
 
 ### Probability Mass Function
 
