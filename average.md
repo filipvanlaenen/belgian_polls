@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | N-VA | PS | CD&V | VLD | MR | SP.A | GROEN | CDH | VB | ECOLO | PTB | DÉFI | PVDA | PP | DLB | LDD | DROITE | PIRAAT | ISLAM | WDA | PIRATE | RWF | FW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 20.3% <br> 33 | 11.7% <br> 23 | 11.6% <br> 18 | 9.8% <br> 14 | 9.6% <br> 20 | 8.8% <br> 13 | 5.3% <br> 6 | 5.0% <br> 9 | 3.7% <br> 3 | 3.3% <br> 6 | 2.0% <br> 2 | 1.8% <br> 2 | 1.8% <br> 0 | 1.5% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 |
-| N/A | Poll Average | 26–32% <br> 25–35 | N/A <br> 13–17 | 12–22% <br> 12–21 | 11–17% <br> 11–17 | N/A <br> 14–19 | 9–13% <br> 8–13 | 11–16% <br> 11–16 | N/A <br> 3–6 | 5–12% <br> 2–12 | N/A <br> 7–16 | N/A <br> 8–13 | N/A <br> 2–7 | 4–7% <br> 0 | N/A <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–32% <br> 29–35 | N/A <br> 12–17 | 12–16% <br> 12–17 | 10–14% <br> 9–13 | N/A <br> 14–20 | 9–13% <br> 8–13 | 11–15% <br> 10–16 | N/A <br> 3–6 | 9–12% <br> 8–12 | N/A <br> 7–10 | N/A <br> 10–13 | N/A <br> 2–7 | 4–7% <br> 0 | N/A <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 25–31% <br> 24–31 | N/A <br> 14–17 | 17–22% <br> 16–22 | 13–18% <br> 12–17 | N/A <br> 14–18 | 9–13% <br> 8–12 | 12–16% <br> 11–15 | N/A <br> 4–6 | 5–8% <br> 2–7 | N/A <br> 12–16 | N/A <br> 8–11 | N/A <br> 2–6 | 4–7% <br> 0 | N/A <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| N/A | Poll Average | 26–32% <br> 25–35 | 18–24% <br> 13–17 | 12–22% <br> 12–21 | 11–17% <br> 11–17 | 19–24% <br> 14–19 | 9–13% <br> 8–13 | 11–16% <br> 11–16 | 7–10% <br> 3–6 | 5–12% <br> 2–12 | 10–20% <br> 7–16 | 13–21% <br> 8–13 | 5–8% <br> 2–7 | 4–7% <br> 0 | 0–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 27–32% <br> 29–35 | 17–22% <br> 12–17 | 12–16% <br> 12–17 | 10–14% <br> 9–13 | 20–25% <br> 14–20 | 9–13% <br> 8–13 | 11–15% <br> 10–16 | 7–10% <br> 3–6 | 9–12% <br> 8–12 | 9–13% <br> 7–10 | 17–22% <br> 10–13 | 5–8% <br> 2–7 | 4–7% <br> 0 | 3–6% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 25–31% <br> 24–31 | 19–24% <br> 14–17 | 17–22% <br> 16–22 | 13–18% <br> 12–17 | 19–24% <br> 14–18 | 9–13% <br> 8–12 | 12–16% <br> 11–15 | 7–11% <br> 4–6 | 5–8% <br> 2–7 | 16–21% <br> 12–16 | 13–17% <br> 8–11 | 4–7% <br> 2–6 | 4–7% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2014 | General Election | 20.3% <br> 33 | 11.7% <br> 23 | 11.6% <br> 18 | 9.8% <br> 14 | 9.6% <br> 20 | 8.8% <br> 13 | 5.3% <br> 6 | 5.0% <br> 9 | 3.7% <br> 3 | 3.3% <br> 6 | 2.0% <br> 2 | 1.8% <br> 2 | 1.8% <br> 0 | 1.5% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 | 0.4% <br> 0 | 0.3% <br> 0 | 0.2% <br> 0 | 0.2% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 | 0.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -54,22 +54,22 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#n-va">N-VA</a> | 20.3% | 28.8% | 26.8–30.9% |26.2–31.5% | 25.8–32.0% | 24.9–33.0% |
-| <a href="#ps">PS</a> | 11.7% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ps">PS</a> | 11.7% | 20.5% | 18.5–22.6% |18.0–23.2% | 17.6–23.6% | 16.8–24.5% |
 | <a href="#cd&v">CD&V</a> | 11.6% | 16.8% | 13.2–20.5% |12.7–21.1% | 12.4–21.5% | 11.7–22.4% |
 | <a href="#open-vld">Open Vld</a> | 9.8% | 13.9% | 11.4–16.5% |10.9–17.0% | 10.6–17.4% | 9.9–18.3% |
-| <a href="#mr">MR</a> | 9.6% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#mr">MR</a> | 9.6% | 21.8% | 20.1–23.5% |19.7–24.0% | 19.3–24.5% | 18.5–25.4% |
 | <a href="#sp.a">sp.a</a> | 8.8% | 11.0% | 9.8–12.3% |9.4–12.7% | 9.2–13.0% | 8.6–13.7% |
 | <a href="#groen">Groen</a> | 5.3% | 13.6% | 12.2–15.1% |11.8–15.5% | 11.4–15.9% | 10.8–16.6% |
-| <a href="#cdh">cdH</a> | 5.0% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#cdh">cdH</a> | 5.0% | 8.6% | 7.5–9.8% |7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | <a href="#vlaams-belang">Vlaams Belang</a> | 3.7% | 8.4% | 5.9–11.2% |5.6–11.7% | 5.4–12.1% | 4.9–12.8% |
-| <a href="#ecolo">Ecolo</a> | 3.3% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#ptb">PTB</a> | 2.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#défi">DéFI</a> | 1.8% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#ecolo">Ecolo</a> | 3.3% | 14.7% | 10.2–19.5% |9.8–20.1% | 9.5–20.5% | 8.9–21.4% |
+| <a href="#ptb">PTB</a> | 2.0% | 16.8% | 13.9–20.0% |13.5–20.6% | 13.1–21.1% | 12.4–22.0% |
+| <a href="#défi">DéFI</a> | 1.8% | 6.2% | 5.2–7.3% |4.9–7.7% | 4.7–8.0% | 4.3–8.6% |
 | <a href="#pvda">PVDA</a> | 1.8% | 5.4% | 4.5–6.4% |4.2–6.7% | 4.0–6.9% | 3.7–7.5% |
-| <a href="#parti-populaire">Parti Populaire</a> | 1.5% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#parti-populaire">Parti Populaire</a> | 1.5% | 2.3% | 0.6–4.9% |0.5–5.2% | 0.4–5.5% | 0.3–6.0% |
 | <a href="#debout-les-belges">Debout les Belges</a> | 0.9% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lijst-dedecker">Lijst Dedecker</a> | 0.4% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#la-droite">La Droite</a> | 0.4% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#la-droite">La Droite</a> | 0.4% | 2.3% | 1.7–2.9% |1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | <a href="#piratenpartij">Piratenpartij</a> | 0.3% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#islam">ISLAM</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wallonie-d’abord">Wallonie d’Abord</a> | 0.2% | N/A | N/A |N/A | N/A | N/A |
@@ -99,6 +99,29 @@ Only polls for which at least the sample size has been published are included in
 | 32.5–33.5% | 0.9% | 1.1% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
+
+### PS
+
+*For a full overview of the results for this party, see the [PS](party-ps.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 11.5–12.5% | 0% | 100% | Last Result |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 2% | 99.7% |  |
+| 17.5–18.5% | 8% | 98% |  |
+| 18.5–19.5% | 17% | 89% |  |
+| 19.5–20.5% | 22% | 72% |  |
+| 20.5–21.5% | 23% | 50% | Median |
+| 21.5–22.5% | 17% | 27% |  |
+| 22.5–23.5% | 8% | 11% |  |
+| 23.5–24.5% | 2% | 3% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
+| 25.5–26.5% | 0% | 0% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 ### CD&V
 
@@ -142,6 +165,31 @@ Only polls for which at least the sample size has been published are included in
 | 18.5–19.5% | 0.2% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
+### MR
+
+*For a full overview of the results for this party, see the [MR](party-mr.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 9.5–10.5% | 0% | 100% | Last Result |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0% | 100% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.5% | 100% |  |
+| 18.5–19.5% | 4% | 99.5% |  |
+| 19.5–20.5% | 13% | 96% |  |
+| 20.5–21.5% | 26% | 83% |  |
+| 21.5–22.5% | 29% | 57% | Median |
+| 22.5–23.5% | 18% | 28% |  |
+| 23.5–24.5% | 8% | 10% |  |
+| 24.5–25.5% | 2% | 2% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
+| 26.5–27.5% | 0% | 0% |  |
+
 ### sp.a
 
 *For a full overview of the results for this party, see the [sp.a](party-spa.html) page.*
@@ -179,6 +227,22 @@ Only polls for which at least the sample size has been published are included in
 | 16.5–17.5% | 0.5% | 0.6% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
+### cdH
+
+*For a full overview of the results for this party, see the [cdH](party-cdh.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 4.5–5.5% | 0% | 100% | Last Result |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 11% | 99.2% |  |
+| 7.5–8.5% | 37% | 88% |  |
+| 8.5–9.5% | 37% | 51% | Median |
+| 9.5–10.5% | 13% | 14% |  |
+| 10.5–11.5% | 2% | 2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
+
 ### Vlaams Belang
 
 *For a full overview of the results for this party, see the [Vlaams Belang](party-vlaamsbelang.html) page.*
@@ -198,6 +262,80 @@ Only polls for which at least the sample size has been published are included in
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
+### Ecolo
+
+*For a full overview of the results for this party, see the [Ecolo](party-ecolo.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 2.5–3.5% | 0% | 100% | Last Result |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0.2% | 100% |  |
+| 8.5–9.5% | 3% | 99.8% |  |
+| 9.5–10.5% | 12% | 97% |  |
+| 10.5–11.5% | 19% | 85% |  |
+| 11.5–12.5% | 12% | 66% |  |
+| 12.5–13.5% | 3% | 54% |  |
+| 13.5–14.5% | 0.4% | 50% |  |
+| 14.5–15.5% | 0.2% | 50% | Median |
+| 15.5–16.5% | 2% | 50% |  |
+| 16.5–17.5% | 8% | 48% |  |
+| 17.5–18.5% | 15% | 40% |  |
+| 18.5–19.5% | 15% | 25% |  |
+| 19.5–20.5% | 7% | 10% |  |
+| 20.5–21.5% | 2% | 2% |  |
+| 21.5–22.5% | 0.3% | 0.4% |  |
+| 22.5–23.5% | 0% | 0% |  |
+
+### PTB
+
+*For a full overview of the results for this party, see the [PTB](party-ptb.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1.5–2.5% | 0% | 100% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.7% | 100% |  |
+| 12.5–13.5% | 5% | 99.3% |  |
+| 13.5–14.5% | 14% | 94% |  |
+| 14.5–15.5% | 17% | 80% |  |
+| 15.5–16.5% | 11% | 63% |  |
+| 16.5–17.5% | 8% | 52% | Median |
+| 17.5–18.5% | 13% | 44% |  |
+| 18.5–19.5% | 16% | 32% |  |
+| 19.5–20.5% | 11% | 16% |  |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 0.9% | 1.1% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
+
+### DéFI
+
+*For a full overview of the results for this party, see the [DéFI](party-défi.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 1.5–2.5% | 0% | 100% | Last Result |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 20% | 98% |  |
+| 5.5–6.5% | 45% | 78% | Median |
+| 6.5–7.5% | 27% | 33% |  |
+| 7.5–8.5% | 6% | 6% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
+
 ### PVDA
 
 *For a full overview of the results for this party, see the [PVDA](party-pvda.html) page.*
@@ -212,6 +350,35 @@ Only polls for which at least the sample size has been published are included in
 | 6.5–7.5% | 6% | 6% |  |
 | 7.5–8.5% | 0.4% | 0.4% |  |
 | 8.5–9.5% | 0% | 0% |  |
+
+### Parti Populaire
+
+*For a full overview of the results for this party, see the [Parti Populaire](party-partipopulaire.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 7% | 100% |  |
+| 0.5–1.5% | 42% | 93% |  |
+| 1.5–2.5% | 0.7% | 51% | Last Result, Median |
+| 2.5–3.5% | 4% | 50% |  |
+| 3.5–4.5% | 26% | 46% |  |
+| 4.5–5.5% | 17% | 19% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
+
+### La Droite
+
+*For a full overview of the results for this party, see the [La Droite](party-ladroite.html) page.*
+
+| Voting Intentions | Probability | Accumulated | Special Marks |
+|:-----------------:|:-----------:|:-----------:|:-------------:|
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 67% | 96% | Median |
+| 2.5–3.5% | 27% | 28% |  |
+| 3.5–4.5% | 0.9% | 0.9% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
