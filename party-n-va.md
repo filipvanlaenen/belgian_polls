@@ -91,7 +91,7 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 29 | 27–31 | 26–31 | 26–32 | 24–33 |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 31 | 29–33 | 28–33 | 28–34 | 27–35 |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 27 | 25–30 | 24–31 | 24–31 | 23–32 |
-| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28 | 25–31 | 24–31 | 24–32 | 23–32 |
+| [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 28 | 25–30 | 24–31 | 24–31 | 23–32 |
 | [5 March–9 May 2015](2015-05-09-Dedicated.html) | Dedicated <br> La Libre Belgique–RTBf | 0 | 0 | 0 | 0 | 0 |
 | [20 April–3 May 2015](2015-05-03-TNS.html) | TNS <br> De Standaard–VRT | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
 | [20–24 April 2015](2015-04-24-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 29 | 26–31 | 26–31 | 25–32 | 24–33 |
@@ -122,7 +122,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 12% | 66% |  |
 | 30 | 14% | 55% | Median |
 | 31 | 10% | 41% |  |
-| 32 | 13% | 30% |  |
+| 32 | 13% | 31% |  |
 | 33 | 10% | 18% | Last Result |
 | 34 | 5% | 8% |  |
 | 35 | 2% | 3% |  |
