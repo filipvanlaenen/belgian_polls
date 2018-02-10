@@ -81,7 +81,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT |  |  |  |  |  |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 5 | 4–6 | 3–6 | 3–6 | 2–7 |
-| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 7 | 6–9 | 5–9 | 5–9 | 4–9 |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 7 | 5–9 | 5–9 | 5–9 | 4–9 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7 | 5–8 | 5–8 | 4–8 | 4–8 |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT |  |  |  |  |  |
@@ -112,11 +112,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.6% | 100% | Last Result |
-| 7 | 5% | 99.3% |  |
-| 8 | 9% | 95% |  |
-| 9 | 15% | 85% |  |
-| 10 | 20% | 71% |  |
+| 6 | 0.8% | 100% | Last Result |
+| 7 | 6% | 99.2% |  |
+| 8 | 10% | 94% |  |
+| 9 | 15% | 84% |  |
+| 10 | 18% | 69% |  |
 | 11 | 1.4% | 51% | Median |
 | 12 | 3% | 49% |  |
 | 13 | 7% | 46% |  |
