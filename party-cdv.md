@@ -104,7 +104,7 @@ Last result: **18** seats (General Election of 25 May 2014)
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 13 | 11–13 | 10–14 | 9–15 | 9–17 |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 18 | 18–21 | 18–22 | 17–22 | 15–23 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 17 | 14–18 | 13–19 | 13–19 | 13–21 |
-| [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 17 | 14–18 | 13–18 | 13–20 | 13–21 |
+| [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 17 | 14–18 | 13–18 | 13–19 | 13–21 |
 
 ### Probability Mass Function
 
