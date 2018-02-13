@@ -100,7 +100,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 4 | 2–6 | 2–7 | 2–7 | 1–7 |
 | [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3 | 1–6 | 1–6 | 0–6 | 0–7 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 7 | 5–8 | 5–8 | 5–8 | 3–8 |
-| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 5 | 2–6 | 2–7 | 2–7 | 2–7 |
+| [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 5 | 2–6 | 2–6 | 2–7 | 1–7 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 3 | 2–5 | 1–6 | 1–6 | 0–7 |
 | [1–31 July 2014](2014-07-31-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 3 | 2–5 | 1–6 | 1–6 | 0–7 |
 
