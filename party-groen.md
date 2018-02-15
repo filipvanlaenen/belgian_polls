@@ -70,7 +70,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 12 | 12–13 | 11–15 | 11–16 | 10–16 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 11–15 | 10–16 | 10–16 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 12 | 12–14 | 12–15 | 11–15 | 10–16 |
-| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 11–15 | 10–15 | 9–16 |
+| [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 11–15 | 10–15 | 10–16 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12 | 10–12 | 10–13 | 9–15 | 8–16 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 12 | 12–15 | 12–16 | 12–16 | 11–17 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 10 | 9–12 | 8–12 | 8–12 | 6–12 |
@@ -79,7 +79,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 10–12 | 9–13 | 9–13 | 8–16 |
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 12 | 11–12 | 10–12 | 10–13 | 9–15 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 8–11 | 7–12 | 6–12 | 6–12 |
-| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–11 | 6–11 | 6–12 | 5–12 |
+| [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–10 | 6–11 | 6–12 | 5–12 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 9–12 | 8–12 | 8–12 | 6–12 |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–11 | 6–11 | 6–12 | 5–12 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 10 | 8–12 | 8–12 | 8–12 | 7–12 |
