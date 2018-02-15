@@ -75,7 +75,7 @@ Last result: **14** seats (General Election of 25 May 2014)
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 10–12 | 9–13 | 8–13 | 8–13 |
 | [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 12 | 11–13 | 11–14 | 9–15 | 8–17 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 13 | 11–14 | 11–15 | 11–15 | 11–17 |
-| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–14 | 11–15 | 11–16 | 9–17 |
+| [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–13 | 11–15 | 11–16 | 9–17 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
 | [10–17 January 2017](2017-01-17-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 11–13 | 11–14 | 9–16 |
 | [24–28 November 2016](2016-11-28-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 10–12 | 8–13 | 8–13 | 8–15 |
@@ -87,7 +87,7 @@ Last result: **14** seats (General Election of 25 May 2014)
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 12 | 11–13 | 11–14 | 11–15 | 11–16 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 11–12 | 10–13 | 9–13 | 8–14 |
-| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 11–13 | 9–13 | 8–14 |
+| [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–12 | 11–13 | 10–13 | 8–14 |
 | [22 September–2 October 2015](2015-10-02-TNS.html) | TNS <br> De Standaard–VRT | 13 | 12–15 | 12–16 | 11–17 | 11–18 |
 | [9–14 September 2015](2015-09-14-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–15 | 11–17 | 11–17 | 11–18 |
 | [12–18 May 2015](2015-05-18-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 12–17 | 12–17 | 12–18 | 11–18 |
