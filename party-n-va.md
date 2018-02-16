@@ -83,7 +83,7 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 27 | 25–29 | 24–30 | 24–30 | 23–31 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 25 | 24–28 | 23–28 | 22–29 | 20–30 |
-| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 24 | 23–26 | 21–27 | 21–27 | 20–28 |
+| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 24 | 23–26 | 22–27 | 21–27 | 20–28 |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 25 | 23–28 | 23–28 | 22–29 | 20–30 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 27 | 24–29 | 24–29 | 23–29 | 23–31 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 28 | 26–31 | 26–31 | 25–31 | 24–32 |
@@ -99,7 +99,7 @@ Last result: **33** seats (General Election of 25 May 2014)
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 30 | 28–32 | 27–32 | 27–33 | 26–34 |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 28 | 26–30 | 25–31 | 25–31 | 24–32 |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 28 | 26–31 | 25–31 | 24–31 | 24–32 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 29–33 | 28–34 | 27–35 | 26–37 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 29–33 | 28–34 | 28–35 | 26–37 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 29 | 27–32 | 26–33 | 26–33 | 25–34 |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 30 | 27–31 | 26–32 | 26–32 | 25–34 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 31 | 29–34 | 29–35 | 28–35 | 27–37 |

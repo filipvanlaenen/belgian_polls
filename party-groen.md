@@ -80,7 +80,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [14 September–3 October 2016](2016-10-03-TNS.html) | TNS <br> De Standaard–VRT | 12 | 11–12 | 10–12 | 10–13 | 9–15 |
 | [19–25 September 2016](2016-09-25-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 8–11 | 7–12 | 6–12 | 6–12 |
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–10 | 6–11 | 6–12 | 5–12 |
-| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 9–12 | 8–12 | 8–12 | 6–12 |
+| [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 8–12 | 8–12 | 8–12 | 7–12 |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–11 | 6–11 | 6–12 | 5–12 |
 | [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 10 | 8–12 | 8–12 | 8–12 | 7–12 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9 | 8–11 | 7–11 | 6–12 | 6–12 |
@@ -96,7 +96,7 @@ Last result: **6** seats (General Election of 25 May 2014)
 | [23–28 January 2015](2015-01-28-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8 | 7–10 | 6–11 | 6–11 | 6–12 |
 | [5–11 January 2015](2015-01-11-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 9 | 7–11 | 7–12 | 6–12 | 6–12 |
 | [4–5 December 2014](2014-12-05-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 12 | 12–15 | 11–16 | 11–16 | 10–16 |
-| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 6–10 | 6–11 | 6–12 | 5–12 |
+| [27 November–1 December 2014](2014-12-01-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 9 | 7–11 | 6–11 | 6–12 | 6–12 |
 | [9–10 October 2014](2014-10-10-AQRate.html) | AQ Rate <br> Het Laatste Nieuws | 6 | 5–8 | 5–9 | 5–10 | 5–11 |
 | [22 September–3 October 2014](2014-10-03-TNS.html) | TNS <br> De Standaard–VRT | 8 | 6–9 | 6–10 | 6–10 | 5–12 |
 | [5–9 September 2014](2014-09-09-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 8 | 6–10 | 6–10 | 5–10 | 5–12 |
