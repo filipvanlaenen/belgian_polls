@@ -71,7 +71,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 9–11 | 9–12 | 8–13 | 7–14 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 9 | 8–11 | 8–12 | 8–12 | 7–13 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 11 | 9–13 | 9–13 | 9–13 | 9–14 |
-| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 8 | 6–9 | 6–10 | 6–11 | 5–13 |
+| [23–27 June 2017](2017-06-27-Dedicated.html) | Dedicated <br> MR | 8 | 6–9 | 6–10 | 6–11 | 5–12 |
 | [27 March–11 April 2017](2017-04-11-TNS.html) | TNS <br> De Standaard–VRT | 12 | 10–13 | 9–14 | 9–14 | 9–15 |
 | [16–20 March 2017](2017-03-20-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 12 | 10–13 | 9–14 | 9–15 | 9–15 |
 | [16–17 February 2017](2017-02-17-IVox.html) | iVox <br> Sudpresse |  |  |  |  |  |
@@ -82,7 +82,7 @@ Last result: **13** seats (General Election of 25 May 2014)
 | [2–6 September 2016](2016-09-06-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 14 | 13–16 | 12–17 | 12–17 | 10–18 |
 | [6–12 May 2016](2016-05-12-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [31 March–4 April 2016](2016-04-04-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 11–15 | 11–15 | 10–16 | 9–18 |
-| [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 13 | 13–15 | 12–15 | 11–16 | 10–17 |
+| [22 February–9 March 2016](2016-03-09-TNS.html) | TNS <br> De Standaard–VRT | 13 | 12–15 | 12–15 | 11–16 | 10–17 |
 | [15–20 January 2016](2016-01-20-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 13–15 | 13–16 | 12–17 | 11–18 |
 | [3–7 December 2015](2015-12-07-Dedicated.html) | Dedicated <br> RTBf–La Libre Belgique | 13 | 11–14 | 11–15 | 10–15 | 9–16 |
 | [28 September–4 October 2015](2015-10-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 13 | 13–15 | 12–15 | 11–15 | 10–17 |
