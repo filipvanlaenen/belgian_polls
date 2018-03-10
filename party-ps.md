@@ -10,7 +10,8 @@ Last result: **11.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 6.5–6.9% | 6.4–6.9% | 6.3–6.9% | 6.1–6.9% |
+| N/A | [Poll Average](average.html) | 7.9% | 7.6–8.0% | 7.5–8.0% | 7.4–8.0% | 7.2–8.0% |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 8.6% | 7.6–8.0% | 7.5–8.0% | 7.4–8.0% | 7.2–8.0% |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.3% | 6.4–6.7% | 6.3–6.7% | 6.2–6.7% | 6.0–6.8% |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 7.7% | 6.8–7.2% | 6.7–7.2% | 6.6–7.2% | 6.5–7.2% |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 7.3% | 6.3–6.7% | 6.2–6.7% | 6.1–6.7% | 5.9–6.7% |
@@ -51,12 +52,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 17% | 100% |  |
-| 6.5–7.5% | 100% | 83% | Median |
-| 7.5–8.5% | 100% | 0% |  |
-| 8.5–9.5% | 13% | 0% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 8% | 100% |  |
+| 7.5–8.5% | 100% | 92% | Median |
+| 8.5–9.5% | 100% | 0% |  |
+| 9.5–10.5% | 18% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% | Last Result |
 
@@ -69,7 +69,8 @@ Last result: **23** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 14–17 | 14–17 | 13–17 | 12–18 |
+| N/A | [Poll Average](average.html) | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 14–17 | 13–17 | 13–18 | 12–18 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [25 August–3 September 2017](2017-09-03-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 15 | 14–16 | 14–17 | 13–17 | 12–18 |
@@ -112,17 +113,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 11 | 0.1% | 100% |  |
-| 12 | 1.2% | 99.9% |  |
-| 13 | 2% | 98.7% |  |
-| 14 | 11% | 97% |  |
-| 15 | 44% | 86% | Median |
-| 16 | 30% | 42% |  |
-| 17 | 10% | 12% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.3% | 0.3% |  |
-| 20 | 0% | 0% |  |
-| 21 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 2% | 99.9% |  |
+| 16 | 10% | 98% |  |
+| 17 | 22% | 88% |  |
+| 18 | 43% | 66% | Median |
+| 19 | 21% | 23% |  |
+| 20 | 2% | 2% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% | Last Result |
 
