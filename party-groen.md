@@ -70,8 +70,8 @@ Last result: **6** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–12 | 7–13 | 6–14 | 6–15 |
-| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 12 | 11–13 | 11–14 | 11–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 11 | 7–12 | 7–13 | 6–13 | 6–15 |
+| [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 12 | 11–13 | 11–13 | 11–14 | 10–15 |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 10 | 7–10 | 6–11 | 6–11 | 6–12 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 12 | 11–13 | 10–14 | 10–14 | 10–15 |
 | [11 September–5 October 2017](2017-10-05-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 12 | 11–13 | 11–14 | 10–14 | 10–16 |
@@ -121,12 +121,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 5% | 88% |  |
 | 9 | 8% | 83% |  |
 | 10 | 21% | 75% |  |
-| 11 | 12% | 54% | Median |
-| 12 | 36% | 42% |  |
-| 13 | 4% | 6% |  |
-| 14 | 1.1% | 3% |  |
-| 15 | 1.2% | 2% |  |
-| 16 | 0.4% | 0.4% |  |
+| 11 | 13% | 54% | Median |
+| 12 | 35% | 40% |  |
+| 13 | 3% | 5% |  |
+| 14 | 1.1% | 2% |  |
+| 15 | 0.8% | 1.0% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 
