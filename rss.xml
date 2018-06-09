@@ -8,26 +8,56 @@
     <title>All Registered Polls for the Belgian Chamber</title>
     <link>https://filipvanlaenen.github.io/belgian_polls</link>
     <description>All Registered Polls for the Belgian Chamber</description>
-    <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
+    <pubDate>Sat, 09 Jun 2018 16:24:39 +0200</pubDate>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–16 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–13 seats&lt;/li&gt;&lt;li&gt;Groen: 10–13 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 7–10 seats&lt;/li&gt;&lt;li&gt;PVDA: 2–6 seats&lt;/li&gt;&lt;li&gt;PS: 15–19 seats&lt;/li&gt;&lt;li&gt;MR: 13–18 seats&lt;/li&gt;&lt;li&gt;cdH: 4–6 seats&lt;/li&gt;&lt;li&gt;Ecolo: 9–12 seats&lt;/li&gt;&lt;li&gt;PTB: 6–10 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 2–4 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–6 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos-seats.png"
+        length="265961"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 16:24:39 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:39.001862+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos-coalitions-seats.png"
+        length="437876"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 16:24:39 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:39.001862+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 14.6–15.9%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 7.8–8.8%&lt;/li&gt;&lt;li&gt;Open Vld: 7.1–8.0%&lt;/li&gt;&lt;li&gt;sp.a: 5.7–6.6%&lt;/li&gt;&lt;li&gt;Groen: 6.5–8.4%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4.7–5.6%&lt;/li&gt;&lt;li&gt;PVDA: 3.0–4.5%&lt;/li&gt;&lt;li&gt;PS: 7.1–7.7%&lt;/li&gt;&lt;li&gt;MR: 6.3–6.8%&lt;/li&gt;&lt;li&gt;cdH: 2.6–2.9%&lt;/li&gt;&lt;li&gt;Ecolo: 4.1–4.6%&lt;/li&gt;&lt;li&gt;PTB: 3.7–4.2%&lt;/li&gt;&lt;li&gt;Parti Populaire: 1.8–2.1%&lt;/li&gt;&lt;li&gt;DéFI: 2.3–2.6%&lt;/li&gt;&lt;li&gt;La Droite: 0.4–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos.png"
+        length="297261"
+        type="image/png"/>
+      <pubDate>Sat, 09 Jun 2018 16:24:39 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:39.001862+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 28–34 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–16 seats&lt;/li&gt;&lt;li&gt;sp.a: 6–10 seats&lt;/li&gt;&lt;li&gt;Groen: 11–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 3–7 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–3 seats&lt;/li&gt;&lt;li&gt;PS: 15–20 seats&lt;/li&gt;&lt;li&gt;MR: 15–19 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 11–15 seats&lt;/li&gt;&lt;li&gt;PTB: 4–8 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS-seats.png"
         length="258361"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3496+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.989861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS-coalitions-seats.png"
-        length="444521"
+        length="441415"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3496+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.989861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Voting Intentions</title>
@@ -36,28 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS.png"
         length="281123"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3496+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.989861+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 29–35 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 12–17 seats&lt;/li&gt;&lt;li&gt;Open Vld: 9–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–15 seats&lt;/li&gt;&lt;li&gt;Groen: 6–11 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–5 seats&lt;/li&gt;&lt;li&gt;PS: 15–19 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 2–5 seats&lt;/li&gt;&lt;li&gt;Ecolo: 9–12 seats&lt;/li&gt;&lt;li&gt;PTB: 9–11 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–6 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos-seats.png"
         length="275009"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3376+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.981861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos-coalitions-seats.png"
-        length="439923"
+        length="436849"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3376+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.981861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Voting Intentions</title>
@@ -66,28 +96,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos.png"
         length="293826"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.3376+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.981861+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 28–34 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 11–16 seats&lt;/li&gt;&lt;li&gt;Open Vld: 9–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 7–12 seats&lt;/li&gt;&lt;li&gt;Groen: 10–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 7–11 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–5 seats&lt;/li&gt;&lt;li&gt;PS: 13–18 seats&lt;/li&gt;&lt;li&gt;MR: 15–20 seats&lt;/li&gt;&lt;li&gt;cdH: 3–6 seats&lt;/li&gt;&lt;li&gt;Ecolo: 7–10 seats&lt;/li&gt;&lt;li&gt;PTB: 10–13 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 3–7 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos-seats.png"
         length="275942"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.325599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.965861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos-coalitions-seats.png"
-        length="446879"
+        length="443829"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.325599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.965861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Voting Intentions</title>
@@ -96,28 +126,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos.png"
         length="295570"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.325599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.965861+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 15–21 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 8–11 seats&lt;/li&gt;&lt;li&gt;Groen: 10–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–7 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–3 seats&lt;/li&gt;&lt;li&gt;PS: 14–17 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 4–6 seats&lt;/li&gt;&lt;li&gt;Ecolo: 12–16 seats&lt;/li&gt;&lt;li&gt;PTB: 8–11 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–6 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS-seats.png"
         length="258006"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.321599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.961861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS-coalitions-seats.png"
-        length="434966"
+        length="431548"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.321599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.961861+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
@@ -126,28 +156,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS.png"
         length="282641"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.321599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.961861+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 27–33 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 8–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–13 seats&lt;/li&gt;&lt;li&gt;Groen: 10–14 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–3 seats&lt;/li&gt;&lt;li&gt;PS: 13–17 seats&lt;/li&gt;&lt;li&gt;MR: 15–19 seats&lt;/li&gt;&lt;li&gt;cdH: 4–7 seats&lt;/li&gt;&lt;li&gt;Ecolo: 7–10 seats&lt;/li&gt;&lt;li&gt;PTB: 9–13 seats&lt;/li&gt;&lt;li&gt;DéFI: 3–7 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;ISLAM: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos-seats.png"
         length="288516"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.313599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.95786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos-coalitions-seats.png"
-        length="443605"
+        length="440462"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.313599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.95786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Voting Intentions</title>
@@ -156,28 +186,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos.png"
         length="302566"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.313599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.95786+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 23–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 8–14 seats&lt;/li&gt;&lt;li&gt;sp.a: 5–11 seats&lt;/li&gt;&lt;li&gt;Groen: 9–13 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 7–13 seats&lt;/li&gt;&lt;li&gt;PVDA: 3–9 seats&lt;/li&gt;&lt;li&gt;PS: 9–14 seats&lt;/li&gt;&lt;li&gt;MR: 15–21 seats&lt;/li&gt;&lt;li&gt;cdH: 4–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 5–10 seats&lt;/li&gt;&lt;li&gt;PTB: 14–20 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated-seats.png"
         length="295991"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated-coalitions-seats.png"
-        length="490597"
+        length="486337"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Voting Intentions</title>
@@ -186,28 +216,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated.png"
         length="298946"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 22–28 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–14 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–14 seats&lt;/li&gt;&lt;li&gt;Groen: 11–16 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS-seats.png"
         length="171603"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS-coalitions-seats.png"
-        length="362250"
+        length="358709"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Voting Intentions</title>
@@ -216,28 +246,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS.png"
         length="212312"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94986+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 10–15 seats&lt;/li&gt;&lt;li&gt;Open Vld: 10–15 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–15 seats&lt;/li&gt;&lt;li&gt;Groen: 7–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–13 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–5 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 3–4 seats&lt;/li&gt;&lt;li&gt;MR: 3–4 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–2 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–3 seats&lt;/li&gt;&lt;li&gt;cdH: 0–1 seats&lt;/li&gt;&lt;li&gt;PTB: 2–3 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated-seats.png"
         length="256530"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated-coalitions-seats.png"
-        length="431716"
+        length="428421"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Voting Intentions</title>
@@ -246,28 +276,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated.png"
         length="300684"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.305599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 12–17 seats&lt;/li&gt;&lt;li&gt;Open Vld: 10–14 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–15 seats&lt;/li&gt;&lt;li&gt;Groen: 9–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 7–12 seats&lt;/li&gt;&lt;li&gt;PVDA: 1–4 seats&lt;/li&gt;&lt;li&gt;PS: 16–20 seats&lt;/li&gt;&lt;li&gt;MR: 13–18 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–10 seats&lt;/li&gt;&lt;li&gt;PTB: 9–13 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–2 seats&lt;/li&gt;&lt;li&gt;La Droite: 0–1 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos-seats.png"
         length="292481"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.301599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos-coalitions-seats.png"
-        length="442550"
+        length="439725"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.301599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Voting Intentions</title>
@@ -276,28 +306,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos.png"
         length="292817"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.301599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.94586+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 23–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 8–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–15 seats&lt;/li&gt;&lt;li&gt;Groen: 9–13 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–14 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 3–5 seats&lt;/li&gt;&lt;li&gt;MR: 3–4 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–2 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–3 seats&lt;/li&gt;&lt;li&gt;cdH: 1 seats&lt;/li&gt;&lt;li&gt;PTB: 1–2 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated-seats.png"
         length="263016"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated-coalitions-seats.png"
-        length="435907"
+        length="431831"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Voting Intentions</title>
@@ -306,28 +336,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated.png"
         length="309763"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–14 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–17 seats&lt;/li&gt;&lt;li&gt;Groen: 10–13 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS-seats.png"
         length="155279"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS-coalitions-seats.png"
-        length="336631"
+        length="333365"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Voting Intentions</title>
@@ -336,28 +366,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS.png"
         length="209804"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.293599+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.93786+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 23–29 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 9–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–15 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–13 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 16–20 seats&lt;/li&gt;&lt;li&gt;MR: 17–21 seats&lt;/li&gt;&lt;li&gt;cdH: 4–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 3–6 seats&lt;/li&gt;&lt;li&gt;PTB: 9–12 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–3 seats&lt;/li&gt;&lt;li&gt;La Droite: 0–2 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos-seats.png"
         length="302439"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.257598+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.921859+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos-coalitions-seats.png"
-        length="444548"
+        length="441883"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.257598+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.921859+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Voting Intentions</title>
@@ -366,58 +396,58 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos.png"
         length="302631"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.257598+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.921859+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 22–29 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 12–17 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–15 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 17–22 seats&lt;/li&gt;&lt;li&gt;MR: 15–21 seats&lt;/li&gt;&lt;li&gt;cdH: 4–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 5–9 seats&lt;/li&gt;&lt;li&gt;PTB: 7–10 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–3 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;Wallonie d’Abord: 0 seats&lt;/li&gt;&lt;li&gt;R.W.F.: 0 seats&lt;/li&gt;&lt;li&gt;PIRATE: 0 seats&lt;/li&gt;&lt;li&gt;FW: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated-seats.png"
         length="270072"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.105593+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.913859+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated-coalitions-seats.png"
-        length="450117"
+        length="447284"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.105593+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.913859+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 13.4–14.8%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 7.7–8.9%&lt;/li&gt;&lt;li&gt;Open Vld: 6.9–8.0%&lt;/li&gt;&lt;li&gt;sp.a: 7.4–8.5%&lt;/li&gt;&lt;li&gt;Groen: 4.9–7.0%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6.4–7.5%&lt;/li&gt;&lt;li&gt;PVDA: 2.3–3.8%&lt;/li&gt;&lt;li&gt;Piratenpartij: 0.5–1.3%&lt;/li&gt;&lt;li&gt;PS: 7.8–8.6%&lt;/li&gt;&lt;li&gt;MR: 7.3–8.0%&lt;/li&gt;&lt;li&gt;cdH: 2.8–3.2%&lt;/li&gt;&lt;li&gt;Ecolo: 3.0–3.4%&lt;/li&gt;&lt;li&gt;PTB: 3.9–4.5%&lt;/li&gt;&lt;li&gt;DéFI: 1.5–1.7%&lt;/li&gt;&lt;li&gt;La Droite: 0.5–0.8%&lt;/li&gt;&lt;li&gt;Parti Populaire: 1.2–1.5%&lt;/li&gt;&lt;li&gt;Wallonie d’Abord: 0.2–0.5%&lt;/li&gt;&lt;li&gt;R.W.F.: 0.1–0.3%&lt;/li&gt;&lt;li&gt;PIRATE: 0.1–0.4%&lt;/li&gt;&lt;li&gt;FW: 0.1–0.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated.png"
-        length="363195"
+        length="363417"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.105593+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.913859+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 21–27 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 10–15 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–14 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 8–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 11–15 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 17–22 seats&lt;/li&gt;&lt;li&gt;MR: 14–19 seats&lt;/li&gt;&lt;li&gt;cdH: 6–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 4–8 seats&lt;/li&gt;&lt;li&gt;PTB: 6–10 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–3 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos-seats.png"
         length="279857"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos-coalitions-seats.png"
-        length="432406"
+        length="429158"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Voting Intentions</title>
@@ -426,28 +456,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos.png"
         length="300484"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 22–29 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–21 seats&lt;/li&gt;&lt;li&gt;Open Vld: 10–15 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–16 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–14 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 19–22 seats&lt;/li&gt;&lt;li&gt;MR: 17–20 seats&lt;/li&gt;&lt;li&gt;cdH: 7–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 6–9 seats&lt;/li&gt;&lt;li&gt;PTB: 4–7 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated-seats.png"
         length="288343"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated-coalitions-seats.png"
-        length="439477"
+        length="436306"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Voting Intentions</title>
@@ -456,28 +486,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated.png"
         length="305869"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.017591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 23–29 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 15–21 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–15 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–16 seats&lt;/li&gt;&lt;li&gt;Groen: 8–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS-seats.png"
         length="167399"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS-coalitions-seats.png"
-        length="359839"
+        length="356017"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Voting Intentions</title>
@@ -486,28 +516,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS.png"
         length="211393"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.837857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 9–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 12–17 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–13 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 19–23 seats&lt;/li&gt;&lt;li&gt;MR: 18–21 seats&lt;/li&gt;&lt;li&gt;cdH: 5–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 5–8 seats&lt;/li&gt;&lt;li&gt;PTB: 4–7 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–3 seats&lt;/li&gt;&lt;li&gt;La Droite: 0–1 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos-seats.png"
         length="264746"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.833857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos-coalitions-seats.png"
-        length="434491"
+        length="431258"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.833857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Voting Intentions</title>
@@ -516,28 +546,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos.png"
         length="300342"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.013591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.833857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–32 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 12–17 seats&lt;/li&gt;&lt;li&gt;Open Vld: 8–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–15 seats&lt;/li&gt;&lt;li&gt;Groen: 8–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–13 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 15–18 seats&lt;/li&gt;&lt;li&gt;MR: 13–16 seats&lt;/li&gt;&lt;li&gt;cdH: 6–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–6 seats&lt;/li&gt;&lt;li&gt;PTB: 3–6 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated-seats.png"
         length="263575"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated-coalitions-seats.png"
-        length="425320"
+        length="422315"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Voting Intentions</title>
@@ -546,28 +576,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated.png"
         length="297386"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 26–32 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 10–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–15 seats&lt;/li&gt;&lt;li&gt;Groen: 5–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 8–12 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 15–18 seats&lt;/li&gt;&lt;li&gt;MR: 13–16 seats&lt;/li&gt;&lt;li&gt;cdH: 7–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 3–6 seats&lt;/li&gt;&lt;li&gt;PTB: 3–5 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos-seats.png"
         length="244147"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos-coalitions-seats.png"
-        length="425155"
+        length="421755"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Voting Intentions</title>
@@ -576,28 +606,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos.png"
         length="297652"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:28 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:28.009591+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.829857+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 28–34 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 9–15 seats&lt;/li&gt;&lt;li&gt;Groen: 6–11 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–7 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS-seats.png"
         length="181505"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS-coalitions-seats.png"
-        length="367128"
+        length="363327"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Voting Intentions</title>
@@ -606,28 +636,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS.png"
         length="201546"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 6–10 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 16–20 seats&lt;/li&gt;&lt;li&gt;MR: 13–17 seats&lt;/li&gt;&lt;li&gt;cdH: 6–9 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–6 seats&lt;/li&gt;&lt;li&gt;PTB: 3–6 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated-seats.png"
         length="256048"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated-coalitions-seats.png"
-        length="445009"
+        length="441573"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Voting Intentions</title>
@@ -636,28 +666,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated.png"
         length="333714"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.98959+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 12–18 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;PS: 16–20 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 5–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–6 seats&lt;/li&gt;&lt;li&gt;PTB: 3–5 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated-seats.png"
         length="278720"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated-coalitions-seats.png"
-        length="462073"
+        length="457297"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Voting Intentions</title>
@@ -666,28 +696,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated.png"
         length="328822"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–30 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 18–22 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 10–15 seats&lt;/li&gt;&lt;li&gt;Groen: 8–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 1–5 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS-seats.png"
         length="161677"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS-coalitions-seats.png"
-        length="377380"
+        length="373394"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Voting Intentions</title>
@@ -696,28 +726,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS.png"
         length="206004"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.97759+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.809856+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–32 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–16 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–17 seats&lt;/li&gt;&lt;li&gt;Groen: 7–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 15–18 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 6–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–6 seats&lt;/li&gt;&lt;li&gt;PTB: 2–5 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos-seats.png"
         length="254109"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.961589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.793856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos-coalitions-seats.png"
-        length="432898"
+        length="429295"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.961589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.793856+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Voting Intentions</title>
@@ -726,28 +756,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos.png"
         length="299746"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.961589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.793856+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–32 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 5–11 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;Lijst Dedecker: 0–1 seats&lt;/li&gt;&lt;li&gt;PS: 20–25 seats&lt;/li&gt;&lt;li&gt;MR: 18–23 seats&lt;/li&gt;&lt;li&gt;cdH: 8–13 seats&lt;/li&gt;&lt;li&gt;Ecolo: 3–7 seats&lt;/li&gt;&lt;li&gt;PTB: 3–6 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated-seats.png"
         length="287678"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.949589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.781855+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated-coalitions-seats.png"
-        length="469377"
+        length="466012"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.949589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.781855+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Voting Intentions</title>
@@ -756,28 +786,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated.png"
         length="322755"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.949589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.781855+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 27–33 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–16 seats&lt;/li&gt;&lt;li&gt;Groen: 6–11 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 16–18 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 7–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 2–5 seats&lt;/li&gt;&lt;li&gt;PTB: 2–4 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos-seats.png"
         length="249223"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.941589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.769855+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos-coalitions-seats.png"
-        length="439416"
+        length="435735"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.941589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.769855+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Voting Intentions</title>
@@ -786,28 +816,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos.png"
         length="292580"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.941589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.769855+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections</title>
+      <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–16 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;PS: 17–22 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 6–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–5 seats&lt;/li&gt;&lt;li&gt;PTB: 2–4 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–1 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos-seats.png"
         length="257431"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.937589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos-coalitions-seats.png"
-        length="444571"
+        length="440888"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.937589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Voting Intentions</title>
@@ -816,28 +846,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos.png"
         length="298030"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.937589+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections</title>
+      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 24–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–18 seats&lt;/li&gt;&lt;li&gt;Open Vld: 8–13 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–18 seats&lt;/li&gt;&lt;li&gt;Groen: 11–16 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–7 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate-seats.png"
         length="176273"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.893587+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate-coalitions-seats.png"
-        length="359561"
+        length="355719"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.893587+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Voting Intentions</title>
@@ -846,28 +876,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate.png"
         length="211504"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.893587+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.749854+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 28–35 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–20 seats&lt;/li&gt;&lt;li&gt;Open Vld: 10–15 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–17 seats&lt;/li&gt;&lt;li&gt;Groen: 6–12 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 1–6 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;Lijst Dedecker: 0–1 seats&lt;/li&gt;&lt;li&gt;PS: 16–22 seats&lt;/li&gt;&lt;li&gt;MR: 13–17 seats&lt;/li&gt;&lt;li&gt;cdH: 6–10 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–5 seats&lt;/li&gt;&lt;li&gt;PTB: 2–4 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated-seats.png"
         length="281050"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.769584+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated-coalitions-seats.png"
-        length="447335"
+        length="444152"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.769584+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Voting Intentions</title>
@@ -876,28 +906,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated.png"
         length="329198"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.769584+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections</title>
+      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 26–33 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 9–15 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 14–20 seats&lt;/li&gt;&lt;li&gt;Groen: 5–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 5–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate-seats.png"
         length="174069"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.701582+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate-coalitions-seats.png"
-        length="374184"
+        length="369771"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.701582+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Voting Intentions</title>
@@ -906,28 +936,28 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate.png"
         length="208964"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.701582+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.741854+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections</title>
+      <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 26–32 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 17–22 seats&lt;/li&gt;&lt;li&gt;Open Vld: 11–16 seats&lt;/li&gt;&lt;li&gt;sp.a: 13–17 seats&lt;/li&gt;&lt;li&gt;Groen: 6–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2–7 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS-seats.png"
         length="162765"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.457575+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.60185+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS-coalitions-seats.png"
-        length="365071"
+        length="361290"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.457575+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.60185+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Voting Intentions</title>
@@ -936,58 +966,58 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS.png"
         length="203957"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.457575+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.60185+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Seat Projections</title>
+      <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 28–35 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–17 seats&lt;/li&gt;&lt;li&gt;Groen: 5–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 0–6 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;li&gt;Piratenpartij: 0 seats&lt;/li&gt;&lt;li&gt;Lijst Dedecker: 0–1 seats&lt;/li&gt;&lt;li&gt;PS: 16–21 seats&lt;/li&gt;&lt;li&gt;MR: 14–18 seats&lt;/li&gt;&lt;li&gt;cdH: 5–8 seats&lt;/li&gt;&lt;li&gt;Ecolo: 1–5 seats&lt;/li&gt;&lt;li&gt;PTB: 2–4 seats&lt;/li&gt;&lt;li&gt;DéFI: 0 seats&lt;/li&gt;&lt;li&gt;La Droite: 0 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;Wallonie d’Abord: 0 seats&lt;/li&gt;&lt;li&gt;Debout les Belges: 0 seats&lt;/li&gt;&lt;li&gt;R.W.F.: 0 seats&lt;/li&gt;&lt;li&gt;PIRATE: 0 seats&lt;/li&gt;&lt;li&gt;FW: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated-seats.png"
         length="274974"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.337572+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.569849+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated-coalitions-seats.png"
-        length="461668"
+        length="457282"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.337572+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.569849+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated.html</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 19.2–22.7%&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 10.1–12.9%&lt;/li&gt;&lt;li&gt;Open Vld: 8.7–11.3%&lt;/li&gt;&lt;li&gt;sp.a: 8.5–11.0%&lt;/li&gt;&lt;li&gt;Groen: 5.2–7.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 2.8–4.5%&lt;/li&gt;&lt;li&gt;PVDA: 1.4–2.7%&lt;/li&gt;&lt;li&gt;Piratenpartij: 0.2–0.8%&lt;/li&gt;&lt;li&gt;Lijst Dedecker: 0.2–0.7%&lt;/li&gt;&lt;li&gt;PS: 9.1–10.5%&lt;/li&gt;&lt;li&gt;MR: 7.7–8.9%&lt;/li&gt;&lt;li&gt;cdH: 3.4–4.3%&lt;/li&gt;&lt;li&gt;Ecolo: 2.1–2.9%&lt;/li&gt;&lt;li&gt;PTB: 2.0–2.8%&lt;/li&gt;&lt;li&gt;DéFI: 0.3–0.7%&lt;/li&gt;&lt;li&gt;La Droite: 0.3–0.7%&lt;/li&gt;&lt;li&gt;Parti Populaire: 1.2–1.8%&lt;/li&gt;&lt;li&gt;Wallonie d’Abord: 0.1–0.3%&lt;/li&gt;&lt;li&gt;Debout les Belges: 0.1–0.3%&lt;/li&gt;&lt;li&gt;R.W.F.: 0.0–0.2%&lt;/li&gt;&lt;li&gt;PIRATE: 0.2–0.4%&lt;/li&gt;&lt;li&gt;FW: 0.1–0.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated.png"
-        length="391292"
+        length="391496"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.337572+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.569849+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Seat Projections</title>
+      <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;N-VA: 29–37 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 13–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 12–17 seats&lt;/li&gt;&lt;li&gt;sp.a: 11–16 seats&lt;/li&gt;&lt;li&gt;Groen: 5–10 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 1–6 seats&lt;/li&gt;&lt;li&gt;PVDA: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate-seats.png"
         length="161154"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.317571+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.541848+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate-coalitions-seats.png"
-        length="372859"
+        length="368233"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.317571+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.541848+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Voting Intentions</title>
@@ -996,9 +1026,9 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate.png"
         length="201446"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 14:25:27 +0200</pubDate>
-      <dc:date>2018-03-27T14:25:27.317571+02:00</dc:date>
+      <pubDate>Sat, 09 Jun 2018 16:24:38 +0200</pubDate>
+      <dc:date>2018-06-09T16:24:38.541848+02:00</dc:date>
     </item>
-    <dc:date>2018-03-27T14:25:28.3496+02:00</dc:date>
+    <dc:date>2018-06-09T16:24:39.001862+02:00</dc:date>
   </channel>
 </rss>
