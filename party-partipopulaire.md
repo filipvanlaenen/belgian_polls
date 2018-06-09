@@ -11,6 +11,7 @@ Last result: **1.5%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.0% | 0.9–1.0% | 0.8–1.0% | 0.8–1.0% | 0.7–1.0% |
+| [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.4% | 1.9–2.1% | 1.8–2.1% | 1.8–2.1% | 1.7–2.1% |
 | [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 1.2% | 0.8–1.0% | 0.8–1.0% | 0.8–1.0% | 0.7–1.0% |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 1.4% | 1.0–1.2% | 1.0–1.2% | 1.0–1.2% | 0.9–1.2% |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 1.5% | 1.1–1.2% | 1.0–1.2% | 1.0–1.2% | 0.9–1.2% |
@@ -56,6 +57,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 100% | 100% | Median |
 | 1.5–2.5% | 100% | 0% | Last Result |
+| 2.5–3.5% | 100% | 0% |  |
 
 
 ## Seats
@@ -66,7 +68,8 @@ Last result: **1** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 2 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [26 February–17 March 2018](2018-03-17-TNS.html) | TNS <br> De Standaard–VRT–RTBf–La Libre Belgique | 0 | 0 | 0 | 0 | 0–2 |
 | [27 February–6 March 2018](2018-03-06-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [27 November–4 December 2017](2017-12-04-Ipsos.html) | Ipsos <br> RTL TVi–Le Soir–VTM–Het Laatste Nieuws | 0 | 0–2 | 0–2 | 0–2 | 0–2 |
@@ -111,10 +114,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Median |
-| 1 | 7% | 9% | Last Result |
-| 2 | 2% | 2% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
+| 0 | 49% | 100% |  |
+| 1 | 0.9% | 51% | Last Result |
+| 2 | 44% | 50% | Median |
+| 3 | 5% | 6% |  |
+| 4 | 1.4% | 1.4% |  |
+| 5 | 0% | 0% |  |
 
 
