@@ -317,6 +317,8 @@ Areas included: Brussels
 
 ### MR – PS – cdH – Open Vld – CD&V
 
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–ps–cdh–vld–cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 100% | 100% | Median |
@@ -396,6 +398,8 @@ Areas included: Brussels
 | 84 | 0% | 0% | Last Result |
 
 ### MR – PS – cdH – sp.a – Open Vld – CD&V
+
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–ps–cdh–spa–vld–cdv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -490,6 +494,8 @@ Areas included: Brussels
 
 ### MR – PS – sp.a – Open Vld
 
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–ps–spa–vld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 100% | 100% | Median |
@@ -557,6 +563,8 @@ Areas included: Brussels
 | 70 | 0% | 0% | Last Result |
 
 ### MR – cdH – N-VA – Open Vld – CD&V
+
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–cdh–n-va–vld–cdv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -652,6 +660,8 @@ Areas included: Brussels
 
 ### MR – cdH – Open Vld – CD&V
 
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–cdh–vld–cdv.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 6 | 99.9% | 100% | Median |
@@ -712,6 +722,8 @@ Areas included: Brussels
 | 61 | 0% | 0% | Last Result |
 
 ### PS – cdH – sp.a – CD&V
+
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-ps–cdh–spa–cdv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -776,6 +788,8 @@ Areas included: Brussels
 | 63 | 0% | 0% | Last Result |
 
 ### MR – N-VA – Open Vld – CD&V
+
+![Graph with seats probability mass function not yet produced](2015-05-09-Dedicated-coalitions-seats-pmf-mr–n-va–vld–cdv.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

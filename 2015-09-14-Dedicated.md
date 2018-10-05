@@ -337,6 +337,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – CD&V – PS – Open Vld – MR – Groen – cdH – Ecolo
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–cdv–ps–vld–mr–groen–cdh–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 88 | 0.1% | 100% |  |
@@ -363,6 +365,8 @@ Areas included: Flanders, Wallonia
 | 109 | 0% | 0% | Last Result |
 
 ### sp.a – CD&V – PS – Open Vld – MR – cdH
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–cdv–ps–vld–mr–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -391,6 +395,8 @@ Areas included: Flanders, Wallonia
 | 97 | 0% | 0% | Last Result |
 
 ### N-VA – CD&V – Open Vld – MR – cdH
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-n-va–cdv–vld–mr–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -423,6 +429,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – PS – Open Vld – MR – Groen – Ecolo
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–ps–vld–mr–groen–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 65 | 0.1% | 100% |  |
@@ -446,6 +454,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – CD&V – PS – Groen – cdH – PTB – Ecolo – PVDA
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–cdv–ps–groen–cdh–ptb–ecolo–pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 64 | 0.1% | 100% |  |
@@ -467,6 +477,8 @@ Areas included: Flanders, Wallonia
 | 80 | 0% | 0% |  |
 
 ### N-VA – CD&V – Open Vld – MR
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-n-va–cdv–vld–mr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -497,6 +509,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – CD&V – PS – Groen – cdH – Ecolo
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–cdv–ps–groen–cdh–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 60 | 0.1% | 100% |  |
@@ -518,6 +532,8 @@ Areas included: Flanders, Wallonia
 | 76 | 0% | 0% | Majority |
 
 ### CD&V – PS – Open Vld – MR – cdH
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-cdv–ps–vld–mr–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -548,6 +564,8 @@ Areas included: Flanders, Wallonia
 
 ### CD&V – Open Vld – MR – Groen – cdH – Ecolo
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-cdv–vld–mr–groen–cdh–ecolo.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 54 | 0.1% | 100% |  |
@@ -573,6 +591,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – PS – Open Vld – MR
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–ps–vld–mr.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 53 | 0% | 100% |  |
@@ -596,6 +616,8 @@ Areas included: Flanders, Wallonia
 
 ### sp.a – PS – Groen – cdH – PTB – Ecolo – PVDA
 
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–ps–groen–cdh–ptb–ecolo–pvda.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 50 | 0.2% | 100% |  |
@@ -616,6 +638,8 @@ Areas included: Flanders, Wallonia
 | 65 | 0% | 0% |  |
 
 ### sp.a – CD&V – PS – cdH
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–cdv–ps–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -638,6 +662,8 @@ Areas included: Flanders, Wallonia
 | 64 | 0% | 0% |  |
 
 ### CD&V – Open Vld – MR – cdH
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-cdv–vld–mr–cdh.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -662,6 +688,8 @@ Areas included: Flanders, Wallonia
 | 61 | 0% | 0% | Last Result |
 
 ### sp.a – PS – Groen – PTB – Ecolo – PVDA
+
+![Graph with seats probability mass function not yet produced](2015-09-14-Dedicated-coalitions-seats-pmf-spa–ps–groen–ptb–ecolo–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
