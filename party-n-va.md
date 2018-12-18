@@ -75,8 +75,8 @@ Last result: **33** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 26–30 | 25–31 | 24–32 | 24–32 |
-| [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 28 | 26–31 | 25–32 | 24–32 | 24–32 |
+| N/A | [Poll Average](average.html) | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
+| [19 November–8 December 2018](2018-12-08-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 28 | 26–30 | 25–30 | 25–31 | 24–32 |
 | [27 November–3 December 2018](2018-12-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 28 | 26–30 | 25–30 | 24–31 | 24–32 |
 | [20–27 September 2018](2018-09-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 25 | 23–28 | 23–28 | 22–29 | 21–30 |
 | [29 May–6 June 2018](2018-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 28 | 25–29 | 25–30 | 24–30 | 23–31 |
@@ -124,17 +124,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0.2% | 100% |  |
-| 24 | 3% | 99.8% |  |
-| 25 | 7% | 97% |  |
-| 26 | 14% | 91% |  |
-| 27 | 12% | 77% |  |
-| 28 | 23% | 64% | Median |
-| 29 | 21% | 41% |  |
-| 30 | 13% | 21% |  |
-| 31 | 4% | 8% |  |
-| 32 | 4% | 4% |  |
-| 33 | 0.3% | 0.3% | Last Result |
+| 23 | 0.3% | 100% |  |
+| 24 | 2% | 99.7% |  |
+| 25 | 6% | 98% |  |
+| 26 | 11% | 92% |  |
+| 27 | 11% | 81% |  |
+| 28 | 32% | 70% | Median |
+| 29 | 22% | 38% |  |
+| 30 | 13% | 16% |  |
+| 31 | 2% | 4% |  |
+| 32 | 1.1% | 1.4% |  |
+| 33 | 0.2% | 0.2% | Last Result |
 | 34 | 0% | 0% |  |
 
 
