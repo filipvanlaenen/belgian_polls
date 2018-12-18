@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Belgian Chamber</title>
     <link>https://filipvanlaenen.github.io/belgian_polls</link>
     <description>All Registered Polls for the Belgian Chamber</description>
-    <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
+    <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;N-VA: 25–31 seats&lt;/li&gt;&lt;li&gt;CD&amp;amp;V: 14–19 seats&lt;/li&gt;&lt;li&gt;Open Vld: 13–18 seats&lt;/li&gt;&lt;li&gt;sp.a: 5–9 seats&lt;/li&gt;&lt;li&gt;Groen: 12–17 seats&lt;/li&gt;&lt;li&gt;Vlaams Belang: 4–8 seats&lt;/li&gt;&lt;li&gt;PVDA: 0–1 seats&lt;/li&gt;&lt;li&gt;PS: 15–19 seats&lt;/li&gt;&lt;li&gt;MR: 12–16 seats&lt;/li&gt;&lt;li&gt;cdH: 4–7 seats&lt;/li&gt;&lt;li&gt;Ecolo: 13–17 seats&lt;/li&gt;&lt;li&gt;PTB: 7–10 seats&lt;/li&gt;&lt;li&gt;Parti Populaire: 0–2 seats&lt;/li&gt;&lt;li&gt;DéFI: 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS-seats.png"
+        length="272583"
+        type="image/png"/>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.274661+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS-coalitions-seats.png"
+        length="472382"
+        type="image/png"/>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.274661+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard, La Libre Belgique, RTBf and VRT, 19 November–8 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-08-TNS.png"
         length="278204"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.613597+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.274661+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for the Parties</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-03-Ipsos-seats.png"
         length="284394"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.461593+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.25066+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-03-Ipsos-coalitions-seats.png"
         length="469268"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.461593+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.25066+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 27 November–3 December 2018 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-12-03-Ipsos.png"
         length="295431"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.461593+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.25066+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for the Parties</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-09-27-Ipsos-seats.png"
         length="280322"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.421592+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.202659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -66,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-09-27-Ipsos-coalitions-seats.png"
         length="468983"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.421592+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.202659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 20–27 September 2018 – Voting Intentions</title>
@@ -76,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-09-27-Ipsos.png"
         length="293322"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.421592+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.202659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for the Parties</title>
@@ -86,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos-seats.png"
         length="270162"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.36559+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.190658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -96,8 +116,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos-coalitions-seats.png"
         length="437611"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.36559+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.190658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 29 May–6 June 2018 – Voting Intentions</title>
@@ -106,8 +126,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-06-06-Ipsos.png"
         length="297261"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.36559+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.190658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for the Parties</title>
@@ -116,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS-seats.png"
         length="258361"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.329589+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.174658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -126,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS-coalitions-seats.png"
         length="441415"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.329589+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.174658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 26 February–17 March 2018 – Voting Intentions</title>
@@ -136,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-17-TNS.png"
         length="281123"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.329589+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.174658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections for the Parties</title>
@@ -146,8 +166,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos-seats.png"
         length="275009"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.297588+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.166658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Seat Projections for a Selection of Coalitions</title>
@@ -156,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos-coalitions-seats.png"
         length="436849"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.297588+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.166658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 February–6 March 2018 – Voting Intentions</title>
@@ -166,8 +186,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2018-03-06-Ipsos.png"
         length="293826"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.297588+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.166658+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections for the Parties</title>
@@ -176,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos-seats.png"
         length="275942"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.261587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.150657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -186,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos-coalitions-seats.png"
         length="443829"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.261587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.150657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 27 November–4 December 2017 – Voting Intentions</title>
@@ -196,8 +216,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-12-04-Ipsos.png"
         length="295570"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.261587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.150657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for the Parties</title>
@@ -206,8 +226,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS-seats.png"
         length="258006"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.253587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.146657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -216,8 +236,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS-coalitions-seats.png"
         length="431548"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.253587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.146657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT–RTBf–La Libre Belgique, 11 September–5 October 2017 – Voting Intentions</title>
@@ -226,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-10-05-TNS.png"
         length="282641"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.253587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.146657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections for the Parties</title>
@@ -236,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos-seats.png"
         length="288516"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.249587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.130657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -246,8 +266,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos-coalitions-seats.png"
         length="440462"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.249587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.130657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 25 August–3 September 2017 – Voting Intentions</title>
@@ -256,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-09-03-Ipsos.png"
         length="302566"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.249587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.130657+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections for the Parties</title>
@@ -266,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated-seats.png"
         length="295991"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.241587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.090656+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -276,8 +296,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated-coalitions-seats.png"
         length="486337"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.241587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.090656+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for MR, 23–27 June 2017 – Voting Intentions</title>
@@ -286,8 +306,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-06-27-Dedicated.png"
         length="298946"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.241587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.090656+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections for the Parties</title>
@@ -296,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS-seats.png"
         length="171603"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.233587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.054654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -306,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS-coalitions-seats.png"
         length="358709"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.233587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.054654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 27 March–11 April 2017 – Voting Intentions</title>
@@ -316,8 +336,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-04-11-TNS.png"
         length="212312"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.233587+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:07 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:07.054654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections for the Parties</title>
@@ -326,8 +346,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated-seats.png"
         length="256530"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.217586+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.986653+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -336,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated-coalitions-seats.png"
         length="428421"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.217586+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.986653+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 16–20 March 2017 – Voting Intentions</title>
@@ -346,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-03-20-Dedicated.png"
         length="300684"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.217586+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.986653+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Seat Projections for the Parties</title>
@@ -356,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos-seats.png"
         length="292481"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.093583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.962652+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Seat Projections for a Selection of Coalitions</title>
@@ -366,8 +386,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos-coalitions-seats.png"
         length="439725"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.093583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.962652+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 10–17 January 2017 – Voting Intentions</title>
@@ -376,8 +396,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2017-01-17-Ipsos.png"
         length="292817"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.093583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.962652+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections for the Parties</title>
@@ -386,8 +406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated-seats.png"
         length="263016"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.950651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -396,8 +416,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated-coalitions-seats.png"
         length="431831"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.950651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 24–28 November 2016 – Voting Intentions</title>
@@ -406,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-11-28-Dedicated.png"
         length="309763"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.950651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Seat Projections for the Parties</title>
@@ -416,8 +436,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS-seats.png"
         length="155279"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.942651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -426,8 +446,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS-coalitions-seats.png"
         length="333365"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.942651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 14 September–3 October 2016 – Voting Intentions</title>
@@ -436,8 +456,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-10-03-TNS.png"
         length="209804"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.085583+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.942651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections for the Parties</title>
@@ -446,8 +466,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos-seats.png"
         length="302439"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.930651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -456,8 +476,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos-coalitions-seats.png"
         length="441883"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.930651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 19–25 September 2016 – Voting Intentions</title>
@@ -466,8 +486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-25-Ipsos.png"
         length="302631"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.930651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections for the Parties</title>
@@ -476,8 +496,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated-seats.png"
         length="270072"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.918651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -486,8 +506,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated-coalitions-seats.png"
         length="447284"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.918651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 2–6 September 2016 – Voting Intentions</title>
@@ -496,8 +516,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-09-06-Dedicated.png"
         length="363417"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.077582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.918651+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections for the Parties</title>
@@ -506,8 +526,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos-seats.png"
         length="279857"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -516,8 +536,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos-coalitions-seats.png"
         length="429158"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 6–12 May 2016 – Voting Intentions</title>
@@ -526,8 +546,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-05-12-Ipsos.png"
         length="300484"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections for the Parties</title>
@@ -536,8 +556,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated-seats.png"
         length="288343"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -546,8 +566,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated-coalitions-seats.png"
         length="436306"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 31 March–4 April 2016 – Voting Intentions</title>
@@ -556,8 +576,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-04-04-Dedicated.png"
         length="305869"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.91065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Seat Projections for the Parties</title>
@@ -566,8 +586,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS-seats.png"
         length="167399"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.90665+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -576,8 +596,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS-coalitions-seats.png"
         length="356017"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.90665+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 February–9 March 2016 – Voting Intentions</title>
@@ -586,8 +606,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-03-09-TNS.png"
         length="211393"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.90665+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections for the Parties</title>
@@ -596,8 +616,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos-seats.png"
         length="264746"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.862649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Seat Projections for a Selection of Coalitions</title>
@@ -606,8 +626,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos-coalitions-seats.png"
         length="431258"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.862649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 15–20 January 2016 – Voting Intentions</title>
@@ -616,8 +636,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2016-01-20-Ipsos.png"
         length="300342"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.061582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.862649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections for the Parties</title>
@@ -626,8 +646,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated-seats.png"
         length="263575"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -636,8 +656,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated-coalitions-seats.png"
         length="422315"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 3–7 December 2015 – Voting Intentions</title>
@@ -646,8 +666,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-12-07-Dedicated.png"
         length="297386"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections for the Parties</title>
@@ -656,8 +676,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos-seats.png"
         length="244147"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -666,8 +686,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos-coalitions-seats.png"
         length="421755"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 28 September–4 October 2015 – Voting Intentions</title>
@@ -676,8 +696,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-04-Ipsos.png"
         length="297652"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.057582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.858649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections for the Parties</title>
@@ -686,8 +706,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS-seats.png"
         length="181505"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.850649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -696,8 +716,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS-coalitions-seats.png"
         length="363327"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.850649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–2 October 2015 – Voting Intentions</title>
@@ -706,8 +726,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-10-02-TNS.png"
         length="201546"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.850649+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections for the Parties</title>
@@ -716,8 +736,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated-seats.png"
         length="256048"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -726,8 +746,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated-coalitions-seats.png"
         length="441573"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 9–14 September 2015 – Voting Intentions</title>
@@ -736,8 +756,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-09-14-Dedicated.png"
         length="333714"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Seat Projections for the Parties</title>
@@ -746,8 +766,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated-seats.png"
         length="278720"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -756,8 +776,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated-coalitions-seats.png"
         length="457297"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 12–18 May 2015 – Voting Intentions</title>
@@ -766,8 +786,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-18-Dedicated.png"
         length="328822"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections for the Parties</title>
@@ -776,8 +796,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS-seats.png"
         length="161677"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -786,8 +806,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS-coalitions-seats.png"
         length="373394"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 20 April–3 May 2015 – Voting Intentions</title>
@@ -796,8 +816,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-05-03-TNS.png"
         length="206004"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.045582+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.838648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections for the Parties</title>
@@ -806,8 +826,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos-seats.png"
         length="254109"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.822648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -816,8 +836,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos-coalitions-seats.png"
         length="429295"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.822648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 20–24 April 2015 – Voting Intentions</title>
@@ -826,8 +846,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-04-24-Ipsos.png"
         length="299746"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.822648+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Seat Projections for the Parties</title>
@@ -836,8 +856,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated-seats.png"
         length="287678"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.810647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -846,8 +866,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated-coalitions-seats.png"
         length="466012"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.810647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 March 2015 – Voting Intentions</title>
@@ -856,8 +876,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-03-09-Dedicated.png"
         length="322755"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.041581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.810647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections for the Parties</title>
@@ -866,8 +886,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos-seats.png"
         length="249223"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.798647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -876,8 +896,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos-coalitions-seats.png"
         length="435735"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.798647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 23–28 January 2015 – Voting Intentions</title>
@@ -886,8 +906,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-28-Ipsos.png"
         length="292580"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.798647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections for the Parties</title>
@@ -896,8 +916,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos-seats.png"
         length="257431"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.742645+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Seat Projections for a Selection of Coalitions</title>
@@ -906,8 +926,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos-coalitions-seats.png"
         length="440888"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.742645+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for RTL TVi–Le Soir–VTM–Het Laatste Nieuws, 5–11 January 2015 – Voting Intentions</title>
@@ -916,8 +936,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2015-01-11-Ipsos.png"
         length="298030"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.025581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.742645+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections for the Parties</title>
@@ -926,8 +946,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate-seats.png"
         length="176273"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.710644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -936,8 +956,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate-coalitions-seats.png"
         length="355719"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.710644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 4–5 December 2014 – Voting Intentions</title>
@@ -946,8 +966,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-05-AQRate.png"
         length="211504"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.710644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections for the Parties</title>
@@ -956,8 +976,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated-seats.png"
         length="281050"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.698644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -966,8 +986,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated-coalitions-seats.png"
         length="444152"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.698644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 27 November–1 December 2014 – Voting Intentions</title>
@@ -976,8 +996,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-12-01-Dedicated.png"
         length="329198"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.698644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections for the Parties</title>
@@ -986,8 +1006,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate-seats.png"
         length="174069"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.682644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -996,8 +1016,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate-coalitions-seats.png"
         length="369771"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.682644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 9–10 October 2014 – Voting Intentions</title>
@@ -1006,8 +1026,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-10-AQRate.png"
         length="208964"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.017581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.682644+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections for the Parties</title>
@@ -1016,8 +1036,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS-seats.png"
         length="162765"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.013581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.674643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -1026,8 +1046,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS-coalitions-seats.png"
         length="361290"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.013581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.674643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by TNS for De Standaard–VRT, 22 September–3 October 2014 – Voting Intentions</title>
@@ -1036,8 +1056,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-10-03-TNS.png"
         length="203957"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.013581+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.674643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Seat Projections for the Parties</title>
@@ -1046,8 +1066,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated-seats.png"
         length="274974"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.00558+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.650643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -1056,8 +1076,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated-coalitions-seats.png"
         length="457282"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.00558+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.650643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Dedicated for RTBf–La Libre Belgique, 5–9 September 2014 – Voting Intentions</title>
@@ -1066,8 +1086,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-09-09-Dedicated.png"
         length="391496"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:41 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:41.00558+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.650643+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Seat Projections for the Parties</title>
@@ -1076,8 +1096,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate-seats.png"
         length="161154"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:40 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:40.99758+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.626642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Seat Projections for a Selection of Coalitions</title>
@@ -1086,8 +1106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate-coalitions-seats.png"
         length="368233"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:40 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:40.99758+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.626642+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AQ Rate for Het Laatste Nieuws, 1–31 July 2014 – Voting Intentions</title>
@@ -1096,9 +1116,9 @@
       <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2014-07-31-AQRate.png"
         length="201446"
         type="image/png"/>
-      <pubDate>Tue, 18 Dec 2018 12:13:40 +0100</pubDate>
-      <dc:date>2018-12-18T12:13:40.99758+01:00</dc:date>
+      <pubDate>Tue, 18 Dec 2018 16:14:06 +0100</pubDate>
+      <dc:date>2018-12-18T16:14:06.626642+01:00</dc:date>
     </item>
-    <dc:date>2018-12-18T12:13:41.613597+01:00</dc:date>
+    <dc:date>2018-12-18T16:14:07.274661+01:00</dc:date>
   </channel>
 </rss>
