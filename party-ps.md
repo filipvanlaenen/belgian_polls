@@ -78,8 +78,8 @@ Last result: **23** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
-| [6–14 May 2019](2019-05-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–22 | 16–22 |
+| [6–14 May 2019](2019-05-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
 | [25 March–14 April 2019](2019-04-14-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
 | [5–11 February 2019](2019-02-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 17–19 | 16–20 | 16–20 | 15–21 |
 | [13–17 December 2018](2018-12-17-Ipsos.html) | Ipsos <br> Het Nieuwsblad |  |  |  |  |  |
@@ -135,11 +135,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 5% | 99.7% |  |
 | 17 | 13% | 94% |  |
 | 18 | 16% | 82% |  |
-| 19 | 28% | 66% | Median |
-| 20 | 24% | 37% |  |
-| 21 | 12% | 14% |  |
-| 22 | 2% | 2% |  |
-| 23 | 0% | 0.1% | Last Result |
+| 19 | 27% | 66% | Median |
+| 20 | 22% | 39% |  |
+| 21 | 14% | 17% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.1% | 0.1% | Last Result |
 | 24 | 0% | 0% |  |
 
 
