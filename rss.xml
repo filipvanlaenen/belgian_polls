@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Belgian Chamber</title>
+    <link>https://filipvanlaenen.github.io/belgian_polls</link>
+    <description>All Registered Polls for the Belgian Chamber</description>
+    <pubDate>Sat, 14 Sep 2019 13:22:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Het Laatste Nieuws, Le Soir, RTL TVi and VTM, 2–10 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/belgian_polls/2019-09-10-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Nieuw-Vlaamse Alliantie: 12.2–13.4%&lt;/li&gt;&lt;li&gt;Christen-Democratisch en Vlaams: 5.7–6.5%&lt;/li&gt;&lt;li&gt;Open Vlaamse Liberalen en Democraten: 6.7–7.7%&lt;/li&gt;&lt;li&gt;Socialistische Partij Anders: 4.2–5.9%&lt;/li&gt;&lt;li&gt;Groen: 5.7–7.6%&lt;/li&gt;&lt;li&gt;Vlaams Belang: 13.4–14.7%&lt;/li&gt;&lt;li&gt;Partij van de Arbeid van België: 3.0–4.5%&lt;/li&gt;&lt;li&gt;Parti Socialiste: 7.3–7.9%&lt;/li&gt;&lt;li&gt;Mouvement Réformateur: 7.0–7.6%&lt;/li&gt;&lt;li&gt;Centre démocrate humaniste: 2.2–2.6%&lt;/li&gt;&lt;li&gt;Ecolo: 5.8–6.3%&lt;/li&gt;&lt;li&gt;Parti du Travail de Belgique: 4.6–5.1%&lt;/li&gt;&lt;li&gt;DéFI: 1.8–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/belgian_polls/2019-09-10-Ipsos.png"
+        length="314203"
+        type="image/png"/>
+      <pubDate>Sat, 14 Sep 2019 13:22:57 +0200</pubDate>
+      <dc:date>2019-09-14T13:22:57.404502+02:00</dc:date>
+    </item>
+    <dc:date>2019-09-14T13:22:57.404502+02:00</dc:date>
+  </channel>
+</rss>
