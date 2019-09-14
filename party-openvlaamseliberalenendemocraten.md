@@ -36,8 +36,8 @@ Last result: **12** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–13 | 10–14 | 10–15 | 10–16 |
-| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 10–13 | 10–14 | 10–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 11 | 10–14 | 10–15 | 10–15 | 10–16 |
+| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 10–14 | 10–15 | 10–15 | 10–16 |
 
 ### Probability Mass Function
 
@@ -48,13 +48,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
-| 10 | 20% | 99.9% |  |
-| 11 | 53% | 80% | Median |
-| 12 | 11% | 28% | Last Result |
-| 13 | 9% | 17% |  |
-| 14 | 5% | 8% |  |
-| 15 | 2% | 3% |  |
-| 16 | 0.8% | 0.8% |  |
+| 10 | 18% | 99.9% |  |
+| 11 | 45% | 82% | Median |
+| 12 | 18% | 37% | Last Result |
+| 13 | 8% | 20% |  |
+| 14 | 6% | 12% |  |
+| 15 | 5% | 6% |  |
+| 16 | 0.8% | 0.9% |  |
 | 17 | 0% | 0% |  |
 
 
