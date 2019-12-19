@@ -41,7 +41,7 @@ Last result: **18** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26 | 24–28 | 23–29 | 23–29 | 22–30 |
-| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24 | 22–25 | 22–26 | 21–26 | 20–27 |
+| [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 24 | 22–25 | 21–26 | 21–26 | 20–28 |
 
 ### Probability Mass Function
 
