@@ -12,7 +12,6 @@ Last result: **3.7%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.4% | 2.2–2.5% | 2.2–2.5% | 2.1–2.5% | 2.0–2.5% |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.9% | 2.2–2.5% | 2.2–2.5% | 2.1–2.5% | 2.0–2.5% |
-| [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 2.6% | 2.0–2.2% | 2.0–2.2% | 1.9–2.2% | 1.8–2.2% |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 3.1% | 2.5–2.7% | 2.4–2.7% | 2.4–2.7% | 2.2–2.7% |
 | [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 3.0% | 2.4–2.6% | 2.3–2.6% | 2.2–2.6% | 2.1–2.6% |
@@ -39,7 +38,6 @@ Last result: **5** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 1–5 |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4 | 4–5 | 4–5 | 3–5 | 1–5 |
-| [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT |  |  |  |  |  |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4 | 2–4 | 2–5 | 1–5 | 0–5 |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4 | 4–5 | 4–5 | 4–5 | 2–5 |

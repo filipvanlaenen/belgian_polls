@@ -12,7 +12,6 @@ Last result: **9.5%** (General Election of 26 May 2019)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.0% | 7.7–8.1% | 7.6–8.1% | 7.5–8.1% | 7.3–8.1% |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.7% | 7.7–8.1% | 7.6–8.1% | 7.5–8.1% | 7.3–8.1% |
-| [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.4% | 8.4–8.8% | 8.3–8.8% | 8.2–8.8% | 8.0–8.8% |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.8% | 7.8–8.2% | 7.7–8.2% | 7.6–8.2% | 7.4–8.2% |
 | [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.5% | 7.5–7.9% | 7.4–7.9% | 7.3–7.9% | 7.1–7.9% |
@@ -40,7 +39,6 @@ Last result: **20** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
-| [9–28 April 2020](2020-04-28-TNS.html) | TNS <br> De Standaard, La Libre Belgique, RTBf and VRT |  |  |  |  |  |
 | [4–9 March 2020](2020-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
 | [29 November–6 December 2019](2019-12-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [2–10 September 2019](2019-09-10-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
