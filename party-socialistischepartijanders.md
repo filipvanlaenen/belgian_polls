@@ -41,8 +41,8 @@ Last result: **9** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
-| [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 11–13 | 10–14 | 10–15 | 9–15 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
+| [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 11–14 | 10–14 | 10–15 | 9–15 |
 | [2–8 October 2020](2020-10-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 11–14 | 11–15 | 11–15 | 9–15 |
 | [28 August–1 September 2020](2020-09-01-Dedicated.html) | Dedicated <br> Soirmag | 11 | 9–13 | 9–13 | 9–14 | 8–15 |
 | [10–15 June 2020](2020-06-15-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 9–12 | 9–13 | 8–13 | 8–14 |
@@ -59,11 +59,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 1.4% | 100% | Last Result |
-| 10 | 5% | 98.6% |  |
-| 11 | 42% | 94% |  |
-| 12 | 19% | 52% | Median |
-| 13 | 24% | 33% |  |
-| 14 | 6% | 8% |  |
+| 10 | 4% | 98.5% |  |
+| 11 | 41% | 94% |  |
+| 12 | 21% | 53% | Median |
+| 13 | 20% | 32% |  |
+| 14 | 10% | 12% |  |
 | 15 | 3% | 3% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
