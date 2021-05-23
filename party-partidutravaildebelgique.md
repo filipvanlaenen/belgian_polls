@@ -11,7 +11,6 @@ Last result: **4.8%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.3% | 6.1–6.5% | 6.0–6.5% | 5.9–6.5% | 5.7–6.5% |
-| [29 March–19 April 2021](2021-04-19-TNS.html) | TNS <br> De Standaard and VRT | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.0% | 6.1–6.5% | 6.0–6.5% | 5.9–6.5% | 5.7–6.5% |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6.4% | 5.5–5.9% | 5.5–5.9% | 5.4–5.9% | 5.2–5.9% |
 | [2–8 October 2020](2020-10-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6.7% | 5.8–6.1% | 5.7–6.2% | 5.6–6.2% | 5.5–6.2% |
@@ -43,7 +42,6 @@ Last result: **9** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–13 | 11–14 | 11–14 | 10–16 |
-| [29 March–19 April 2021](2021-04-19-TNS.html) | TNS <br> De Standaard and VRT |  |  |  |  |  |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 13 | 12–13 | 11–14 | 11–14 | 10–16 |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [2–8 October 2020](2020-10-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12 | 11–13 | 11–13 | 10–14 | 10–16 |
