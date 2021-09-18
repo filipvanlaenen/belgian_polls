@@ -10,8 +10,8 @@ Last result: **7.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 6.1–6.8% | 6.0–6.8% | 5.9–6.9% | 5.6–6.9% |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 6.7% | 6.1–6.8% | 6.0–6.8% | 5.9–6.9% | 5.6–6.9% |
+| N/A | [Poll Average](average.html) | 6.9% | 6.6–7.0% | 6.5–7.0% | 6.5–7.0% | 6.3–7.0% |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.6% | 6.6–7.0% | 6.5–7.0% | 6.5–7.0% | 6.3–7.0% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.1% | 6.2–6.5% | 6.1–6.5% | 6.0–6.5% | 5.8–6.6% |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.4% | 6.5–6.8% | 6.4–6.8% | 6.3–6.8% | 6.1–6.9% |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.4% | 6.5–6.8% | 6.4–6.9% | 6.3–6.9% | 6.1–6.9% |
@@ -28,11 +28,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 51% | 99.7% |  |
-| 6.5–7.5% | 100% | 49% | Median |
-| 7.5–8.5% | 8% | 0% | Last Result |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 5% | 100% |  |
+| 6.5–7.5% | 100% | 95% | Median |
+| 7.5–8.5% | 100% | 0% | Last Result |
+| 8.5–9.5% | 21% | 0% |  |
 
 
 ## Seats
@@ -43,8 +43,8 @@ Last result: **14** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 10–14 | 10–14 | 10–14 | 10–14 |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11 | 10–14 | 10–14 | 10–14 | 10–14 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 13–18 |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15 | 13–17 | 13–17 | 13–18 | 13–18 |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 13–15 | 12–16 | 12–16 | 11–17 |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 13–16 | 13–17 | 13–17 | 12–17 |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14 | 13–17 | 12–17 | 12–17 | 12–17 |
@@ -63,13 +63,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% |  |
-| 10 | 13% | 99.7% |  |
-| 11 | 38% | 86% | Median |
-| 12 | 21% | 49% |  |
-| 13 | 15% | 27% |  |
-| 14 | 12% | 12% | Last Result |
-| 15 | 0.3% | 0.3% |  |
-| 16 | 0% | 0% |  |
+| 12 | 0.4% | 100% |  |
+| 13 | 13% | 99.6% |  |
+| 14 | 23% | 86% | Last Result |
+| 15 | 26% | 64% | Median |
+| 16 | 20% | 37% |  |
+| 17 | 14% | 18% |  |
+| 18 | 4% | 4% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 

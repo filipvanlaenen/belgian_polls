@@ -10,8 +10,8 @@ Last result: **12.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.7% | 14.6–16.8% | 14.3–17.1% | 14.1–17.2% | 13.5–17.4% |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.8% | 14.6–16.8% | 14.3–17.1% | 14.1–17.2% | 13.5–17.4% |
+| N/A | [Poll Average](average.html) | 13.5% | 12.9–13.8% | 12.7–13.8% | 12.6–13.8% | 12.2–13.8% |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14.7% | 12.9–13.8% | 12.7–13.8% | 12.6–13.8% | 12.2–13.8% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16.4% | 14.6–15.4% | 14.3–15.4% | 14.2–15.5% | 13.8–15.5% |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14.8% | 13.0–13.9% | 12.8–13.9% | 12.7–13.9% | 12.3–13.9% |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16.6% | 14.7–15.6% | 14.5–15.6% | 14.3–15.6% | 13.9–15.6% |
@@ -28,13 +28,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 0.5% | 100% |  |
-| 13.5–14.5% | 8% | 99.5% |  |
-| 14.5–15.5% | 33% | 92% |  |
-| 15.5–16.5% | 42% | 59% | Median |
-| 16.5–17.5% | 18% | 17% |  |
-| 17.5–18.5% | 3% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 2% | 100% | Last Result |
+| 12.5–13.5% | 53% | 98% |  |
+| 13.5–14.5% | 100% | 45% | Median |
+| 14.5–15.5% | 100% | 0% |  |
+| 15.5–16.5% | 100% | 0% |  |
+| 16.5–17.5% | 12% | 0% |  |
+| 17.5–18.5% | 0.4% | 0% |  |
 
 
 ## Seats

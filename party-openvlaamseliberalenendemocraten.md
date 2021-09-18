@@ -10,8 +10,8 @@ Last result: **8.5%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–8.8% | 6.0–9.0% |
-| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–8.8% | 6.0–9.0% |
+| N/A | [Poll Average](average.html) | 6.4% | 6.0–6.6% | 5.8–6.6% | 5.7–6.6% | 5.4–6.6% |
+| [7–14 September 2021](2021-09-14-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.2% | 6.0–6.6% | 5.8–6.6% | 5.7–6.6% | 5.4–6.6% |
 | [25 May–1 June 2021](2021-06-01-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.2% | 5.9–6.5% | 5.8–6.6% | 5.7–6.6% | 5.4–6.6% |
 | [4–9 March 2021](2021-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8.2% | 6.8–7.5% | 6.7–7.5% | 6.6–7.5% | 6.3–7.5% |
 | [2–8 December 2020](2020-12-08-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 7.6% | 6.3–6.9% | 6.1–6.9% | 6.0–6.9% | 5.7–6.9% |
@@ -28,12 +28,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 5% | 100% |  |
-| 6.5–7.5% | 41% | 95% |  |
-| 7.5–8.5% | 47% | 55% | Median |
-| 8.5–9.5% | 10% | 8% | Last Result |
-| 9.5–10.5% | 0.5% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 1.2% | 100% |  |
+| 5.5–6.5% | 88% | 98.8% | Median |
+| 6.5–7.5% | 100% | 11% |  |
+| 7.5–8.5% | 100% | 0% |  |
+| 8.5–9.5% | 18% | 0% | Last Result |
+| 9.5–10.5% | 0.3% | 0% |  |
 
 
 ## Seats
@@ -68,9 +69,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 98.9% |  |
 | 8 | 5% | 97% |  |
 | 9 | 14% | 93% |  |
-| 10 | 67% | 78% | Median |
+| 10 | 66% | 78% | Median |
 | 11 | 11% | 12% |  |
-| 12 | 0.8% | 1.1% | Last Result |
+| 12 | 0.9% | 1.1% | Last Result |
 | 13 | 0.2% | 0.3% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
