@@ -6,7 +6,7 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | N-VA | VB | PS | CD&V | PTB | PVDA | VLD | MR | VOORUIT | ECOLO | GROEN | CDH | DÉFI | PP |
+| Period     | Polling firm/Commissioner(s) | N-VA | VB | PS | CD&V | PTB | PVDA | VLD | MR | VOORUIT | ECOLO | GROEN | LE | DÉFI | PP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 16.0% <br> 25 | 12.0% <br> 18 | 9.5% <br> 20 | 8.9% <br> 12 | 4.8% <br> 9 | 3.3% <br> 3 | 8.5% <br> 12 | 7.6% <br> 14 | 6.7% <br> 9 | 6.1% <br> 13 | 6.1% <br> 8 | 3.7% <br> 5 | 2.2% <br> 2 | 1.1% <br> 0 |
 | N/A | Poll Average | 11–13% <br> 17–25 | 13–15% <br> 20–28 | 8% <br> 16–21 | 4–6% <br> 5–10 | 6% <br> 11–17 | 3–5% <br> 1–8 | 5–7% <br> 6–13 | 6–7% <br> 12–18 | 8–11% <br> 11–17 | 4% <br> 7–12 | 4–7% <br> 5–11 | 2–3% <br> 4–6 | 2% <br> 1–4 | N/A <br> N/A |
@@ -30,7 +30,7 @@ Only polls for which at least the sample size has been published are included in
 + **VOORUIT:** Vooruit
 + **ECOLO:** Ecolo
 + **GROEN:** Groen
-+ **CDH:** Centre démocrate humaniste
++ **LE:** Les Engagés
 + **DÉFI:** DéFI
 + **PP:** Parti Populaire
 + **N/A (single party):** Party not included the published results
@@ -54,7 +54,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#ecolo">Ecolo</a> | 6.1% | 4.4% | 4.2–4.5% |4.1–4.5% | 4.0–4.5% | 3.8–4.5% |
 | <a href="#groen">Groen</a> | 6.1% | 5.7% | 4.9–6.7% |4.7–6.9% | 4.5–7.0% | 4.2–7.1% |
 | <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 4.8% | 6.1% | 5.9–6.3% |5.8–6.3% | 5.7–6.3% | 5.5–6.3% |
-| <a href="#centre-démocrate-humaniste">Centre démocrate humaniste</a> | 3.7% | 2.6% | 2.3–2.7% |2.2–2.7% | 2.2–2.7% | 2.0–2.7% |
+| <a href="#les-engagés">Les Engagés</a> | 3.7% | 2.6% | 2.3–2.7% |2.2–2.7% | 2.2–2.7% | 2.0–2.7% |
 | <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3.3% | 4.1% | 3.0–4.8% |2.8–4.9% | 2.6–5.0% | 2.3–5.1% |
 | <a href="#défi">DéFI</a> | 2.2% | 1.9% | 1.8–2.0% |1.7–2.0% | 1.6–2.0% | 1.5–2.0% |
 | <a href="#parti-populaire">Parti Populaire</a> | 1.1% | N/A | N/A |N/A | N/A | N/A |
@@ -201,9 +201,9 @@ Only polls for which at least the sample size has been published are included in
 | 7.5–8.5% | 100% | 0% |  |
 | 8.5–9.5% | 16% | 0% |  |
 
-### Centre démocrate humaniste
+### Les Engagés
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste](party-centredémocratehumaniste.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés](party-lesengagés.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -259,7 +259,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#ecolo">Ecolo</a> | 13 | 9 | 8–11 |8–11 | 7–12 | 6–12 |
 | <a href="#groen">Groen</a> | 8 | 8 | 5–9 |5–10 | 5–11 | 5–13 |
 | <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 9 | 13 | 11–15 |11–16 | 11–17 | 10–18 |
-| <a href="#centre-démocrate-humaniste">Centre démocrate humaniste</a> | 5 | 4 | 4–5 |4–5 | 4–6 | 3–7 |
+| <a href="#les-engagés">Les Engagés</a> | 5 | 4 | 4–5 |4–5 | 4–6 | 3–7 |
 | <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3 | 5 | 1–7 |1–7 | 1–8 | 0–8 |
 | <a href="#défi">DéFI</a> | 2 | 2 | 1–4 |1–4 | 1–4 | 1–5 |
 | <a href="#parti-populaire">Parti Populaire</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -477,11 +477,11 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
-### Centre démocrate humaniste
+### Les Engagés
 
-*For a full overview of the results for this party, see the [Centre démocrate humaniste](party-centredémocratehumaniste.html) page.*
+*For a full overview of the results for this party, see the [Les Engagés](party-lesengagés.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-centredémocratehumaniste.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lesengagés.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -545,26 +545,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Centre démocrate humaniste | 93 | 86 | 100% | 82–90 | 81–91 | 80–92 | 79–94 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés | 93 | 86 | 100% | 82–90 | 81–91 | 80–92 | 79–94 |
 | Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 88 | 81 | 98% | 78–86 | 77–87 | 76–88 | 74–90 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Centre démocrate humaniste – Partij van de Arbeid van België | 79 | 79 | 92% | 76–83 | 75–84 | 74–85 | 72–87 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 79 | 79 | 92% | 76–83 | 75–84 | 74–85 | 72–87 |
 | Nieuw-Vlaamse Alliantie – Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 80 | 77 | 73% | 74–81 | 73–82 | 72–83 | 70–85 |
 | Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 76 | 74 | 27% | 70–78 | 69–79 | 68–80 | 67–82 |
-| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Centre démocrate humaniste – Partij van de Arbeid van België | 67 | 72 | 8% | 68–75 | 67–76 | 66–77 | 64–79 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Centre démocrate humaniste | 72 | 69 | 0.8% | 65–72 | 64–73 | 63–74 | 62–76 |
+| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 67 | 72 | 8% | 68–75 | 67–76 | 66–77 | 64–79 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés | 72 | 69 | 0.8% | 65–72 | 64–73 | 63–74 | 62–76 |
 | Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Partij van de Arbeid van België | 62 | 67 | 0.2% | 64–71 | 63–72 | 62–73 | 60–75 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Centre démocrate humaniste | 67 | 62 | 0% | 59–66 | 58–67 | 57–68 | 55–70 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Les Engagés | 67 | 62 | 0% | 59–66 | 58–67 | 57–68 | 55–70 |
 | Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 55 | 57 | 0% | 54–60 | 53–61 | 52–62 | 50–64 |
-| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste | 68 | 57 | 0% | 53–60 | 52–61 | 51–62 | 50–64 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste | 63 | 55 | 0% | 51–58 | 51–59 | 50–60 | 48–62 |
-| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Centre démocrate humaniste | 64 | 53 | 0% | 49–57 | 49–58 | 48–60 | 46–62 |
+| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 68 | 57 | 0% | 53–60 | 52–61 | 51–62 | 50–64 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 63 | 55 | 0% | 51–58 | 51–59 | 50–60 | 48–62 |
+| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés | 64 | 53 | 0% | 49–57 | 49–58 | 48–60 | 46–62 |
 | Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur | 63 | 52 | 0% | 49–56 | 48–57 | 47–58 | 45–60 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Centre démocrate humaniste | 46 | 45 | 0% | 42–48 | 41–49 | 40–50 | 38–51 |
-| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste | 43 | 36 | 0% | 33–39 | 32–40 | 31–41 | 30–43 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Les Engagés | 46 | 45 | 0% | 42–48 | 41–49 | 40–50 | 38–51 |
+| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 43 | 36 | 0% | 33–39 | 32–40 | 31–41 | 30–43 |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Centre démocrate humaniste
+### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–ecolo–groen–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–ecolo–groen–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -619,9 +619,9 @@ Only polls for which at least the sample size has been published are included in
 | 92 | 0.1% | 0.1% |  |
 | 93 | 0% | 0% |  |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Centre démocrate humaniste – Partij van de Arbeid van België
+### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–ecolo–groen–ptb–cdh–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–ecolo–groen–ptb–le–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -704,9 +704,9 @@ Only polls for which at least the sample size has been published are included in
 | 85 | 0% | 0.1% |  |
 | 86 | 0% | 0% |  |
 
-### Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Centre démocrate humaniste – Partij van de Arbeid van België
+### Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–vooruit–ecolo–groen–ptb–cdh–pvda.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–vooruit–ecolo–groen–ptb–le–pvda.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -732,9 +732,9 @@ Only polls for which at least the sample size has been published are included in
 | 81 | 0.1% | 0.1% |  |
 | 82 | 0% | 0% |  |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Centre démocrate humaniste
+### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -788,9 +788,9 @@ Only polls for which at least the sample size has been published are included in
 | 77 | 0.1% | 0.1% |  |
 | 78 | 0% | 0% |  |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Centre démocrate humaniste
+### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–ecolo–groen–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–ecolo–groen–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -843,9 +843,9 @@ Only polls for which at least the sample size has been published are included in
 | 66 | 0.1% | 0.1% |  |
 | 67 | 0% | 0% |  |
 
-### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste
+### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–cdv–vld–mr–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n-va–cdv–vld–mr–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -871,9 +871,9 @@ Only polls for which at least the sample size has been published are included in
 | 67 | 0% | 0% |  |
 | 68 | 0% | 0% | Last Result |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste
+### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -897,9 +897,9 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 0.1% | 0.1% |  |
 | 65 | 0% | 0% |  |
 
-### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Centre démocrate humaniste
+### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–ecolo–groen–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–ecolo–groen–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -952,9 +952,9 @@ Only polls for which at least the sample size has been published are included in
 | 62 | 0.1% | 0.1% |  |
 | 63 | 0% | 0% | Last Result |
 
-### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Centre démocrate humaniste
+### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vooruit–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -978,9 +978,9 @@ Only polls for which at least the sample size has been published are included in
 | 53 | 0.1% | 0.1% |  |
 | 54 | 0% | 0% |  |
 
-### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Centre démocrate humaniste
+### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–cdh.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–le.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
