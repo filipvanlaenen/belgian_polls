@@ -10,7 +10,8 @@ Last result: **3.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.9–4.3% | 3.9–4.3% | 3.8–4.3% | 3.7–4.3% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.9–3.3% | 2.8–3.4% | 2.7–3.4% | 2.5–3.4% |
+| [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 3.7% | 2.8–3.2% | 2.7–3.2% | 2.6–3.2% | 2.4–3.2% |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4.7% | 3.9–4.3% | 3.9–4.3% | 3.8–4.3% | 3.7–4.3% |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 3.5% | 2.8–3.1% | 2.8–3.1% | 2.7–3.1% | 2.6–3.1% |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 3.8% | 3.1–3.4% | 3.0–3.4% | 3.0–3.4% | 2.8–3.4% |
@@ -38,10 +39,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 100% | 99.9% | Last Result, Median |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.8% | 100% |  |
+| 2.5–3.5% | 100% | 99.2% | Median |
+| 3.5–4.5% | 100% | 0% | Last Result |
 | 4.5–5.5% | 100% | 0% |  |
-| 5.5–6.5% | 15% | 0% |  |
+| 5.5–6.5% | 8% | 0% |  |
 
 
 ## Seats
@@ -52,7 +55,8 @@ Last result: **5** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 6–10 | 6–10 | 5–10 |
+| N/A | [Poll Average](average.html) | 7 | 4–9 | 4–9 | 4–10 | 4–10 |
+| [10 September–9 October 2023](2023-10-09-Kantar.html) | Kantar <br> La Libre Belgique and RTBf | 5 | 4–7 | 4–8 | 4–9 | 4–9 |
 | [18–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 8 | 6–9 | 6–10 | 6–10 | 5–10 |
 | [29 May–6 June 2023](2023-06-06-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 4 | 4–5 | 4–6 | 4–6 | 4–8 |
 | [20–27 March 2023](2023-03-27-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 5 | 4–7 | 4–8 | 4–8 | 4–9 |
@@ -82,14 +86,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.1% | 100% |  |
-| 5 | 2% | 99.9% | Last Result |
-| 6 | 9% | 98% |  |
-| 7 | 15% | 89% |  |
-| 8 | 27% | 73% | Median |
-| 9 | 40% | 46% |  |
-| 10 | 6% | 6% |  |
-| 11 | 0.3% | 0.3% |  |
+| 3 | 0% | 100% |  |
+| 4 | 21% | 99.9% |  |
+| 5 | 18% | 79% | Last Result |
+| 6 | 10% | 61% |  |
+| 7 | 11% | 52% | Median |
+| 8 | 16% | 41% |  |
+| 9 | 21% | 24% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 
