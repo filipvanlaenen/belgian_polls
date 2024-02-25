@@ -39,3 +39,4 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
 ![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+.
