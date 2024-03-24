@@ -9,9 +9,9 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | N-VA | VB | PS | CD&V | PTB | PVDA | VLD | MR | VOORUIT | ECOLO | GROEN | LE | DÉFI | PP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 16.0% <br> 25 | 12.0% <br> 18 | 9.5% <br> 20 | 8.9% <br> 12 | 4.8% <br> 9 | 3.3% <br> 3 | 8.5% <br> 12 | 7.6% <br> 14 | 6.7% <br> 9 | 6.1% <br> 13 | 6.1% <br> 8 | 3.7% <br> 5 | 2.2% <br> 2 | 1.1% <br> 0 |
-| N/A | Poll Average | 11–12% <br> 17–23 | 14–16% <br> 21–27 | 7–8% <br> 15–20 | 5–6% <br> 6–11 | 5–6% <br> 10–14 | 5–7% <br> 7–10 | 4–5% <br> 3–7 | 6–7% <br> 13–17 | 7–10% <br> 11–15 | 5% <br> 9–13 | 4–6% <br> 5–9 | 4% <br> 5–10 | 1–2% <br> 1–2 | N/A <br> N/A |
+| N/A | Poll Average | 11–12% <br> 16–22 | 14–16% <br> 22–29 | 7% <br> 13–19 | 5–6% <br> 6–14 | 5–6% <br> 10–14 | 5–7% <br> 6–10 | 4–5% <br> 4–8 | 6–7% <br> 13–18 | 6–10% <br> 8–15 | 4–5% <br> 8–12 | 4–6% <br> 4–9 | 4% <br> 5–12 | 1–2% <br> 1–3 | N/A <br> N/A |
+| [11–18 March 2024](2024-03-18-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 11–14% <br> 16–22 | 15–18% <br> 23–29 | 7% <br> 13–17 | 7–9% <br> 10–15 | 5–6% <br> 10–13 | 5–7% <br> 5–9 | 4–6% <br> 4–9 | 7–8% <br> 14–18 | 6–8% <br> 7–12 | 4% <br> 7–10 | 4–6% <br> 3–8 | 5% <br> 9–12 | 2% <br> 1–4 | N/A <br> N/A |
 | [22 January–8 February 2024](2024-02-08-Kantar.html) | Kantar <br> Knack and Le Vif | 11–12% <br> 17–22 | 14–15% <br> 22–28 | 7–8% <br> 15–19 | 5–6% <br> 6–10 | 6–7% <br> 11–15 | 6–8% <br> 8–11 | 4% <br> 3–8 | 6–7% <br> 13–17 | 8–10% <br> 11–16 | 5% <br> 9–12 | 4–6% <br> 5–9 | 4% <br> 4–9 | 1–2% <br> 1–2 | N/A <br> N/A |
-| [4–11 December 2023](2023-12-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12–15% <br> 18–24 | 14–16% <br> 21–26 | 8% <br> 15–20 | 6–8% <br> 8–12 | 5% <br> 9–12 | 5–7% <br> 6–9 | 4–5% <br> 3–6 | 6–7% <br> 13–17 | 7–9% <br> 10–15 | 5% <br> 9–13 | 5–6% <br> 5–9 | 4% <br> 6–10 | 1–2% <br> 1–2 | N/A <br> N/A |
 | 26 May 2019 | General Election | 16.0% <br> 25 | 12.0% <br> 18 | 9.5% <br> 20 | 8.9% <br> 12 | 4.8% <br> 9 | 3.3% <br> 3 | 8.5% <br> 12 | 7.6% <br> 14 | 6.7% <br> 9 | 6.1% <br> 13 | 6.1% <br> 8 | 3.7% <br> 5 | 2.2% <br> 2 | 1.1% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -44,19 +44,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#nieuw-vlaamse-alliantie">Nieuw-Vlaamse Alliantie</a> | 16.0% | 12.2% | 11.6–12.5% |11.4–12.5% | 11.2–12.5% | 10.9–12.5% |
-| <a href="#vlaams-belang">Vlaams Belang</a> | 12.0% | 15.1% | 14.4–15.4% |14.2–15.5% | 14.0–15.5% | 13.5–15.5% |
-| <a href="#parti-socialiste">Parti Socialiste</a> | 9.5% | 7.9% | 7.6–8.0% |7.5–8.0% | 7.4–8.0% | 7.2–8.0% |
-| <a href="#christen-democratisch-en-vlaams">Christen-Democratisch en Vlaams</a> | 8.9% | 6.0% | 5.5–6.2% |5.4–6.2% | 5.3–6.2% | 5.0–6.2% |
-| <a href="#open-vlaamse-liberalen-en-democraten">Open Vlaamse Liberalen en Democraten</a> | 8.5% | 4.4% | 3.9–4.6% |3.7–4.6% | 3.6–4.6% | 3.3–4.6% |
-| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 7.6% | 6.8% | 6.6–7.0% |6.5–7.0% | 6.4–7.0% | 6.2–7.0% |
-| <a href="#vooruit">Vooruit</a> | 6.7% | 8.7% | 7.9–9.5% |7.6–9.6% | 7.4–9.7% | 7.0–9.8% |
-| <a href="#ecolo">Ecolo</a> | 6.1% | 5.1% | 4.9–5.2% |4.8–5.2% | 4.7–5.2% | 4.6–5.2% |
-| <a href="#groen">Groen</a> | 6.1% | 5.5% | 4.8–6.1% |4.7–6.2% | 4.5–6.2% | 4.2–6.3% |
-| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 4.8% | 5.4% | 5.2–5.6% |5.1–5.6% | 5.0–5.6% | 4.9–5.6% |
+| <a href="#nieuw-vlaamse-alliantie">Nieuw-Vlaamse Alliantie</a> | 16.0% | 12.1% | 11.5–12.4% |11.3–12.4% | 11.1–12.4% | 10.7–12.4% |
+| <a href="#vlaams-belang">Vlaams Belang</a> | 12.0% | 15.3% | 14.6–15.6% |14.4–15.6% | 14.2–15.6% | 13.8–15.7% |
+| <a href="#parti-socialiste">Parti Socialiste</a> | 9.5% | 7.3% | 7.0–7.4% |6.9–7.4% | 6.8–7.4% | 6.6–7.4% |
+| <a href="#christen-democratisch-en-vlaams">Christen-Democratisch en Vlaams</a> | 8.9% | 6.0% | 5.5–6.2% |5.4–6.2% | 5.3–6.2% | 5.0–6.3% |
+| <a href="#open-vlaamse-liberalen-en-democraten">Open Vlaamse Liberalen en Democraten</a> | 8.5% | 4.5% | 4.1–4.7% |4.0–4.7% | 3.9–4.7% | 3.7–4.7% |
+| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 7.6% | 6.9% | 6.6–7.0% |6.5–7.0% | 6.4–7.0% | 6.2–7.0% |
+| <a href="#vooruit">Vooruit</a> | 6.7% | 7.8% | 6.5–9.3% |6.3–9.5% | 6.1–9.6% | 5.7–9.6% |
+| <a href="#ecolo">Ecolo</a> | 6.1% | 4.4% | 4.2–4.5% |4.1–4.6% | 4.0–4.6% | 3.9–4.6% |
+| <a href="#groen">Groen</a> | 6.1% | 5.1% | 4.4–5.7% |4.2–5.8% | 4.0–5.8% | 3.7–5.9% |
+| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 4.8% | 5.5% | 5.3–5.7% |5.2–5.7% | 5.1–5.7% | 5.0–5.7% |
 | <a href="#les-engagés">Les Engagés</a> | 3.7% | 4.0% | 3.8–4.1% |3.7–4.1% | 3.6–4.1% | 3.5–4.1% |
-| <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3.3% | 6.3% | 5.5–7.0% |5.3–7.1% | 5.1–7.2% | 4.7–7.3% |
-| <a href="#défi">DéFI</a> | 2.2% | 1.6% | 1.4–1.6% |1.4–1.6% | 1.4–1.6% | 1.3–1.6% |
+| <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3.3% | 6.2% | 5.4–7.0% |5.2–7.1% | 5.0–7.2% | 4.6–7.3% |
+| <a href="#défi">DéFI</a> | 2.2% | 1.6% | 1.4–1.6% |1.4–1.6% | 1.4–1.7% | 1.3–1.7% |
 | <a href="#parti-populaire">Parti Populaire</a> | 1.1% | N/A | N/A |N/A | N/A | N/A |
 
 ### Nieuw-Vlaamse Alliantie
@@ -66,13 +66,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
-| 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 8% | 99.9% |  |
-| 11.5–12.5% | 91% | 92% | Median |
-| 12.5–13.5% | 100% | 0.4% |  |
-| 13.5–14.5% | 100% | 0% |  |
-| 14.5–15.5% | 17% | 0% |  |
-| 15.5–16.5% | 0.9% | 0% | Last Result |
+| 9.5–10.5% | 0.3% | 100% |  |
+| 10.5–11.5% | 12% | 99.7% |  |
+| 11.5–12.5% | 100% | 87% | Median |
+| 12.5–13.5% | 100% | 0% |  |
+| 13.5–14.5% | 92% | 0% |  |
+| 14.5–15.5% | 11% | 0% |  |
+| 15.5–16.5% | 0.3% | 0% | Last Result |
 
 ### Vlaams Belang
 
@@ -81,13 +81,13 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 0.6% | 100% |  |
-| 13.5–14.5% | 14% | 99.4% |  |
-| 14.5–15.5% | 94% | 86% | Median |
-| 15.5–16.5% | 100% | 0% |  |
+| 12.5–13.5% | 0.2% | 100% |  |
+| 13.5–14.5% | 8% | 99.8% |  |
+| 14.5–15.5% | 75% | 92% | Median |
+| 15.5–16.5% | 100% | 17% |  |
 | 16.5–17.5% | 100% | 0% |  |
-| 17.5–18.5% | 19% | 0% |  |
-| 18.5–19.5% | 1.0% | 0% |  |
+| 17.5–18.5% | 31% | 0% |  |
+| 18.5–19.5% | 3% | 0% |  |
 
 ### Parti Socialiste
 
@@ -95,11 +95,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 6% | 100% |  |
-| 7.5–8.5% | 100% | 94% | Median |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 100% | 99.6% | Median |
+| 7.5–8.5% | 100% | 0% |  |
 | 8.5–9.5% | 100% | 0% | Last Result |
-| 9.5–10.5% | 21% | 0% |  |
+| 9.5–10.5% | 8% | 0% |  |
 
 ### Christen-Democratisch en Vlaams
 
@@ -111,8 +112,9 @@ Only polls for which at least the sample size has been published are included in
 | 4.5–5.5% | 11% | 100% |  |
 | 5.5–6.5% | 100% | 89% | Median |
 | 6.5–7.5% | 100% | 0% |  |
-| 7.5–8.5% | 38% | 0% |  |
-| 8.5–9.5% | 2% | 0% | Last Result |
+| 7.5–8.5% | 52% | 0% |  |
+| 8.5–9.5% | 14% | 0% | Last Result |
+| 9.5–10.5% | 1.1% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten
 
@@ -121,10 +123,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 80% | 98% | Median |
-| 4.5–5.5% | 100% | 18% |  |
-| 5.5–6.5% | 73% | 0% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 55% | 99.8% |  |
+| 4.5–5.5% | 100% | 45% | Median |
+| 5.5–6.5% | 85% | 0% |  |
 | 6.5–7.5% | 2% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
 | 8.5–9.5% | 0% | 0% | Last Result |
@@ -136,10 +138,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 8% | 100% |  |
-| 6.5–7.5% | 100% | 92% | Median |
+| 5.5–6.5% | 7% | 100% |  |
+| 6.5–7.5% | 100% | 93% | Median |
 | 7.5–8.5% | 100% | 0% | Last Result |
-| 8.5–9.5% | 13% | 0% |  |
+| 8.5–9.5% | 94% | 0% |  |
+| 9.5–10.5% | 0.3% | 0% |  |
 
 ### Vooruit
 
@@ -147,12 +150,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 4% | 100% | Last Result |
-| 7.5–8.5% | 35% | 96% |  |
-| 8.5–9.5% | 54% | 61% | Median |
-| 9.5–10.5% | 17% | 7% |  |
-| 10.5–11.5% | 1.2% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.2% | 100% |  |
+| 5.5–6.5% | 10% | 99.8% |  |
+| 6.5–7.5% | 33% | 90% | Last Result |
+| 7.5–8.5% | 23% | 57% | Median |
+| 8.5–9.5% | 31% | 34% |  |
+| 9.5–10.5% | 13% | 3% |  |
+| 10.5–11.5% | 1.0% | 0% |  |
 
 ### Ecolo
 
@@ -161,10 +166,10 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 100% | 99.6% | Median |
+| 3.5–4.5% | 92% | 100% | Median |
+| 4.5–5.5% | 100% | 8% |  |
 | 5.5–6.5% | 100% | 0% | Last Result |
-| 6.5–7.5% | 14% | 0% |  |
+| 6.5–7.5% | 6% | 0% |  |
 
 ### Groen
 
@@ -172,11 +177,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 51% | 97% | Median |
-| 5.5–6.5% | 51% | 46% | Last Result |
-| 6.5–7.5% | 6% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 17% | 99.8% |  |
+| 4.5–5.5% | 66% | 82% | Median |
+| 5.5–6.5% | 27% | 17% | Last Result |
+| 6.5–7.5% | 1.4% | 0% |  |
 
 ### Parti du Travail de Belgique
 
@@ -185,8 +191,8 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 89% | 100% | Last Result, Median |
-| 5.5–6.5% | 100% | 11% |  |
+| 4.5–5.5% | 51% | 100% | Last Result |
+| 5.5–6.5% | 100% | 49% | Median |
 | 6.5–7.5% | 100% | 0% |  |
 | 7.5–8.5% | 100% | 0% |  |
 | 8.5–9.5% | 0.4% | 0% |  |
@@ -198,10 +204,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 100% | 98.7% | Last Result, Median |
+| 2.5–3.5% | 1.2% | 100% |  |
+| 3.5–4.5% | 100% | 98.8% | Last Result, Median |
 | 4.5–5.5% | 100% | 0% |  |
-| 5.5–6.5% | 18% | 0% |  |
+| 5.5–6.5% | 100% | 0% |  |
+| 6.5–7.5% | 12% | 0% |  |
 
 ### Partij van de Arbeid van België
 
@@ -210,11 +217,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% | Last Result |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 12% | 99.8% |  |
-| 5.5–6.5% | 53% | 88% | Median |
-| 6.5–7.5% | 41% | 35% |  |
-| 7.5–8.5% | 6% | 0% |  |
+| 3.5–4.5% | 0.3% | 100% |  |
+| 4.5–5.5% | 15% | 99.7% |  |
+| 5.5–6.5% | 52% | 84% | Median |
+| 6.5–7.5% | 38% | 32% |  |
+| 7.5–8.5% | 5% | 0% |  |
 
 ### DéFI
 
@@ -223,9 +230,9 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 46% | 100% |  |
-| 1.5–2.5% | 100% | 54% | Last Result, Median |
-| 2.5–3.5% | 5% | 0% |  |
+| 0.5–1.5% | 38% | 100% |  |
+| 1.5–2.5% | 100% | 62% | Last Result, Median |
+| 2.5–3.5% | 54% | 0% |  |
 
 
 ## Seats
@@ -238,19 +245,19 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#nieuw-vlaamse-alliantie">Nieuw-Vlaamse Alliantie</a> | 25 | 20 | 18–22 |18–23 | 17–23 | 16–25 |
-| <a href="#vlaams-belang">Vlaams Belang</a> | 18 | 25 | 22–26 |21–27 | 21–27 | 21–28 |
-| <a href="#parti-socialiste">Parti Socialiste</a> | 20 | 17 | 16–19 |15–19 | 15–20 | 14–20 |
-| <a href="#christen-democratisch-en-vlaams">Christen-Democratisch en Vlaams</a> | 12 | 10 | 8–10 |7–11 | 6–11 | 6–13 |
-| <a href="#open-vlaamse-liberalen-en-democraten">Open Vlaamse Liberalen en Democraten</a> | 12 | 6 | 3–7 |3–7 | 3–7 | 2–8 |
-| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 14 | 14 | 13–16 |13–17 | 13–17 | 12–18 |
-| <a href="#vooruit">Vooruit</a> | 9 | 12 | 11–14 |11–15 | 11–15 | 10–16 |
-| <a href="#ecolo">Ecolo</a> | 13 | 10 | 9–12 |9–12 | 9–13 | 8–13 |
-| <a href="#groen">Groen</a> | 8 | 7 | 5–9 |5–9 | 5–9 | 5–9 |
-| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 9 | 12 | 10–13 |10–14 | 10–14 | 8–16 |
-| <a href="#les-engagés">Les Engagés</a> | 5 | 8 | 6–9 |5–10 | 5–10 | 4–11 |
-| <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3 | 8 | 8–9 |7–10 | 7–10 | 5–12 |
-| <a href="#défi">DéFI</a> | 2 | 1 | 1–2 |1–2 | 1–2 | 1–3 |
+| <a href="#nieuw-vlaamse-alliantie">Nieuw-Vlaamse Alliantie</a> | 25 | 19 | 18–21 |17–22 | 16–22 | 15–23 |
+| <a href="#vlaams-belang">Vlaams Belang</a> | 18 | 26 | 23–28 |23–29 | 22–29 | 21–30 |
+| <a href="#parti-socialiste">Parti Socialiste</a> | 20 | 16 | 15–18 |14–18 | 13–19 | 12–19 |
+| <a href="#christen-democratisch-en-vlaams">Christen-Democratisch en Vlaams</a> | 12 | 10 | 9–13 |7–13 | 6–14 | 6–15 |
+| <a href="#open-vlaamse-liberalen-en-democraten">Open Vlaamse Liberalen en Democraten</a> | 12 | 6 | 4–7 |4–8 | 4–8 | 3–9 |
+| <a href="#mouvement-réformateur">Mouvement Réformateur</a> | 14 | 15 | 14–17 |13–17 | 13–18 | 12–18 |
+| <a href="#vooruit">Vooruit</a> | 9 | 11 | 9–14 |9–15 | 8–15 | 7–16 |
+| <a href="#ecolo">Ecolo</a> | 13 | 9 | 8–11 |8–11 | 8–12 | 7–13 |
+| <a href="#groen">Groen</a> | 8 | 7 | 5–8 |5–9 | 4–9 | 3–9 |
+| <a href="#parti-du-travail-de-belgique">Parti du Travail de Belgique</a> | 9 | 12 | 10–13 |10–14 | 10–14 | 9–16 |
+| <a href="#les-engagés">Les Engagés</a> | 5 | 9 | 6–11 |5–12 | 5–12 | 4–13 |
+| <a href="#partij-van-de-arbeid-van-belgië">Partij van de Arbeid van België</a> | 3 | 8 | 8–10 |7–10 | 6–10 | 5–12 |
+| <a href="#défi">DéFI</a> | 2 | 1 | 1–2 |1–3 | 1–3 | 1–4 |
 | <a href="#parti-populaire">Parti Populaire</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 
 ### Nieuw-Vlaamse Alliantie
@@ -261,19 +268,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.3% | 100% |  |
-| 16 | 0.7% | 99.7% |  |
-| 17 | 3% | 99.0% |  |
-| 18 | 17% | 96% |  |
-| 19 | 14% | 78% |  |
-| 20 | 31% | 64% | Median |
-| 21 | 16% | 33% |  |
-| 22 | 12% | 18% |  |
-| 23 | 5% | 6% |  |
-| 24 | 0.9% | 1.4% |  |
-| 25 | 0.4% | 0.5% | Last Result |
-| 26 | 0.1% | 0.1% |  |
-| 27 | 0% | 0% |  |
+| 15 | 0.6% | 100% |  |
+| 16 | 2% | 99.4% |  |
+| 17 | 7% | 97% |  |
+| 18 | 22% | 90% |  |
+| 19 | 23% | 68% | Median |
+| 20 | 28% | 45% |  |
+| 21 | 11% | 17% |  |
+| 22 | 5% | 6% |  |
+| 23 | 1.0% | 1.3% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0.1% | Last Result |
+| 26 | 0% | 0% |  |
 
 ### Vlaams Belang
 
@@ -284,19 +290,20 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0% | 100% | Last Result |
-| 19 | 0.1% | 100% |  |
-| 20 | 0.3% | 99.9% |  |
-| 21 | 5% | 99.6% |  |
-| 22 | 9% | 95% |  |
-| 23 | 15% | 86% |  |
-| 24 | 13% | 71% |  |
-| 25 | 36% | 57% | Median |
-| 26 | 16% | 21% |  |
-| 27 | 4% | 6% |  |
-| 28 | 2% | 2% |  |
-| 29 | 0.3% | 0.4% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 1.2% | 99.9% |  |
+| 22 | 4% | 98.7% |  |
+| 23 | 7% | 95% |  |
+| 24 | 9% | 88% |  |
+| 25 | 29% | 79% |  |
+| 26 | 22% | 51% | Median |
+| 27 | 14% | 28% |  |
+| 28 | 8% | 14% |  |
+| 29 | 5% | 6% |  |
+| 30 | 1.0% | 1.3% |  |
+| 31 | 0.2% | 0.2% |  |
+| 32 | 0% | 0% |  |
 
 ### Parti Socialiste
 
@@ -306,16 +313,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 13 | 0.1% | 100% |  |
-| 14 | 0.8% | 99.9% |  |
-| 15 | 4% | 99.1% |  |
-| 16 | 21% | 95% |  |
-| 17 | 45% | 74% | Median |
-| 18 | 18% | 29% |  |
-| 19 | 7% | 11% |  |
-| 20 | 4% | 4% | Last Result |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 0.9% | 99.9% |  |
+| 13 | 2% | 98.9% |  |
+| 14 | 5% | 97% |  |
+| 15 | 13% | 92% |  |
+| 16 | 33% | 79% | Median |
+| 17 | 31% | 45% |  |
+| 18 | 12% | 15% |  |
+| 19 | 2% | 3% |  |
+| 20 | 0.5% | 0.5% | Last Result |
+| 21 | 0% | 0% |  |
 
 ### Christen-Democratisch en Vlaams
 
@@ -327,15 +335,16 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.4% | 100% |  |
 | 6 | 3% | 99.6% |  |
-| 7 | 3% | 96% |  |
-| 8 | 5% | 94% |  |
-| 9 | 11% | 89% |  |
-| 10 | 69% | 78% | Median |
-| 11 | 6% | 9% |  |
-| 12 | 2% | 2% | Last Result |
-| 13 | 0.5% | 0.7% |  |
-| 14 | 0.2% | 0.2% |  |
-| 15 | 0% | 0% |  |
+| 7 | 2% | 97% |  |
+| 8 | 4% | 94% |  |
+| 9 | 8% | 91% |  |
+| 10 | 48% | 83% | Median |
+| 11 | 18% | 35% |  |
+| 12 | 6% | 17% | Last Result |
+| 13 | 7% | 10% |  |
+| 14 | 2% | 3% |  |
+| 15 | 1.2% | 1.3% |  |
+| 16 | 0% | 0% |  |
 
 ### Open Vlaamse Liberalen en Democraten
 
@@ -345,15 +354,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.5% | 100% |  |
-| 3 | 10% | 99.5% |  |
-| 4 | 22% | 89% |  |
-| 5 | 8% | 67% |  |
-| 6 | 49% | 59% | Median |
-| 7 | 9% | 10% |  |
-| 8 | 0.9% | 1.4% |  |
-| 9 | 0.4% | 0.5% |  |
-| 10 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 9% | 98% |  |
+| 5 | 5% | 89% |  |
+| 6 | 55% | 84% | Median |
+| 7 | 22% | 29% |  |
+| 8 | 5% | 7% |  |
+| 9 | 2% | 2% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 | 12 | 0% | 0% | Last Result |
 
@@ -365,14 +373,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 12 | 0.6% | 100% |  |
-| 13 | 10% | 99.4% |  |
-| 14 | 46% | 90% | Last Result, Median |
-| 15 | 25% | 44% |  |
-| 16 | 12% | 19% |  |
-| 17 | 6% | 7% |  |
-| 18 | 1.0% | 1.0% |  |
-| 19 | 0% | 0% |  |
+| 12 | 0.5% | 100% |  |
+| 13 | 6% | 99.4% |  |
+| 14 | 39% | 93% | Last Result |
+| 15 | 24% | 54% | Median |
+| 16 | 15% | 30% |  |
+| 17 | 12% | 16% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.3% | 0.3% |  |
+| 20 | 0% | 0% |  |
 
 ### Vooruit
 
@@ -382,14 +391,17 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 9 | 0.3% | 100% | Last Result |
-| 10 | 1.1% | 99.6% |  |
-| 11 | 29% | 98.6% |  |
-| 12 | 30% | 70% | Median |
-| 13 | 19% | 40% |  |
-| 14 | 10% | 20% |  |
-| 15 | 8% | 10% |  |
-| 16 | 2% | 2% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 1.4% | 99.8% |  |
+| 8 | 2% | 98% |  |
+| 9 | 15% | 96% | Last Result |
+| 10 | 12% | 81% |  |
+| 11 | 26% | 69% | Median |
+| 12 | 18% | 44% |  |
+| 13 | 11% | 26% |  |
+| 14 | 7% | 15% |  |
+| 15 | 6% | 8% |  |
+| 16 | 1.5% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
@@ -401,13 +413,16 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 1.1% | 100% |  |
-| 9 | 31% | 98.9% |  |
-| 10 | 31% | 68% | Median |
-| 11 | 22% | 37% |  |
-| 12 | 12% | 15% |  |
-| 13 | 3% | 3% | Last Result |
-| 14 | 0.2% | 0.2% |  |
+| 5 | 0.1% | 100% |  |
+| 6 | 0.4% | 99.9% |  |
+| 7 | 1.0% | 99.5% |  |
+| 8 | 17% | 98% |  |
+| 9 | 43% | 81% | Median |
+| 10 | 21% | 39% |  |
+| 11 | 13% | 17% |  |
+| 12 | 4% | 5% |  |
+| 13 | 0.8% | 0.9% | Last Result |
+| 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 
 ### Groen
@@ -418,15 +433,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 0.2% | 99.9% |  |
-| 5 | 13% | 99.7% |  |
-| 6 | 10% | 86% |  |
-| 7 | 41% | 76% | Median |
-| 8 | 12% | 35% | Last Result |
-| 9 | 23% | 23% |  |
-| 10 | 0.1% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 2% | 98% |  |
+| 5 | 33% | 97% |  |
+| 6 | 13% | 64% |  |
+| 7 | 36% | 50% | Median |
+| 8 | 7% | 14% | Last Result |
+| 9 | 7% | 7% |  |
+| 10 | 0% | 0% |  |
 
 ### Parti du Travail de Belgique
 
@@ -436,12 +450,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.6% | 100% |  |
-| 9 | 2% | 99.4% | Last Result |
-| 10 | 15% | 98% |  |
-| 11 | 25% | 83% |  |
-| 12 | 26% | 58% | Median |
-| 13 | 23% | 31% |  |
+| 8 | 0.1% | 100% |  |
+| 9 | 0.6% | 99.9% | Last Result |
+| 10 | 15% | 99.3% |  |
+| 11 | 24% | 84% |  |
+| 12 | 28% | 60% | Median |
+| 13 | 24% | 32% |  |
 | 14 | 6% | 9% |  |
 | 15 | 2% | 2% |  |
 | 16 | 0.4% | 0.6% |  |
@@ -458,13 +472,16 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.4% | 100% |  |
 | 5 | 7% | 98.6% | Last Result |
-| 6 | 13% | 92% |  |
-| 7 | 15% | 78% |  |
-| 8 | 28% | 63% | Median |
-| 9 | 29% | 35% |  |
-| 10 | 5% | 6% |  |
-| 11 | 0.8% | 0.9% |  |
-| 12 | 0% | 0% |  |
+| 6 | 10% | 92% |  |
+| 7 | 9% | 82% |  |
+| 8 | 13% | 73% |  |
+| 9 | 23% | 60% | Median |
+| 10 | 10% | 37% |  |
+| 11 | 20% | 28% |  |
+| 12 | 6% | 7% |  |
+| 13 | 0.8% | 0.9% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### Partij van de Arbeid van België
 
@@ -476,14 +493,14 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0% | 100% | Last Result |
 | 4 | 0% | 100% |  |
-| 5 | 0.8% | 100% |  |
-| 6 | 1.1% | 99.2% |  |
-| 7 | 5% | 98% |  |
-| 8 | 55% | 93% | Median |
-| 9 | 28% | 38% |  |
-| 10 | 8% | 10% |  |
+| 5 | 1.5% | 100% |  |
+| 6 | 2% | 98.5% |  |
+| 7 | 4% | 97% |  |
+| 8 | 57% | 93% | Median |
+| 9 | 25% | 35% |  |
+| 10 | 9% | 10% |  |
 | 11 | 0.9% | 1.4% |  |
-| 12 | 0.3% | 0.6% |  |
+| 12 | 0.3% | 0.5% |  |
 | 13 | 0.3% | 0.3% |  |
 | 14 | 0% | 0% |  |
 
@@ -496,10 +513,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% |  |
-| 1 | 79% | 99.9% | Median |
-| 2 | 20% | 21% | Last Result |
-| 3 | 0.7% | 0.9% |  |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 73% | 99.9% | Median |
+| 2 | 18% | 27% | Last Result |
+| 3 | 7% | 9% |  |
+| 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
 ### Parti Populaire
@@ -517,47 +534,22 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés | 93 | 84 | 100% | 81–87 | 81–88 | 80–89 | 78–90 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 79 | 85 | 100% | 82–87 | 81–88 | 80–89 | 79–90 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 88 | 77 | 67% | 73–80 | 73–80 | 72–81 | 70–82 |
-| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 67 | 75 | 39% | 72–78 | 71–78 | 71–79 | 69–80 |
-| Nieuw-Vlaamse Alliantie – Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 80 | 69 | 0.4% | 66–72 | 66–73 | 65–74 | 64–75 |
-| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Partij van de Arbeid van België | 62 | 67 | 0.1% | 64–70 | 63–72 | 62–72 | 61–74 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés | 72 | 67 | 0% | 64–70 | 63–70 | 62–71 | 61–73 |
-| Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 76 | 67 | 0% | 64–70 | 63–71 | 62–71 | 61–73 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Les Engagés | 67 | 64 | 0% | 61–67 | 60–68 | 59–69 | 58–71 |
-| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 68 | 57 | 0% | 54–61 | 53–62 | 52–62 | 50–64 |
-| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés | 64 | 55 | 0% | 52–58 | 51–58 | 50–59 | 48–61 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 63 | 54 | 0% | 52–57 | 51–58 | 50–58 | 48–60 |
-| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur | 63 | 50 | 0% | 47–52 | 46–53 | 45–54 | 44–56 |
-| Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 55 | 49 | 0% | 47–52 | 46–53 | 45–54 | 44–55 |
-| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Les Engagés | 46 | 47 | 0% | 44–50 | 43–50 | 42–51 | 41–53 |
-| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 43 | 37 | 0% | 35–40 | 34–41 | 33–41 | 31–42 |
-
-### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–ecolo–groen–le.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 76 | 0% | 100% | Majority |
-| 77 | 0.2% | 99.9% |  |
-| 78 | 0.5% | 99.8% |  |
-| 79 | 1.2% | 99.3% |  |
-| 80 | 3% | 98% |  |
-| 81 | 6% | 95% |  |
-| 82 | 10% | 89% |  |
-| 83 | 15% | 79% |  |
-| 84 | 19% | 64% | Median |
-| 85 | 19% | 46% |  |
-| 86 | 13% | 27% |  |
-| 87 | 8% | 14% |  |
-| 88 | 4% | 7% |  |
-| 89 | 2% | 3% |  |
-| 90 | 0.6% | 0.8% |  |
-| 91 | 0.1% | 0.2% |  |
-| 92 | 0% | 0% |  |
-| 93 | 0% | 0% | Last Result |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 79 | 83 | 99.4% | 79–87 | 78–87 | 77–88 | 75–89 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés | 93 | 84 | 100% | 81–86 | 80–87 | 79–87 | 78–89 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 88 | 75 | 39% | 71–78 | 70–79 | 69–80 | 68–82 |
+| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België | 67 | 72 | 24% | 68–77 | 67–78 | 66–79 | 64–80 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés | 72 | 68 | 0.1% | 64–71 | 63–72 | 63–73 | 61–74 |
+| Nieuw-Vlaamse Alliantie – Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 80 | 68 | 0.1% | 65–71 | 64–72 | 63–73 | 61–75 |
+| Parti Socialiste – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Partij van de Arbeid van België | 62 | 63 | 0.1% | 57–70 | 56–71 | 55–72 | 54–74 |
+| Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen | 76 | 64 | 0% | 60–69 | 59–70 | 58–71 | 57–73 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Les Engagés | 67 | 63 | 0% | 59–65 | 59–66 | 58–67 | 56–68 |
+| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 68 | 59 | 0% | 54–65 | 53–66 | 52–67 | 50–68 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 63 | 56 | 0% | 52–61 | 51–62 | 50–63 | 48–64 |
+| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés | 64 | 56 | 0% | 52–60 | 51–61 | 50–62 | 48–64 |
+| Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur | 63 | 51 | 0% | 47–54 | 46–55 | 45–56 | 44–58 |
+| Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit | 55 | 49 | 0% | 46–52 | 45–53 | 44–54 | 43–55 |
+| Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Les Engagés | 46 | 47 | 0% | 44–50 | 43–50 | 42–51 | 41–52 |
+| Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés | 43 | 40 | 0% | 35–45 | 34–46 | 33–47 | 31–49 |
 
 ### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Ecolo – Groen – Parti du Travail de Belgique – Les Engagés – Partij van de Arbeid van België
 
@@ -565,22 +557,51 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 77 | 0% | 100% |  |
-| 78 | 0.2% | 99.9% |  |
-| 79 | 0.6% | 99.8% | Last Result |
-| 80 | 2% | 99.1% |  |
-| 81 | 4% | 97% |  |
-| 82 | 9% | 93% |  |
-| 83 | 14% | 84% |  |
-| 84 | 17% | 69% | Median |
-| 85 | 19% | 52% |  |
-| 86 | 15% | 33% |  |
-| 87 | 10% | 18% |  |
-| 88 | 5% | 8% |  |
-| 89 | 2% | 3% |  |
-| 90 | 0.6% | 0.8% |  |
-| 91 | 0.1% | 0.2% |  |
+| 73 | 0% | 100% |  |
+| 74 | 0.1% | 99.9% |  |
+| 75 | 0.4% | 99.8% |  |
+| 76 | 1.0% | 99.4% | Majority |
+| 77 | 2% | 98% |  |
+| 78 | 5% | 96% |  |
+| 79 | 7% | 91% | Last Result |
+| 80 | 9% | 84% |  |
+| 81 | 11% | 75% |  |
+| 82 | 11% | 64% | Median |
+| 83 | 12% | 53% |  |
+| 84 | 11% | 41% |  |
+| 85 | 11% | 30% |  |
+| 86 | 8% | 19% |  |
+| 87 | 6% | 11% |  |
+| 88 | 3% | 5% |  |
+| 89 | 1.1% | 2% |  |
+| 90 | 0.3% | 0.4% |  |
+| 91 | 0.1% | 0.1% |  |
 | 92 | 0% | 0% |  |
+
+### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen – Les Engagés
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–ecolo–groen–le.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 76 | 0.1% | 100% | Majority |
+| 77 | 0.3% | 99.9% |  |
+| 78 | 0.8% | 99.6% |  |
+| 79 | 2% | 98.8% |  |
+| 80 | 4% | 97% |  |
+| 81 | 8% | 92% |  |
+| 82 | 14% | 84% |  |
+| 83 | 18% | 70% | Median |
+| 84 | 19% | 52% |  |
+| 85 | 16% | 33% |  |
+| 86 | 10% | 17% |  |
+| 87 | 5% | 7% |  |
+| 88 | 2% | 2% |  |
+| 89 | 0.5% | 0.7% |  |
+| 90 | 0.1% | 0.1% |  |
+| 91 | 0% | 0% |  |
+| 92 | 0% | 0% |  |
+| 93 | 0% | 0% | Last Result |
 
 ### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen
 
@@ -588,23 +609,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 68 | 0% | 100% |  |
-| 69 | 0.1% | 99.9% |  |
-| 70 | 0.5% | 99.8% |  |
-| 71 | 1.2% | 99.3% |  |
-| 72 | 3% | 98% |  |
-| 73 | 6% | 95% |  |
-| 74 | 9% | 90% |  |
-| 75 | 14% | 80% |  |
-| 76 | 17% | 67% | Median, Majority |
-| 77 | 16% | 50% |  |
-| 78 | 14% | 34% |  |
-| 79 | 10% | 20% |  |
-| 80 | 6% | 10% |  |
-| 81 | 3% | 5% |  |
-| 82 | 1.2% | 2% |  |
-| 83 | 0.4% | 0.5% |  |
-| 84 | 0.1% | 0.1% |  |
+| 66 | 0.1% | 100% |  |
+| 67 | 0.3% | 99.9% |  |
+| 68 | 0.7% | 99.6% |  |
+| 69 | 2% | 98.9% |  |
+| 70 | 3% | 97% |  |
+| 71 | 6% | 94% |  |
+| 72 | 9% | 88% |  |
+| 73 | 12% | 79% |  |
+| 74 | 14% | 67% | Median |
+| 75 | 14% | 53% |  |
+| 76 | 12% | 39% | Majority |
+| 77 | 10% | 27% |  |
+| 78 | 8% | 17% |  |
+| 79 | 5% | 10% |  |
+| 80 | 3% | 5% |  |
+| 81 | 1.3% | 2% |  |
+| 82 | 0.5% | 0.6% |  |
+| 83 | 0.1% | 0.1% |  |
+| 84 | 0% | 0% |  |
 | 85 | 0% | 0% |  |
 | 86 | 0% | 0% |  |
 | 87 | 0% | 0% |  |
@@ -616,23 +639,54 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0% | 100% | Last Result |
-| 68 | 0.1% | 100% |  |
-| 69 | 0.4% | 99.9% |  |
-| 70 | 1.4% | 99.5% |  |
-| 71 | 4% | 98% |  |
-| 72 | 7% | 95% |  |
-| 73 | 13% | 87% |  |
-| 74 | 16% | 74% | Median |
-| 75 | 19% | 58% |  |
-| 76 | 16% | 39% | Majority |
-| 77 | 11% | 22% |  |
-| 78 | 6% | 11% |  |
-| 79 | 3% | 5% |  |
-| 80 | 1.2% | 2% |  |
-| 81 | 0.4% | 0.5% |  |
+| 62 | 0.1% | 100% |  |
+| 63 | 0.2% | 99.9% |  |
+| 64 | 0.5% | 99.8% |  |
+| 65 | 1.2% | 99.3% |  |
+| 66 | 3% | 98% |  |
+| 67 | 5% | 95% | Last Result |
+| 68 | 8% | 90% |  |
+| 69 | 9% | 83% |  |
+| 70 | 9% | 74% |  |
+| 71 | 8% | 64% |  |
+| 72 | 7% | 57% | Median |
+| 73 | 7% | 50% |  |
+| 74 | 8% | 42% |  |
+| 75 | 10% | 34% |  |
+| 76 | 9% | 24% | Majority |
+| 77 | 7% | 15% |  |
+| 78 | 5% | 8% |  |
+| 79 | 2% | 4% |  |
+| 80 | 1.0% | 1.4% |  |
+| 81 | 0.3% | 0.4% |  |
 | 82 | 0.1% | 0.1% |  |
 | 83 | 0% | 0% |  |
+
+### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–le.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 59 | 0.1% | 100% |  |
+| 60 | 0.2% | 99.9% |  |
+| 61 | 0.6% | 99.7% |  |
+| 62 | 1.5% | 99.0% |  |
+| 63 | 3% | 98% |  |
+| 64 | 5% | 95% |  |
+| 65 | 8% | 90% |  |
+| 66 | 12% | 81% |  |
+| 67 | 14% | 70% | Median |
+| 68 | 15% | 56% |  |
+| 69 | 14% | 40% |  |
+| 70 | 11% | 26% |  |
+| 71 | 8% | 15% |  |
+| 72 | 5% | 8% | Last Result |
+| 73 | 2% | 3% |  |
+| 74 | 0.8% | 1.1% |  |
+| 75 | 0.2% | 0.3% |  |
+| 76 | 0.1% | 0.1% | Majority |
+| 77 | 0% | 0% |  |
 
 ### Nieuw-Vlaamse Alliantie – Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit
 
@@ -640,22 +694,25 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 62 | 0.1% | 100% |  |
-| 63 | 0.3% | 99.9% |  |
-| 64 | 0.9% | 99.7% |  |
-| 65 | 3% | 98.8% |  |
-| 66 | 6% | 96% |  |
-| 67 | 11% | 90% |  |
-| 68 | 16% | 79% |  |
-| 69 | 17% | 63% | Median |
-| 70 | 16% | 46% |  |
-| 71 | 13% | 30% |  |
-| 72 | 9% | 17% |  |
-| 73 | 5% | 9% |  |
-| 74 | 2% | 4% |  |
-| 75 | 1.0% | 1.4% |  |
-| 76 | 0.3% | 0.4% | Majority |
-| 77 | 0.1% | 0.1% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0.1% | 99.9% |  |
+| 61 | 0.4% | 99.8% |  |
+| 62 | 1.0% | 99.4% |  |
+| 63 | 2% | 98% |  |
+| 64 | 4% | 96% |  |
+| 65 | 8% | 92% |  |
+| 66 | 12% | 84% |  |
+| 67 | 15% | 72% | Median |
+| 68 | 16% | 57% |  |
+| 69 | 14% | 42% |  |
+| 70 | 11% | 27% |  |
+| 71 | 7% | 16% |  |
+| 72 | 5% | 9% |  |
+| 73 | 2% | 4% |  |
+| 74 | 1.1% | 2% |  |
+| 75 | 0.4% | 0.5% |  |
+| 76 | 0.1% | 0.1% | Majority |
+| 77 | 0% | 0% |  |
 | 78 | 0% | 0% |  |
 | 79 | 0% | 0% |  |
 | 80 | 0% | 0% | Last Result |
@@ -666,49 +723,32 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 0.6% | 99.8% |  |
-| 62 | 2% | 99.1% | Last Result |
-| 63 | 4% | 97% |  |
-| 64 | 8% | 93% |  |
-| 65 | 12% | 85% |  |
-| 66 | 14% | 74% | Median |
-| 67 | 16% | 59% |  |
-| 68 | 14% | 43% |  |
-| 69 | 11% | 29% |  |
-| 70 | 8% | 18% |  |
-| 71 | 5% | 10% |  |
+| 52 | 0.1% | 100% |  |
+| 53 | 0.3% | 99.9% |  |
+| 54 | 0.7% | 99.6% |  |
+| 55 | 2% | 98.8% |  |
+| 56 | 3% | 97% |  |
+| 57 | 6% | 94% |  |
+| 58 | 9% | 88% |  |
+| 59 | 10% | 80% |  |
+| 60 | 9% | 70% |  |
+| 61 | 6% | 61% |  |
+| 62 | 3% | 55% | Last Result |
+| 63 | 2% | 52% | Median |
+| 64 | 2% | 50% |  |
+| 65 | 3% | 48% |  |
+| 66 | 6% | 44% |  |
+| 67 | 8% | 39% |  |
+| 68 | 8% | 31% |  |
+| 69 | 8% | 23% |  |
+| 70 | 6% | 15% |  |
+| 71 | 4% | 9% |  |
 | 72 | 3% | 5% |  |
-| 73 | 1.4% | 2% |  |
+| 73 | 1.3% | 2% |  |
 | 74 | 0.6% | 0.9% |  |
 | 75 | 0.2% | 0.3% |  |
 | 76 | 0.1% | 0.1% | Majority |
 | 77 | 0% | 0% |  |
-
-### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Les Engagés
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–cdv–vld–mr–vooruit–le.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0.1% | 100% |  |
-| 60 | 0.3% | 99.9% |  |
-| 61 | 0.7% | 99.6% |  |
-| 62 | 2% | 98.9% |  |
-| 63 | 4% | 97% |  |
-| 64 | 8% | 93% |  |
-| 65 | 12% | 85% |  |
-| 66 | 17% | 73% |  |
-| 67 | 18% | 56% | Median |
-| 68 | 16% | 38% |  |
-| 69 | 11% | 22% |  |
-| 70 | 6% | 11% |  |
-| 71 | 3% | 5% |  |
-| 72 | 1.2% | 2% | Last Result |
-| 73 | 0.4% | 0.5% |  |
-| 74 | 0.1% | 0.1% |  |
-| 75 | 0% | 0% |  |
 
 ### Parti Socialiste – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Vooruit – Ecolo – Groen
 
@@ -716,22 +756,26 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 59 | 0% | 100% |  |
-| 60 | 0.2% | 99.9% |  |
-| 61 | 0.7% | 99.7% |  |
-| 62 | 2% | 99.0% |  |
-| 63 | 5% | 97% |  |
-| 64 | 8% | 92% |  |
-| 65 | 13% | 84% |  |
-| 66 | 16% | 71% | Median |
-| 67 | 17% | 55% |  |
-| 68 | 14% | 38% |  |
-| 69 | 11% | 23% |  |
-| 70 | 7% | 13% |  |
-| 71 | 4% | 6% |  |
-| 72 | 2% | 2% |  |
-| 73 | 0.6% | 0.8% |  |
-| 74 | 0.2% | 0.2% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.3% | 99.9% |  |
+| 57 | 0.8% | 99.6% |  |
+| 58 | 2% | 98.8% |  |
+| 59 | 3% | 97% |  |
+| 60 | 6% | 94% |  |
+| 61 | 8% | 88% |  |
+| 62 | 10% | 79% |  |
+| 63 | 11% | 69% |  |
+| 64 | 10% | 58% | Median |
+| 65 | 10% | 48% |  |
+| 66 | 9% | 38% |  |
+| 67 | 9% | 29% |  |
+| 68 | 8% | 21% |  |
+| 69 | 6% | 13% |  |
+| 70 | 4% | 8% |  |
+| 71 | 2% | 4% |  |
+| 72 | 1.0% | 2% |  |
+| 73 | 0.4% | 0.5% |  |
+| 74 | 0.1% | 0.1% |  |
 | 75 | 0% | 0% |  |
 | 76 | 0% | 0% | Last Result, Majority |
 
@@ -741,24 +785,22 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 56 | 0.1% | 100% |  |
-| 57 | 0.3% | 99.9% |  |
-| 58 | 0.7% | 99.6% |  |
-| 59 | 2% | 99.0% |  |
-| 60 | 3% | 97% |  |
-| 61 | 6% | 94% |  |
-| 62 | 10% | 88% |  |
-| 63 | 14% | 78% |  |
-| 64 | 16% | 64% | Median |
-| 65 | 16% | 48% |  |
-| 66 | 13% | 32% |  |
-| 67 | 9% | 19% | Last Result |
-| 68 | 5% | 10% |  |
-| 69 | 3% | 4% |  |
-| 70 | 1.1% | 2% |  |
-| 71 | 0.4% | 0.5% |  |
-| 72 | 0.1% | 0.1% |  |
-| 73 | 0% | 0% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.4% | 99.8% |  |
+| 57 | 1.2% | 99.4% |  |
+| 58 | 3% | 98% |  |
+| 59 | 6% | 95% |  |
+| 60 | 10% | 90% |  |
+| 61 | 14% | 80% |  |
+| 62 | 16% | 67% | Median |
+| 63 | 16% | 50% |  |
+| 64 | 14% | 34% |  |
+| 65 | 10% | 20% |  |
+| 66 | 6% | 10% |  |
+| 67 | 3% | 4% | Last Result |
+| 68 | 0.8% | 1.1% |  |
+| 69 | 0.2% | 0.3% |  |
+| 70 | 0% | 0% |  |
 
 ### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés
 
@@ -772,47 +814,24 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 1.2% | 99.2% |  |
 | 52 | 2% | 98% |  |
 | 53 | 4% | 96% |  |
-| 54 | 7% | 91% |  |
-| 55 | 10% | 85% |  |
-| 56 | 13% | 75% |  |
-| 57 | 15% | 62% |  |
-| 58 | 14% | 47% | Median |
-| 59 | 12% | 32% |  |
-| 60 | 9% | 20% |  |
-| 61 | 6% | 11% |  |
-| 62 | 3% | 6% |  |
-| 63 | 1.5% | 2% |  |
-| 64 | 0.6% | 0.9% |  |
-| 65 | 0.2% | 0.3% |  |
-| 66 | 0.1% | 0.1% |  |
-| 67 | 0% | 0% |  |
-| 68 | 0% | 0% | Last Result |
-
-### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–ecolo–groen–le.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0% | 100% |  |
-| 47 | 0.1% | 99.9% |  |
-| 48 | 0.4% | 99.8% |  |
-| 49 | 1.0% | 99.4% |  |
-| 50 | 2% | 98% |  |
-| 51 | 5% | 96% |  |
-| 52 | 8% | 91% |  |
-| 53 | 12% | 83% |  |
-| 54 | 16% | 71% |  |
-| 55 | 17% | 55% | Median |
-| 56 | 15% | 37% |  |
-| 57 | 12% | 23% |  |
-| 58 | 7% | 11% |  |
-| 59 | 3% | 5% |  |
-| 60 | 1.2% | 2% |  |
-| 61 | 0.4% | 0.5% |  |
-| 62 | 0.1% | 0.1% |  |
-| 63 | 0% | 0% |  |
-| 64 | 0% | 0% | Last Result |
+| 54 | 6% | 92% |  |
+| 55 | 8% | 86% |  |
+| 56 | 9% | 78% |  |
+| 57 | 8% | 70% |  |
+| 58 | 7% | 61% |  |
+| 59 | 5% | 55% | Median |
+| 60 | 5% | 50% |  |
+| 61 | 7% | 45% |  |
+| 62 | 9% | 38% |  |
+| 63 | 9% | 29% |  |
+| 64 | 8% | 20% |  |
+| 65 | 6% | 12% |  |
+| 66 | 3% | 6% |  |
+| 67 | 2% | 3% |  |
+| 68 | 0.7% | 1.2% | Last Result |
+| 69 | 0.3% | 0.4% |  |
+| 70 | 0.1% | 0.1% |  |
+| 71 | 0% | 0% |  |
 
 ### Parti Socialiste – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Les Engagés
 
@@ -823,21 +842,53 @@ Only polls for which at least the sample size has been published are included in
 | 46 | 0% | 100% |  |
 | 47 | 0.2% | 99.9% |  |
 | 48 | 0.4% | 99.8% |  |
-| 49 | 1.1% | 99.3% |  |
+| 49 | 1.0% | 99.4% |  |
 | 50 | 2% | 98% |  |
-| 51 | 5% | 96% |  |
-| 52 | 9% | 91% |  |
-| 53 | 14% | 82% |  |
-| 54 | 18% | 68% |  |
-| 55 | 20% | 50% | Median |
-| 56 | 15% | 30% |  |
-| 57 | 8% | 15% |  |
-| 58 | 5% | 7% |  |
-| 59 | 2% | 2% |  |
-| 60 | 0.5% | 0.7% |  |
-| 61 | 0.1% | 0.2% |  |
-| 62 | 0% | 0% |  |
-| 63 | 0% | 0% | Last Result |
+| 51 | 4% | 96% |  |
+| 52 | 6% | 92% |  |
+| 53 | 9% | 86% |  |
+| 54 | 11% | 78% |  |
+| 55 | 11% | 67% |  |
+| 56 | 8% | 56% | Median |
+| 57 | 6% | 48% |  |
+| 58 | 9% | 42% |  |
+| 59 | 10% | 33% |  |
+| 60 | 9% | 23% |  |
+| 61 | 7% | 14% |  |
+| 62 | 4% | 7% |  |
+| 63 | 2% | 3% | Last Result |
+| 64 | 0.7% | 0.9% |  |
+| 65 | 0.2% | 0.2% |  |
+| 66 | 0% | 0.1% |  |
+| 67 | 0% | 0% |  |
+
+### Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur – Ecolo – Groen – Les Engagés
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-cdv–vld–mr–ecolo–groen–le.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 46 | 0% | 100% |  |
+| 47 | 0.1% | 99.9% |  |
+| 48 | 0.4% | 99.8% |  |
+| 49 | 0.9% | 99.4% |  |
+| 50 | 2% | 98.5% |  |
+| 51 | 4% | 96% |  |
+| 52 | 6% | 92% |  |
+| 53 | 9% | 86% |  |
+| 54 | 12% | 77% |  |
+| 55 | 13% | 65% |  |
+| 56 | 11% | 52% | Median |
+| 57 | 10% | 42% |  |
+| 58 | 10% | 31% |  |
+| 59 | 8% | 21% |  |
+| 60 | 6% | 13% |  |
+| 61 | 4% | 7% |  |
+| 62 | 2% | 3% |  |
+| 63 | 0.9% | 1.4% |  |
+| 64 | 0.4% | 0.5% | Last Result |
+| 65 | 0.1% | 0.2% |  |
+| 66 | 0% | 0% |  |
 
 ### Nieuw-Vlaamse Alliantie – Christen-Democratisch en Vlaams – Open Vlaamse Liberalen en Democraten – Mouvement Réformateur
 
@@ -848,22 +899,22 @@ Only polls for which at least the sample size has been published are included in
 | 42 | 0.1% | 100% |  |
 | 43 | 0.3% | 99.9% |  |
 | 44 | 0.8% | 99.6% |  |
-| 45 | 2% | 98.8% |  |
-| 46 | 5% | 96% |  |
-| 47 | 9% | 91% |  |
-| 48 | 15% | 83% |  |
-| 49 | 17% | 67% |  |
-| 50 | 18% | 50% | Median |
-| 51 | 14% | 32% |  |
-| 52 | 9% | 18% |  |
-| 53 | 5% | 9% |  |
-| 54 | 2% | 4% |  |
-| 55 | 1.0% | 2% |  |
-| 56 | 0.4% | 0.5% |  |
-| 57 | 0.1% | 0.1% |  |
-| 58 | 0% | 0% |  |
-| 59 | 0% | 0% |  |
-| 60 | 0% | 0% |  |
+| 45 | 2% | 98.9% |  |
+| 46 | 4% | 97% |  |
+| 47 | 6% | 92% |  |
+| 48 | 11% | 86% |  |
+| 49 | 12% | 75% |  |
+| 50 | 13% | 64% | Median |
+| 51 | 12% | 50% |  |
+| 52 | 11% | 38% |  |
+| 53 | 10% | 27% |  |
+| 54 | 7% | 17% |  |
+| 55 | 5% | 9% |  |
+| 56 | 3% | 5% |  |
+| 57 | 1.2% | 2% |  |
+| 58 | 0.4% | 0.7% |  |
+| 59 | 0.2% | 0.2% |  |
+| 60 | 0% | 0.1% |  |
 | 61 | 0% | 0% |  |
 | 62 | 0% | 0% |  |
 | 63 | 0% | 0% | Last Result |
@@ -874,22 +925,23 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 43 | 0.2% | 100% |  |
-| 44 | 0.7% | 99.8% |  |
-| 45 | 2% | 99.1% |  |
-| 46 | 6% | 97% |  |
-| 47 | 10% | 91% |  |
-| 48 | 16% | 81% |  |
-| 49 | 18% | 65% | Median |
-| 50 | 17% | 47% |  |
-| 51 | 13% | 30% |  |
-| 52 | 9% | 16% |  |
-| 53 | 5% | 8% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.4% | 99.9% |  |
+| 43 | 1.1% | 99.5% |  |
+| 44 | 2% | 98% |  |
+| 45 | 5% | 96% |  |
+| 46 | 9% | 91% |  |
+| 47 | 13% | 82% |  |
+| 48 | 16% | 70% | Median |
+| 49 | 16% | 54% |  |
+| 50 | 14% | 38% |  |
+| 51 | 10% | 23% |  |
+| 52 | 7% | 13% |  |
+| 53 | 4% | 6% |  |
 | 54 | 2% | 3% |  |
-| 55 | 0.8% | 1.1% | Last Result |
-| 56 | 0.2% | 0.3% |  |
-| 57 | 0% | 0.1% |  |
-| 58 | 0% | 0% |  |
+| 55 | 0.7% | 0.9% | Last Result |
+| 56 | 0.2% | 0.2% |  |
+| 57 | 0% | 0% |  |
 
 ### Parti Socialiste – Christen-Democratisch en Vlaams – Vooruit – Les Engagés
 
@@ -899,19 +951,19 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 39 | 0.1% | 100% |  |
 | 40 | 0.3% | 99.9% |  |
-| 41 | 0.7% | 99.6% |  |
-| 42 | 2% | 98.9% |  |
-| 43 | 3% | 97% |  |
-| 44 | 6% | 94% |  |
-| 45 | 11% | 87% |  |
-| 46 | 17% | 76% | Last Result |
-| 47 | 20% | 59% | Median |
-| 48 | 17% | 39% |  |
-| 49 | 12% | 23% |  |
-| 50 | 7% | 11% |  |
-| 51 | 3% | 5% |  |
-| 52 | 1.1% | 2% |  |
-| 53 | 0.4% | 0.5% |  |
+| 41 | 0.8% | 99.6% |  |
+| 42 | 2% | 98.8% |  |
+| 43 | 4% | 97% |  |
+| 44 | 8% | 93% |  |
+| 45 | 12% | 85% |  |
+| 46 | 17% | 73% | Last Result, Median |
+| 47 | 19% | 56% |  |
+| 48 | 16% | 37% |  |
+| 49 | 11% | 21% |  |
+| 50 | 6% | 10% |  |
+| 51 | 3% | 4% |  |
+| 52 | 1.0% | 1.4% |  |
+| 53 | 0.3% | 0.4% |  |
 | 54 | 0.1% | 0.1% |  |
 | 55 | 0% | 0% |  |
 
@@ -923,21 +975,28 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 29 | 0.1% | 100% |  |
 | 30 | 0.2% | 99.9% |  |
-| 31 | 0.5% | 99.7% |  |
-| 32 | 1.2% | 99.2% |  |
-| 33 | 3% | 98% |  |
-| 34 | 5% | 95% |  |
-| 35 | 10% | 90% |  |
-| 36 | 14% | 81% |  |
-| 37 | 18% | 66% |  |
-| 38 | 19% | 48% | Median |
-| 39 | 16% | 29% |  |
-| 40 | 8% | 14% |  |
-| 41 | 4% | 6% |  |
-| 42 | 1.4% | 2% |  |
-| 43 | 0.3% | 0.4% | Last Result |
-| 44 | 0.1% | 0.1% |  |
-| 45 | 0% | 0% |  |
+| 31 | 0.5% | 99.8% |  |
+| 32 | 1.1% | 99.3% |  |
+| 33 | 2% | 98% |  |
+| 34 | 4% | 96% |  |
+| 35 | 6% | 92% |  |
+| 36 | 8% | 86% |  |
+| 37 | 9% | 78% |  |
+| 38 | 9% | 68% |  |
+| 39 | 7% | 59% |  |
+| 40 | 4% | 52% | Median |
+| 41 | 5% | 48% |  |
+| 42 | 8% | 44% |  |
+| 43 | 10% | 36% | Last Result |
+| 44 | 9% | 26% |  |
+| 45 | 7% | 17% |  |
+| 46 | 5% | 9% |  |
+| 47 | 3% | 4% |  |
+| 48 | 1.1% | 2% |  |
+| 49 | 0.4% | 0.6% |  |
+| 50 | 0.1% | 0.2% |  |
+| 51 | 0% | 0.1% |  |
+| 52 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -945,4 +1004,4 @@ Only polls for which at least the sample size has been published are included in
 + **Number of polls included in this average:** 2
 + **Lowest number of simulations done in a poll included in this average:** 1,048,576
 + **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 0.62%
++ **Error estimate:** 1.17%
