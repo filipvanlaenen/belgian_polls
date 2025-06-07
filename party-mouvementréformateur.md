@@ -10,7 +10,8 @@ Last result: **10.3%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 8.2–8.6% | 8.2–8.6% | 8.1–8.6% | 7.9–8.6% |
+| N/A | [Poll Average](average.html) | 8.3% | 8.1–8.5% | 8.0–8.5% | 7.9–8.5% | 7.7–8.5% |
+| [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.0% | 8.0–8.4% | 7.9–8.4% | 7.8–8.4% | 7.6–8.4% |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 9.0% | 8.2–8.5% | 8.2–8.5% | 8.1–8.5% | 8.0–8.5% |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.2% | 8.2–8.6% | 8.1–8.6% | 8.0–8.6% | 7.8–8.6% |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 9.8% | 8.8–9.2% | 8.7–9.2% | 8.6–9.2% | 8.4–9.2% |
@@ -22,11 +23,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 87% | 100% | Median |
-| 8.5–9.5% | 100% | 13% |  |
-| 9.5–10.5% | 100% | 0% | Last Result |
-| 10.5–11.5% | 1.0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.1% | 100% |  |
+| 7.5–8.5% | 100% | 99.9% | Median |
+| 8.5–9.5% | 100% | 0% |  |
+| 9.5–10.5% | 75% | 0% | Last Result |
+| 10.5–11.5% | 0.1% | 0% |  |
 
 
 ## Seats
@@ -37,7 +39,8 @@ Last result: **20** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 15–18 | 14–20 |
+| [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 16–18 | 15–18 | 15–19 | 14–20 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
 | [4–11 March 2025](2025-03-11-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 17 | 17–19 | 16–19 | 16–20 | 15–21 |
 | [18–21 November 2024](2024-11-21-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 18 | 17–20 | 16–21 | 16–21 | 16–22 |
@@ -51,14 +54,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.2% | 100% |  |
-| 15 | 0.8% | 99.8% |  |
-| 16 | 6% | 99.1% |  |
-| 17 | 56% | 94% | Median |
-| 18 | 31% | 37% |  |
-| 19 | 4% | 6% |  |
-| 20 | 2% | 2% | Last Result |
-| 21 | 0.4% | 0.4% |  |
+| 14 | 1.0% | 100% |  |
+| 15 | 2% | 98.9% |  |
+| 16 | 7% | 97% |  |
+| 17 | 59% | 89% | Median |
+| 18 | 28% | 30% |  |
+| 19 | 2% | 2% |  |
+| 20 | 0.5% | 0.6% | Last Result |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 
