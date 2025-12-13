@@ -10,7 +10,8 @@ Last result: **13.8%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.7% | 15.1–15.9% | 14.9–16.0% | 14.7–16.0% | 14.3–16.0% |
+| N/A | [Poll Average](average.html) | 14.0% | 13.5–14.3% | 13.3–14.3% | 13.1–14.3% | 12.7–14.4% |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 15.3% | 13.5–14.3% | 13.3–14.3% | 13.1–14.3% | 12.7–14.4% |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 16.9% | 15.1–15.9% | 14.9–16.0% | 14.7–16.0% | 14.3–16.0% |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14.5% | 13.1–14.9% | 12.9–15.1% | 12.6–15.2% | 12.1–15.3% |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 13.0% | 11.8–12.3% | 11.7–12.4% | 11.6–12.4% | 11.3–12.4% |
@@ -24,14 +25,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 2% | 100% | Last Result |
-| 14.5–15.5% | 35% | 98% |  |
-| 15.5–16.5% | 100% | 63% | Median |
-| 16.5–17.5% | 100% | 0% |  |
-| 17.5–18.5% | 100% | 0% |  |
-| 18.5–19.5% | 26% | 0% |  |
-| 19.5–20.5% | 1.5% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.3% | 100% |  |
+| 12.5–13.5% | 12% | 99.7% |  |
+| 13.5–14.5% | 100% | 87% | Last Result, Median |
+| 14.5–15.5% | 100% | 0% |  |
+| 15.5–16.5% | 100% | 0% |  |
+| 16.5–17.5% | 48% | 0% |  |
+| 17.5–18.5% | 3% | 0% |  |
 
 
 ## Seats
@@ -42,7 +43,8 @@ Last result: **20** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 23–29 | 23–30 | 22–31 |
+| N/A | [Poll Average](average.html) | 23 | 21–25 | 21–26 | 20–26 | 19–28 |
+| [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 23 | 21–25 | 21–26 | 20–26 | 19–28 |
 | [16–23 September 2025](2025-09-23-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 26 | 24–28 | 23–29 | 23–30 | 22–31 |
 | [27 May–3 June 2025](2025-06-03-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 22 | 20–24 | 19–24 | 19–24 | 17–25 |
 | [3–24 March 2025](2025-03-24-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 20 | 18–21 | 18–21 | 17–22 | 16–23 |
@@ -58,18 +60,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0% | 100% | Last Result |
-| 21 | 0.2% | 100% |  |
-| 22 | 1.1% | 99.8% |  |
-| 23 | 4% | 98.7% |  |
-| 24 | 18% | 95% |  |
-| 25 | 22% | 77% |  |
-| 26 | 25% | 55% | Median |
-| 27 | 14% | 30% |  |
-| 28 | 8% | 16% |  |
-| 29 | 5% | 8% |  |
-| 30 | 3% | 3% |  |
-| 31 | 0.5% | 0.5% |  |
-| 32 | 0% | 0% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.8% | 99.8% |  |
+| 20 | 3% | 99.0% | Last Result |
+| 21 | 6% | 96% |  |
+| 22 | 12% | 90% |  |
+| 23 | 28% | 78% | Median |
+| 24 | 31% | 50% |  |
+| 25 | 13% | 19% |  |
+| 26 | 4% | 6% |  |
+| 27 | 1.4% | 2% |  |
+| 28 | 0.6% | 0.8% |  |
+| 29 | 0.1% | 0.2% |  |
+| 30 | 0% | 0% |  |
 
 
