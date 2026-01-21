@@ -2,7 +2,7 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | N-VA | VB | MR | PVDA | PTB | VOORUIT | PS | CD&V | LE | VLD | GROEN | ECOLO | DÉFI | CN | TFA |
+| Period     | Polling firm/Commissioner(s) | N-VA | VB | MR | PVDA | PTB | VOORUIT | PS | CD&V | LE | Anders | GROEN | ECOLO | DÉFI | CN | TFA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 16.7% <br> 24 | 13.8% <br> 20 | 10.3% <br> 20 | 5.1% <br> 7 | 4.8% <br> 8 | 8.1% <br> 13 | 8.0% <br> 16 | 8.0% <br> 11 | 6.8% <br> 14 | 5.4% <br> 7 | 4.6% <br> 6 | 2.9% <br> 3 | 1.2% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14–15% <br> 21–28 | 13–14% <br> 20–26 | 7% <br> 13–17 | 5–7% <br> 7–11 | 6–7% <br> 12–16 | 6–8% <br> 8–12 | 9–10% <br> 18–21 | 7–10% <br> 10–15 | 5–6% <br> 10–12 | 4–5% <br> 2–7 | 4–5% <br> 3–6 | 2–3% <br> 2–5 | 1% <br> 0–1 | 1% <br> 0 | 0% <br> 0 |
@@ -28,7 +28,7 @@ Only polls for which at least the sample size has been published are included in
 + **PS:** Parti Socialiste
 + **CD&V:** Christen-Democratisch en Vlaams
 + **LE:** Les Engagés
-+ **VLD:** Open Vlaamse Liberalen en Democraten
++ **Anders:** Anders
 + **GROEN:** Groen
 + **ECOLO:** Ecolo
 + **DÉFI:** DéFI
