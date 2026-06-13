@@ -2,9 +2,10 @@
 
 The table below lists all polls registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | N-VA | VB | MR | PVDA | PTB | VOORUIT | PS | CD&V | LE | Anders | GROEN | ECOLO | DÉFI | CN | TFA |
+| Period     | Polling firm/Commissioner(s) | N-VA | VB | MR | PVDA | PTB | VOORUIT | PS | CD&V | LE | ANDERS | GROEN | ECOLO | DÉFI | CN | TFA |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 16.7% <br> 24 | 13.8% <br> 20 | 10.3% <br> 20 | 5.1% <br> 7 | 4.8% <br> 8 | 8.1% <br> 13 | 8.0% <br> 16 | 8.0% <br> 11 | 6.8% <br> 14 | 5.4% <br> 7 | 4.6% <br> 6 | 2.9% <br> 3 | 1.2% <br> 1 | 0.9% <br> 0 | 0.4% <br> 0 |
+| [1–9 June 2026](2026-06-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 12–13% <br> 18–25 | 14–16% <br> 23–30 | 6–7% <br> 11–15 | 5–7% <br> 7–11 | 6% <br> 11–15 | 7–9% <br> 9–14 | 9–10% <br> 17–21 | 7–9% <br> 10–13 | 6% <br> 10–15 | 3–5% <br> 2–7 | 4–5% <br> 3–6 | 3% <br> 3–7 | 1% <br> 0–1 | 1% <br> 0 | 0% <br> 0 |
 | [9 March–5 April 2026](2026-04-05-BpactandUniversiteitAntwerpenULB.html) | Bpact and Universiteit Antwerpen & ULB <br> De Standaard, RTBF and VRT | 16–17% <br> 25–31 | 12–13% <br> 19–24 | 7% <br> 12–15 | 6–7% <br> 8–11 | 7% <br> 14–17 | 7–8% <br> 9–13 | 8% <br> 16–19 | 6–8% <br> 9–12 | 6% <br> 11–14 | 3–4% <br> 2–4 | 4–5% <br> 3–6 | 2% <br> 2–4 | 1% <br> 0–1 | 1% <br> 0 | N/A <br> N/A |
 | [2–9 March 2026](2026-03-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14–15% <br> 21–28 | 14–15% <br> 22–28 | 6–7% <br> 12–16 | 5–7% <br> 6–11 | 6–7% <br> 12–16 | 7–9% <br> 9–14 | 9% <br> 17–21 | 7–9% <br> 10–14 | 6% <br> 11–16 | 3–4% <br> 2–4 | 4–5% <br> 3–7 | 2–3% <br> 2–6 | 1% <br> 0–1 | 1% <br> 0 | 0% <br> 0 |
 | [1–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Het Laatste Nieuws, Le Soir, RTL TVi and VTM | 14–15% <br> 21–28 | 13–14% <br> 20–26 | 7% <br> 13–17 | 5–7% <br> 7–11 | 6–7% <br> 12–16 | 6–8% <br> 8–12 | 9–10% <br> 18–21 | 7–10% <br> 10–15 | 5–6% <br> 10–12 | 4–5% <br> 2–7 | 4–5% <br> 3–6 | 2–3% <br> 2–5 | 1% <br> 0–1 | 1% <br> 0 | 0% <br> 0 |
@@ -30,7 +31,7 @@ Only polls for which at least the sample size has been published are included in
 + **PS:** Parti Socialiste
 + **CD&V:** Christen-Democratisch en Vlaams
 + **LE:** Les Engagés
-+ **Anders:** Anders
++ **ANDERS:** Anders
 + **GROEN:** Groen
 + **ECOLO:** Ecolo
 + **DÉFI:** DéFI
